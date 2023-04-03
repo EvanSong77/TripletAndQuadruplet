@@ -1,0 +1,1300 @@
+{'sentence': 'But the staff was so horrible to us .', 'labels': [[(2, 3), (5, 6), 2]]}
+{'sentence': "To be completely fair , the only redeeming factor was the food , which was above average , but could n't make up for all the other deficiencies of Teodora .", 'labels': [[(11, 12), (15, 17), 1]]}
+{'sentence': "The food is uniformly exceptional , with a very capable kitchen which will proudly whip up whatever you feel like eating , whether it 's on the menu or not .", 'labels': [[(1, 2), (4, 5), 1], [(10, 11), (9, 10), 1]]}
+{'sentence': 'Our agreed favorite is the orrechiete with sausage and chicken ( usually the waiters are kind enough to split the dish in half so you get to sample both meats ) .', 'labels': [[(5, 10), (2, 3), 1], [(13, 14), (15, 16), 1]]}
+{'sentence': 'The Bagels have an outstanding taste with a terrific texture , both chewy yet not gummy .', 'labels': [[(1, 2), (4, 5), 1], [(1, 2), (8, 9), 1], [(1, 2), (12, 13), 1], [(1, 2), (15, 16), 1]]}
+{'sentence': 'Nevertheless the food itself is pretty good .', 'labels': [[(2, 3), (6, 7), 1]]}
+{'sentence': 'They did not have mayonnaise , forgot our toast , left out ingredients ( ie cheese in an omelet ) , below hot temperatures and the bacon was so over cooked it crumbled on the plate when you touched it .', 'labels': [[(8, 9), (6, 7), 2], [(15, 16), (10, 12), 0], [(26, 27), (29, 31), 2]]}
+{'sentence': 'The design and atmosphere is just as good .', 'labels': [[(1, 2), (7, 8), 1]]}
+{'sentence': 'The seats are uncomfortable if you are sitting against the wall on wooden benches .', 'labels': [[(1, 2), (3, 4), 2]]}
+{'sentence': "My suggestion is to eat family style because you 'll want to try the other dishes .", 'labels': [[(4, 7), (1, 2), 1]]}
+{'sentence': 'Best of all is the warm vibe , the owner is super friendly and service is fast .', 'labels': [[(6, 7), (5, 6), 1], [(9, 10), (12, 13), 1], [(14, 15), (16, 17), 1]]}
+{'sentence': "Faan 's got a great concept but a little rough on the delivery .", 'labels': [[(12, 13), (9, 10), 2]]}
+{'sentence': "From the incredible food , to the warm atmosphere , to the friendly service , this downtown neighborhood spot does n't miss a beat .", 'labels': [[(3, 4), (2, 3), 1], [(8, 9), (7, 8), 1], [(13, 14), (12, 13), 1]]}
+{'sentence': "Great food at REASONABLE prices , makes for an evening that ca n't be beat !", 'labels': [[(1, 2), (0, 1), 1], [(4, 5), (3, 4), 1]]}
+{'sentence': 'this little place has a cute interior decor and affordable city prices .', 'labels': [[(6, 8), (5, 6), 1], [(11, 12), (9, 10), 1]]}
+{'sentence': 'Two words : Free wine .', 'labels': [[(4, 5), (3, 4), 1]]}
+{'sentence': 'The price is reasonable although the service is poor .', 'labels': [[(1, 2), (3, 4), 1], [(6, 7), (8, 9), 2]]}
+{'sentence': 'The quantity is also very good , you will come out satisfied .', 'labels': [[(1, 2), (5, 6), 1], [(1, 2), (11, 12), 1]]}
+{'sentence': 'The fried rice is amazing here .', 'labels': [[(1, 3), (4, 5), 1]]}
+{'sentence': 'Three courses - choices include excellent mussels , puff pastry goat cheese and salad with a delicious dressing , and a hanger steak au poivre that is out of this world .', 'labels': [[(6, 7), (5, 6), 1], [(17, 18), (16, 17), 1], [(21, 25), (27, 31), 1]]}
+{'sentence': 'The place is so cool and the service is prompt and curtious .', 'labels': [[(1, 2), (4, 5), 1], [(7, 8), (9, 10), 1], [(7, 8), (11, 12), 1]]}
+{'sentence': "At the end you 're left with a mild broth with noodles that you can slurp out of a cup .", 'labels': [[(9, 12), (8, 9), 1]]}
+{'sentence': 'I just wonder how you can have such a delicious meal for such little money .', 'labels': [[(10, 11), (9, 10), 1], [(14, 15), (13, 14), 1]]}
+{'sentence': 'The food was delicious but do not come here on a empty stomach .', 'labels': [[(1, 2), (3, 4), 1]]}
+{'sentence': 'The wine list is excellent .', 'labels': [[(1, 3), (4, 5), 1]]}
+{'sentence': "Ive been to many Thai restaurants in Manhattan before , and Toons is by far the best Thai food Ive had ( except for my mom 's of course ) .", 'labels': [[(17, 19), (16, 17), 1]]}
+{'sentence': 'This is a consistently great place to dine for lunch or dinner .', 'labels': [[(7, 8), (4, 5), 1]]}
+{'sentence': 'Nice atmosphere , the service was very pleasant and the desert was good .', 'labels': [[(1, 2), (0, 1), 1], [(4, 5), (7, 8), 1], [(10, 11), (12, 13), 1]]}
+{'sentence': 'Fabulous service , fantastic food , and a chilled out atmosphere and environment .', 'labels': [[(1, 2), (0, 1), 1], [(4, 5), (3, 4), 1], [(10, 11), (8, 10), 1]]}
+{'sentence': 'I liked the beer selection !', 'labels': [[(3, 5), (1, 2), 1]]}
+{'sentence': 'Go here for a romantic dinner but not for an all out wow dining experience .', 'labels': [[(5, 6), (4, 5), 1], [(13, 14), (12, 13), 1]]}
+{'sentence': 'With the great variety on the menu , I eat here often and never get bored .', 'labels': [[(6, 7), (2, 4), 1]]}
+{'sentence': 'The menu is very limited - i think we counted 4 or 5 entrees .', 'labels': [[(1, 2), (4, 5), 2]]}
+{'sentence': 'Not too crazy about their sake martini .', 'labels': [[(5, 7), (2, 3), 2]]}
+{'sentence': 'Great bagels , spreads and a good place to hang out in .', 'labels': [[(1, 2), (0, 1), 1]]}
+{'sentence': "The service varys from day to day- sometimes they 're very nice , and sometimes not .", 'labels': [[(1, 2), (2, 3), 1]]}
+{'sentence': 'Unfortunately , the food is outstanding , but everything else about this restaurant is the pits .', 'labels': [[(3, 4), (5, 6), 1]]}
+{'sentence': 'We always have a delicious meal and always leave feeling satisfied .', 'labels': [[(5, 6), (4, 5), 1]]}
+{'sentence': 'First went here to enjoy their garden terrace .', 'labels': [[(6, 8), (4, 5), 1]]}
+{'sentence': 'The pizza was pretty good and huge .', 'labels': [[(1, 2), (4, 5), 1], [(1, 2), (6, 7), 1]]}
+{'sentence': "The cuisine from what I 've gathered is authentic Taiwanese , though its very different from what I 've been accustomed to in Taipei .", 'labels': [[(1, 2), (14, 15), 0]]}
+{'sentence': 'They are often crowded on the weekends but they are efficient and accurate with their service .', 'labels': [[(15, 16), (10, 11), 1], [(15, 16), (12, 13), 1]]}
+{'sentence': 'All my co-workers were amazed at how small the dish was .', 'labels': [[(9, 10), (7, 8), 2]]}
+{'sentence': 'The wait staff is friendly , and the food has gotten better and better !', 'labels': [[(1, 3), (4, 5), 1], [(8, 9), (11, 12), 1], [(8, 9), (13, 14), 1]]}
+{'sentence': 'It may be a bit packed on weekends , but the vibe is good and it is the best French food you will find in the area .', 'labels': [[(11, 12), (13, 14), 1], [(19, 21), (18, 19), 1]]}
+{'sentence': 'Le Pere Pinard has a $ 15 pre-theater menu that is outstanding .', 'labels': [[(7, 9), (11, 12), 1]]}
+{'sentence': 'I also ordered for delivery and the restaurant forgot half the order .', 'labels': [[(4, 5), (8, 9), 2]]}
+{'sentence': 'The strong scents coming from the left and right of me negatively affected my taste buds .', 'labels': [[(2, 3), (1, 2), 2]]}
+{'sentence': 'We had the lobster sandwich and it was FANTASTIC .', 'labels': [[(3, 5), (8, 9), 1]]}
+{'sentence': 'Though the Spider Roll may look like a challenge to eat , with soft shell crab hanging out of the roll , it is well worth the price you pay for them .', 'labels': [[(2, 4), (8, 11), 1], [(14, 16), (13, 14), 1], [(27, 28), (24, 26), 1]]}
+{'sentence': 'Deep Fried Skewers are good and still rare to find in NYC .', 'labels': [[(0, 3), (4, 5), 1], [(0, 3), (7, 8), 1]]}
+{'sentence': 'I also recommend the rice dishes or the different varieties of congee ( rice porridge ) .', 'labels': [[(4, 6), (2, 3), 1]]}
+{'sentence': 'Their tuna tartar appetizer is to die for .', 'labels': [[(1, 4), (6, 8), 1]]}
+{'sentence': "An oasis of refinement : Food , though somewhat uneven , often reaches the pinnacles of new American fine cuisine - chef 's passion ( and kitchen 's precise execution ) is most evident in the fish dishes and soups .", 'labels': [[(5, 6), (9, 10), 1], [(21, 22), (23, 24), 1], [(26, 27), (28, 30), 1], [(36, 38), (33, 34), 1]]}
+{'sentence': 'I love Indian food and consider myself to be quite an expert on it .', 'labels': [[(2, 4), (1, 2), 1]]}
+{'sentence': 'Overall A oh ya even though there is waiting it is deff worth it', 'labels': [[(8, 9), (12, 13), 2]]}
+{'sentence': 'The lava cake dessert was incredible and I recommend it .', 'labels': [[(1, 4), (5, 6), 1], [(1, 4), (8, 9), 1]]}
+{'sentence': 'From the terrible service , to the bland food , not to mention the unaccommodating managers , the overall experience was horrible .', 'labels': [[(3, 4), (2, 3), 2], [(8, 9), (7, 8), 2], [(15, 16), (14, 15), 2]]}
+{'sentence': "Lahore is a great place to duck into late-night when you need some really tasty food on the cheap -- you 'll likely have trouble finishing the amount of food you get for FOUR DOLLARS .", 'labels': [[(15, 16), (14, 15), 1]]}
+{'sentence': 'good selection of wines ranging from affordable to high end .', 'labels': [[(1, 4), (0, 1), 1]]}
+{'sentence': 'Nice restaurant overall , with classic upscale Italian decor .', 'labels': [[(7, 9), (5, 7), 1]]}
+{'sentence': 'Not impressed with the food .', 'labels': [[(4, 5), (0, 2), 2]]}
+{'sentence': "The wine selection ( by the glass and bottle ) is wonderful and I always recommend that friends make a reservation if they 're going to be in town .", 'labels': [[(1, 3), (11, 12), 1], [(20, 21), (15, 16), 0]]}
+{'sentence': "Service is highly refined : our seating was delayed 35 minutes past our reservation and the maitre d ' apologized and regularly kept us apprised of progress .", 'labels': [[(0, 1), (3, 4), 1], [(16, 17), (8, 9), 1]]}
+{'sentence': "Order the panang duck , it 's fantastic .", 'labels': [[(2, 4), (7, 8), 1]]}
+{'sentence': 'Food is usually very good , though ocasionally I wondered about freshmess of raw vegatables in side orders .', 'labels': [[(0, 1), (4, 5), 1], [(13, 15), (9, 10), 2]]}
+{'sentence': "Other than the crappy service from two individuals , it 's great .", 'labels': [[(4, 5), (3, 4), 2]]}
+{'sentence': 'They have authentic Indian at amazin prices .', 'labels': [[(3, 4), (2, 3), 1], [(6, 7), (5, 6), 1]]}
+{'sentence': 'Ambiance -- relaxed and stylish .', 'labels': [[(0, 1), (2, 3), 1], [(0, 1), (4, 5), 1]]}
+{'sentence': "Yes , they use fancy ingredients , but even fancy ingredients do n't make for good pizza unless someone knows how to get the crust right .", 'labels': [[(5, 6), (4, 5), 1], [(16, 17), (15, 16), 2]]}
+{'sentence': 'and yes Dal Bukhara is so dam good and so are all the kababs .', 'labels': [[(13, 14), (7, 8), 1]]}
+{'sentence': 'I look forward to eating here again', 'labels': [[(4, 5), (1, 3), 1]]}
+{'sentence': 'Tuk Tuk is one of those comfortable neighborhood joints where you know you will always have a good meal at a fair price .', 'labels': [[(18, 19), (17, 18), 1], [(22, 23), (21, 22), 1]]}
+{'sentence': 'A glass of Leaping Lizard , a glass of prosecco , and the mussels had everything happy .', 'labels': [[(7, 10), (16, 17), 1]]}
+{'sentence': 'Food was average and creme brulee was awful - the sugar was charred , not caramelized and smelled of kerosene .', 'labels': [[(0, 1), (2, 3), 0], [(4, 6), (7, 8), 2], [(10, 11), (12, 13), 2]]}
+{'sentence': 'Pizza and garlic knots are great as well , I order from them quite often and the delivery is always super quick !', 'labels': [[(0, 1), (5, 6), 1], [(17, 18), (20, 22), 1]]}
+{'sentence': 'For great chinese food nearby , you have Wu Liang Ye and Grand Sichuan just a block away .', 'labels': [[(2, 4), (1, 2), 1]]}
+{'sentence': 'Hats off to the chef .', 'labels': [[(4, 5), (0, 2), 1]]}
+{'sentence': 'Service could be improved but overall this is a place that understands the importance of little things ( the heavy , black , antique-seeming teapot , for one ) in the restaurant experience .', 'labels': [[(0, 1), (3, 4), 2], [(24, 25), (23, 24), 1]]}
+{'sentence': "The pizza is delicious - they use fresh mozzarella instead of the cheap , frozen , shredded cheese common to most pizzaria 's .", 'labels': [[(1, 2), (3, 4), 1], [(8, 9), (7, 8), 1], [(17, 18), (12, 13), 2], [(17, 18), (14, 15), 2], [(17, 18), (16, 17), 2]]}
+{'sentence': 'Its an excellent place to relax and the food is one of the best in the city of New York .', 'labels': [[(3, 4), (2, 3), 1], [(8, 9), (13, 14), 1]]}
+{'sentence': 'service is friendly , and never had a problem walking in and getting a table .', 'labels': [[(0, 1), (2, 3), 1], [(12, 15), (5, 9), 1]]}
+{'sentence': 'The atmosphere was crowded but it was a great bistro-type vibe .', 'labels': [[(1, 2), (3, 4), 1], [(9, 11), (8, 9), 1]]}
+{'sentence': 'First off , the waitress was completely unattentive the 2 times we saw her ( odd in a restaurant with 6 tables ) and got our order wrong .', 'labels': [[(4, 5), (7, 8), 2]]}
+{'sentence': 'The food was bland oily .', 'labels': [[(1, 2), (3, 5), 2]]}
+{'sentence': 'What is even better , is that the prices are very affordable as well , and the food is really good .', 'labels': [[(8, 9), (11, 12), 1], [(17, 18), (20, 21), 1]]}
+{'sentence': 'Our favorite meal is a pesto pizza , the house salad , and a good bottle of wine .', 'labels': [[(5, 7), (1, 2), 1], [(15, 18), (14, 15), 1]]}
+{'sentence': 'And Kruno , the beverage manager is the best bartender I have yet to come across .', 'labels': [[(9, 10), (8, 9), 1]]}
+{'sentence': 'I understand the area and folks you need not come here for the romantic , alluring ambiance or the five star service featuring a sommlier and a complicated maze of captain and back waiters - you come for the authentic foods , the tastes , the experiance .', 'labels': [[(16, 17), (13, 14), 1], [(16, 17), (15, 16), 1], [(21, 22), (19, 21), 1], [(30, 31), (27, 29), 1], [(40, 41), (39, 40), 1]]}
+{'sentence': "Eating in , the atmosphere saves it , but at your desk , it 's a very disappointing experience .", 'labels': [[(4, 5), (5, 6), 1]]}
+{'sentence': 'Granted the space is smaller than most , it is the best service you will find in even the largest of restaurants .', 'labels': [[(2, 3), (4, 5), 2], [(12, 13), (11, 12), 1]]}
+{'sentence': 'I love the atmorphere @ peep !', 'labels': [[(3, 4), (1, 2), 1]]}
+{'sentence': 'The service was attentive and her suggestions of menu items was right on the mark .', 'labels': [[(1, 2), (3, 4), 1], [(8, 10), (11, 12), 1]]}
+{'sentence': 'The other night we had the $ 30 three course meal and everything was delicious - if I could of licked the plate clean I would of .', 'labels': [[(8, 11), (14, 15), 1]]}
+{'sentence': "Even after getting pushed out by the no-class Famous Ray 's , Sal has risen again to carry on his father 's uncle 's legacies with a smile , true love for his community , and let 's not forget the Outstanding Pizza !", 'labels': [[(42, 43), (41, 42), 1]]}
+{'sentence': 'The environment is romantic , but the food is horrible , the service is pathetic , and gabriella lies about everything she could .', 'labels': [[(1, 2), (3, 4), 1], [(7, 8), (9, 10), 2], [(12, 13), (14, 15), 2]]}
+{'sentence': 'We had crawfish boiled and despite making a mess , it was a ton of fun and quite tasty as well .', 'labels': [[(2, 4), (15, 16), 1], [(2, 4), (18, 19), 1]]}
+{'sentence': 'What came to our table was burned beyond recognition and stringy .', 'labels': [[(4, 5), (6, 7), 0]]}
+{'sentence': 'I had the Pad Thai and the noodles were sticky .', 'labels': [[(3, 5), (9, 10), 2]]}
+{'sentence': 'The hostess is rude to the point of being offensive .', 'labels': [[(1, 2), (3, 4), 2], [(1, 2), (9, 10), 2]]}
+{'sentence': "If you 're craving for Haru 's great food , especially the House Roll , but ca n't stand the wait building outisde , head across the street to their Sake Bar !", 'labels': [[(8, 9), (7, 8), 1]]}
+{'sentence': "Succulent steaks cooked precisely to your desired 'doneness ' accompanied by salads and sides that do n't look like leafy road kill .", 'labels': [[(1, 2), (6, 7), 1]]}
+{'sentence': 'even the wine by the glass was good .', 'labels': [[(2, 6), (7, 8), 1]]}
+{'sentence': 'This dish is my favorite and I always get it when I go there and never get tired of it .', 'labels': [[(1, 2), (4, 5), 1]]}
+{'sentence': 'I also ordered the Change Mojito , which was out of this world .', 'labels': [[(4, 6), (9, 13), 1]]}
+{'sentence': 'The only thing more wonderful than the food ( which is exceptional ) is the service .', 'labels': [[(15, 16), (4, 5), 1], [(7, 8), (11, 12), 1]]}
+{'sentence': 'The food was just awful , ATROCIOUS actually .', 'labels': [[(1, 2), (4, 5), 2], [(1, 2), (6, 7), 2]]}
+{'sentence': 'The anti-pasta was excellent , especially the calamari , as were the filling pasta mains .', 'labels': [[(1, 2), (3, 4), 1]]}
+{'sentence': 'The waitress suggested glasses of wine that went very well with the food .', 'labels': [[(3, 6), (7, 13), 1]]}
+{'sentence': 'We are very particular about sushi and were both please with every choice which included : ceviche mix ( special ) , crab dumplings , assorted sashimi , sushi and rolls , two types of sake , and the banana tempura .', 'labels': [[(5, 6), (3, 4), 1], [(22, 24), (9, 10), 1]]}
+{'sentence': "Ok , so the servers wander around a little clueless , but there 's more than enough servers for the crowd they get -- it 's fine , you just have to make a small effort to get their attention .", 'labels': [[(4, 5), (9, 10), 1]]}
+{'sentence': 'Good luck getting a table .', 'labels': [[(2, 5), (0, 2), 2]]}
+{'sentence': 'The service is awful .', 'labels': [[(1, 2), (3, 4), 2]]}
+{'sentence': "The takeout menu says to keep an eye out for an expanded menu offering more italian dishes , I ca n't wait !", 'labels': [[(12, 13), (11, 12), 1], [(15, 17), (14, 15), 1]]}
+{'sentence': 'The pizza is good though .', 'labels': [[(1, 2), (3, 4), 1]]}
+{'sentence': 'bottles of wine are cheap and good .', 'labels': [[(0, 3), (4, 5), 1], [(0, 3), (6, 7), 1]]}
+{'sentence': 'You must have the crabmeat lasagna which is out of this world and the chocolate bread pudding for dessert .', 'labels': [[(4, 6), (8, 12), 1]]}
+{'sentence': 'I recently went to this restaurant with some co-workers for lunch and had an amazing time .', 'labels': [[(10, 11), (14, 15), 0]]}
+{'sentence': 'The service was impeccable and unobtrusive -- the staff knows what they are there to do -- to know their menu , present your meal , and attend to your needs .', 'labels': [[(1, 2), (3, 4), 1], [(1, 2), (5, 6), 1]]}
+{'sentence': 'Ess-A-Bagel ( either by Sty-town or midtown ) is by far the best bagel in NY .', 'labels': [[(13, 14), (12, 13), 1]]}
+{'sentence': 'The most annoying thing , though , is the fact that the servers seem to be trained to drive revenue .', 'labels': [[(12, 13), (2, 3), 2]]}
+{'sentence': 'Please try the Filet Mignon , its just the most tender piece ever .', 'labels': [[(3, 5), (10, 11), 1]]}
+{'sentence': 'the drinks are amazing and half off till 8pm .', 'labels': [[(1, 2), (3, 4), 1]]}
+{'sentence': 'The service , wine selection , ambiance are all outstanding and deserve recognition .', 'labels': [[(1, 2), (9, 10), 1]]}
+{'sentence': 'We were seated promptly as we had reservations , however after that the service was slow .', 'labels': [[(13, 14), (15, 16), 2]]}
+{'sentence': "It 's really also the service , is good and the waiters are friendly .", 'labels': [[(5, 6), (8, 9), 1], [(11, 12), (13, 14), 1]]}
+{'sentence': 'The food was pretty good , but a little flavorless and the portions very small , including dessert .', 'labels': [[(1, 2), (4, 5), 1], [(1, 2), (9, 10), 1], [(17, 18), (14, 15), 2]]}
+{'sentence': 'Lived in Shanghai most of my life and thought the food was comparable to the flagship Green Bo restaurant there .', 'labels': [[(10, 11), (12, 13), 1]]}
+{'sentence': "I highly recommend Cafe St. Bart 's for their food , the ambience and wonderful service .", 'labels': [[(9, 10), (2, 3), 1], [(15, 16), (14, 15), 1]]}
+{'sentence': 'All the NYU students love this place so it makes for a fun young atmosphere .', 'labels': [[(14, 15), (12, 14), 1]]}
+{'sentence': 'The food here does a great service to the name ( Cantonese that is ... ) .', 'labels': [[(1, 2), (5, 6), 1]]}
+{'sentence': 'Joya used to be a cool spot with decent food and a colorful - if not relaxed - atmosphere .', 'labels': [[(9, 10), (8, 9), 1], [(18, 19), (12, 13), 1]]}
+{'sentence': 'The Prix Fixe menu is worth every penny and you get more than enough ( both in quantity AND quality ) .', 'labels': [[(1, 4), (5, 6), 1], [(17, 18), (11, 14), 1]]}
+{'sentence': 'I had their eggs benedict for brunch , which were the worst in my entire life , I tried removing the hollondaise sauce completely that was how failed it was .', 'labels': [[(3, 5), (11, 12), 2], [(21, 23), (27, 28), 2]]}
+{'sentence': "Too bad the food was n't of the same heritage .", 'labels': [[(3, 4), (1, 2), 2]]}
+{'sentence': 'The menu looked good , except for offering the Chilean Sea Bass , but the server does not offer up the specials that were written on the board outside .', 'labels': [[(1, 2), (3, 4), 1], [(9, 12), (5, 6), 2]]}
+{'sentence': 'The food was really good , I had the onion soup and it was one of the best ever .', 'labels': [[(1, 2), (4, 5), 1], [(9, 11), (17, 18), 1]]}
+{'sentence': "Since it literally is a complete hole in the wall , it 's a bit intimidating at first , but you get over that very quickly as soon as the friendly staff welcomes you - do n't hesitate to ask for help with what to get .", 'labels': [[(31, 32), (30, 31), 1]]}
+{'sentence': "When he finally did , he was unable to make a gin and tonic -- could n't find tonic .", 'labels': [[(11, 14), (7, 8), 0]]}
+{'sentence': "The dim sum is ok but does n't taste that fresh , and the little dishes do n't look steamy hot as they should ( also note lack of Chinese here ) .", 'labels': [[(1, 3), (4, 5), 2], [(14, 16), (16, 21), 2]]}
+{'sentence': 'If you want good authentic Thai this place is not the place to go .', 'labels': [[(5, 6), (3, 5), 2]]}
+{'sentence': 'I recommend getting a reservation even though we saw people seated without one .', 'labels': [[(4, 5), (1, 2), 0]]}
+{'sentence': 'The only thing I moderately enjoyed was their Grilled Chicken special with Edamame Puree .', 'labels': [[(8, 14), (5, 6), 0]]}
+{'sentence': 'Staff is very accomodating .', 'labels': [[(0, 1), (3, 4), 1]]}
+{'sentence': 'Very popular style Izakaya ( Sake and small portion of sake-friendly dishes ) .', 'labels': [[(8, 9), (7, 8), 0], [(11, 12), (10, 11), 1]]}
+{'sentence': 'The food was terrific and the service classy , attentive , without being overbearing .', 'labels': [[(1, 2), (3, 4), 1], [(6, 7), (7, 8), 1], [(6, 7), (9, 10), 1], [(6, 7), (11, 14), 1]]}
+{'sentence': 'This is an amazing place to try some roti rolls .', 'labels': [[(8, 10), (6, 7), 1]]}
+{'sentence': 'We have never had any problems with charging the meal or the tip , and the food was delivered quickly , but we live only a few minutes walk from them .', 'labels': [[(9, 10), (2, 6), 1], [(16, 17), (18, 20), 1]]}
+{'sentence': 'They are tasty , but I suggest only eating one with meat because they tend not to mesh that well with the average American digestive system .', 'labels': [[(11, 12), (2, 3), 0], [(11, 12), (6, 7), 0]]}
+{'sentence': "Try the hot dogs too , they 're snappy and delicious .", 'labels': [[(2, 4), (0, 1), 1], [(2, 4), (8, 9), 1], [(2, 4), (10, 11), 1]]}
+{'sentence': 'Delivery is fast too .', 'labels': [[(0, 1), (2, 3), 1]]}
+{'sentence': 'The noise level was unbearable , conversation impossible .', 'labels': [[(1, 3), (4, 5), 2]]}
+{'sentence': 'Highly recommended is the Spicy Fried Clam Rolls and Spider Rolls .', 'labels': [[(4, 8), (1, 2), 1]]}
+{'sentence': 'One of the earlier people commenting on the restaurant did not get the that some experimenting is going on with the menu in a positive way .', 'labels': [[(21, 22), (24, 25), 1]]}
+{'sentence': 'The atmosphere is great if your looking for a laid back scene and an inexpensive way to spend a weekend afternoon .', 'labels': [[(1, 2), (3, 4), 1]]}
+{'sentence': 'Odd for Ave B , not just odd , The place attracts an eclectic crowd to say the least .', 'labels': [[(10, 11), (7, 8), 1]]}
+{'sentence': 'just got back from lunch at Tamarind and it was excellent .', 'labels': [[(4, 5), (10, 11), 1]]}
+{'sentence': "head and shoulders above its neighboors on east 6 st , taj mahal is also very comparable , in food quality , to the much overpraised ( and underdeserving ) baluchi 's .", 'labels': [[(19, 21), (16, 17), 1]]}
+{'sentence': 'Great Indian food and the service is incredible .', 'labels': [[(1, 3), (0, 1), 1], [(5, 6), (7, 8), 1]]}
+{'sentence': 'I had the salmon dish and while it was fine , for the price paid , I expected it to have some type of flavor .', 'labels': [[(3, 5), (9, 10), 1]]}
+{'sentence': 'Especially liked chicken tikka and the naan , and the dals .', 'labels': [[(2, 4), (1, 2), 1]]}
+{'sentence': 'The waiters were not attentive except that the bill turned up on the table before we were finished .', 'labels': [[(1, 2), (4, 5), 2]]}
+{'sentence': 'The restaurant looks out over beautiful green lawns to the Hudson River and the Statue of Liberty .', 'labels': [[(7, 8), (5, 6), 1]]}
+{'sentence': 'My wife and I always enjoy the young , not always well trained but nevertheless friendly , staff , all of whom have a story .', 'labels': [[(17, 18), (5, 6), 1], [(17, 18), (7, 8), 1], [(17, 18), (9, 13), 1], [(17, 18), (15, 16), 1]]}
+{'sentence': 'The sangria was pretty tasty and good on a hot muggy day .', 'labels': [[(1, 2), (4, 5), 1], [(1, 2), (6, 7), 1]]}
+{'sentence': 'For the people who want great food plus great service , Roxy is a place to AVOID !', 'labels': [[(6, 7), (5, 6), 2], [(9, 10), (8, 9), 2]]}
+{'sentence': "While the menu is n't especially groundbreaking , everything I 've tried so far has been well-executed and tasty .", 'labels': [[(2, 3), (6, 7), 1]]}
+{'sentence': 'Ive been here a bunch of times now and the service is always outstanding .', 'labels': [[(10, 11), (13, 14), 1]]}
+{'sentence': 'Quite frankly , this is some of the worst sushi I have ever tried .', 'labels': [[(9, 10), (8, 9), 2]]}
+{'sentence': 'The food is great , service is ok .', 'labels': [[(1, 2), (3, 4), 1], [(5, 6), (7, 8), 0]]}
+{'sentence': 'The overall price tag was very very expensive , something I did expect .', 'labels': [[(2, 4), (7, 8), 2]]}
+{'sentence': 'Spice is great Thai food , love the inexpensive appetizers .', 'labels': [[(3, 5), (2, 3), 1], [(9, 10), (6, 7), 1], [(9, 10), (8, 9), 1]]}
+{'sentence': 'The service was attentive .', 'labels': [[(1, 2), (3, 4), 1]]}
+{'sentence': 'He not only makes his own homemade mozzarella , but every pie is ultra fresh .', 'labels': [[(7, 8), (6, 7), 1], [(11, 12), (13, 15), 1]]}
+{'sentence': "When you 're sitting in their main dining room ( which has a spectacular , hand-painted high ceiling ) you 'd never know there was a world outside .", 'labels': [[(6, 9), (13, 14), 1], [(17, 18), (15, 17), 1]]}
+{'sentence': 'We visited Bread Bar during January restaurant week and were so pleased with the menu selections and service .', 'labels': [[(14, 16), (11, 12), 1]]}
+{'sentence': 'also make sure you pay attention to the music being piped in - quite a weird selection .', 'labels': [[(8, 9), (15, 16), 0]]}
+{'sentence': 'The rest of the dim sum , though pricey by Chinatown standards , is worth it .', 'labels': [[(4, 6), (8, 9), 1], [(4, 6), (14, 15), 1]]}
+{'sentence': 'Good food .', 'labels': [[(1, 2), (0, 1), 1]]}
+{'sentence': 'The wait staff is very friendly , if not overly efficient .', 'labels': [[(1, 3), (5, 6), 1], [(1, 3), (8, 11), 1]]}
+{'sentence': 'Its a great place for a casual date or to entertain clients for lunch .', 'labels': [[(13, 14), (2, 3), 0]]}
+{'sentence': 'All we received was an apology as we left to see our show without dinner .', 'labels': [[(14, 15), (13, 14), 0]]}
+{'sentence': 'The table next to us asked if he crushed the grapes himself when their long overdue bottle of wine finally arrived .', 'labels': [[(16, 19), (14, 16), 0]]}
+{'sentence': 'Prices are very good .', 'labels': [[(0, 1), (3, 4), 1]]}
+{'sentence': "Plain and simple it 's bad thai food .", 'labels': [[(6, 8), (5, 6), 2]]}
+{'sentence': 'The Dim Sum was so-so , but not spectacular .', 'labels': [[(1, 3), (4, 5), 0], [(1, 3), (7, 9), 0]]}
+{'sentence': 'The place is larger than most and features adequate seating unlike most joints , and has a bar which deserves a mention .', 'labels': [[(1, 2), (3, 4), 1], [(9, 10), (8, 9), 1], [(17, 18), (19, 20), 1]]}
+{'sentence': "Threw my fiance 's surprise 30th birthday dinner here could n't be happier .", 'labels': [[(7, 8), (9, 13), 0]]}
+{'sentence': 'good music , great food , speedy service affordable prices .', 'labels': [[(1, 2), (0, 1), 1], [(4, 5), (3, 4), 1], [(7, 8), (6, 7), 1], [(9, 10), (8, 9), 1]]}
+{'sentence': 'There was a small wait , but shorter than I expected .', 'labels': [[(4, 5), (3, 4), 1], [(4, 5), (7, 8), 1]]}
+{'sentence': 'May , the owner always has a smile on her and will warmly greet you .', 'labels': [[(3, 4), (12, 13), 1]]}
+{'sentence': 'The sides were ok and incredibly salty .', 'labels': [[(1, 2), (3, 4), 2], [(1, 2), (6, 7), 2]]}
+{'sentence': "Not a large place , but it 's cute and cozy .", 'labels': [[(3, 4), (2, 3), 1], [(3, 4), (8, 9), 1], [(3, 4), (10, 11), 1]]}
+{'sentence': 'The beverages were excellent , and the dessert was good .', 'labels': [[(1, 2), (3, 4), 1], [(7, 8), (9, 10), 1]]}
+{'sentence': 'The hostess and the waitress were incredibly rude and did everything they could to rush us out .', 'labels': [[(1, 2), (7, 8), 2]]}
+{'sentence': "Next time , we would n't dare ordering anything else other than some simple Asian appetizers and drinks .", 'labels': [[(14, 16), (13, 14), 1]]}
+{'sentence': "Please if your thinking about it go , and stay the wait you wo n't be disappointed .", 'labels': [[(11, 12), (13, 17), 2]]}
+{'sentence': 'I must say the view of NYC is so beautiful !', 'labels': [[(4, 5), (9, 10), 1]]}
+{'sentence': "If you 'd like to have a nice light meal with an asian accent , Long Tan is a good place on the slope .", 'labels': [[(9, 10), (7, 8), 1]]}
+{'sentence': 'When going out for a nice dinner , I like a nice ambiance as well as very good food .', 'labels': [[(6, 7), (5, 6), 1], [(12, 13), (11, 12), 1], [(18, 19), (17, 18), 1]]}
+{'sentence': 'Otherwise , this place has great service and prices and a nice friendly atmosphere .', 'labels': [[(6, 7), (5, 6), 1], [(13, 14), (11, 13), 1]]}
+{'sentence': 'Highly recommend this as great value for excellent sushi and service .', 'labels': [[(5, 6), (4, 5), 1], [(8, 9), (7, 8), 1]]}
+{'sentence': 'This place would be so much better served by being run by a group that actually understands customer service .', 'labels': [[(18, 19), (2, 7), 2]]}
+{'sentence': 'A++ The service was good to excellent along with the attitude .', 'labels': [[(2, 3), (4, 5), 1], [(10, 11), (6, 7), 1]]}
+{'sentence': 'The food is awesome - definitely try the striped bass .', 'labels': [[(1, 2), (3, 4), 1], [(8, 10), (6, 7), 1]]}
+{'sentence': 'The music does get a little loud at times , but it just made me want to lean closer to my beautiful wife , and as I did , I got a whiff of corriander .', 'labels': [[(1, 2), (6, 7), 1]]}
+{'sentence': 'black white shakes came out good also .', 'labels': [[(0, 3), (5, 6), 1]]}
+{'sentence': "It 's simply the best meal in NYC .", 'labels': [[(5, 6), (4, 5), 1]]}
+{'sentence': 'We go on Mondays for the prix fixe and our experience with the food has been comparable to Blue Ribbon .', 'labels': [[(13, 14), (16, 17), 0]]}
+{'sentence': "However , they 've got the most amazing pastrami and the soups hit the spot .", 'labels': [[(8, 9), (7, 8), 1], [(11, 12), (12, 15), 1]]}
+{'sentence': 'Great bagels made the old-fashioned way .', 'labels': [[(1, 2), (0, 1), 1]]}
+{'sentence': 'This is some really good , inexpensive sushi .', 'labels': [[(7, 8), (4, 5), 1], [(7, 8), (6, 7), 1]]}
+{'sentence': "I would n't even have complained at all if the food at least tasted good but the quality of food was crappy , too .", 'labels': [[(17, 20), (21, 22), 2]]}
+{'sentence': 'The pizza is delicious and the proprietor is one of the nicest in NYC .', 'labels': [[(1, 2), (3, 4), 1], [(6, 7), (11, 12), 1]]}
+{'sentence': 'Also good for client lunch meetings , esp .', 'labels': [[(4, 6), (1, 2), 0]]}
+{'sentence': "The decor is dark , cool and soothing , while the food 's presentation is spectacular , considering the low prices .", 'labels': [[(1, 2), (3, 4), 1], [(1, 2), (5, 6), 1], [(1, 2), (7, 8), 1], [(20, 21), (19, 20), 1]]}
+{'sentence': 'The Waitstaff were very nice and suggested swordfish for my husband he enjoyed his meal .', 'labels': [[(1, 2), (4, 5), 1], [(7, 8), (6, 7), 1], [(14, 15), (12, 13), 1]]}
+{'sentence': 'Terrible , terrible management - deserves to be shut-down .', 'labels': [[(3, 4), (0, 1), 2], [(3, 4), (2, 3), 2]]}
+{'sentence': "The Italian food has flavor ( that can be sort of surprising on the UES ) , and the service turns from a nightmare to attentive , they sort of remind me of the NY Yankees of the late 90 's , no matter how bad it look , you knew that there was a rally just around the corner ...", 'labels': [[(1, 3), (11, 12), 1], [(19, 20), (23, 24), 1], [(19, 20), (45, 46), 1]]}
+{'sentence': 'I found the food to be outstanding , particulary the salmon dish I had .', 'labels': [[(3, 4), (6, 7), 1]]}
+{'sentence': 'Mizu is home to creative and unique rolls not to found anywhere else .', 'labels': [[(7, 8), (6, 7), 1]]}
+{'sentence': "Baluchi 's has solid food and a nice decor at reasonable prices .", 'labels': [[(4, 5), (3, 4), 1], [(8, 9), (7, 8), 1], [(11, 12), (10, 11), 1]]}
+{'sentence': 'Moules were excellent , lobster ravioli was VERY salty !', 'labels': [[(0, 1), (2, 3), 1], [(4, 6), (8, 9), 2]]}
+{'sentence': 'A cheap eat for NYC , but not for dosa .', 'labels': [[(2, 3), (1, 2), 1], [(9, 10), (6, 7), 2]]}
+{'sentence': 'Pastrami or corned beef are juicy and piled high ( ask for extra rye bread ) .', 'labels': [[(0, 4), (5, 6), 1], [(0, 4), (8, 9), 1]]}
+{'sentence': '( $ 200 for 2 glasses of champagne , not too expensive bottle of wine and 2 after dinner drinks ) .', 'labels': [[(5, 8), (9, 12), 2]]}
+{'sentence': 'The food was just OK , at least for what food was available .', 'labels': [[(1, 2), (4, 5), 2]]}
+{'sentence': 'The waitress was very patient with us and the food is phenomenal !', 'labels': [[(1, 2), (4, 5), 1], [(9, 10), (11, 12), 1]]}
+{'sentence': "The ambience was nice , but service was n't so great .", 'labels': [[(1, 2), (3, 4), 1], [(6, 7), (7, 11), 2]]}
+{'sentence': 'Solid wine list , knowledgeable staff , friendly owners and an adventurous , ever-changing menu keep us coming back .', 'labels': [[(1, 3), (0, 1), 1], [(5, 6), (4, 5), 1], [(8, 9), (7, 8), 1], [(14, 15), (11, 12), 1], [(14, 15), (13, 14), 1]]}
+{'sentence': 'The people that work there are always so friendly you forget you are in New York sometimes .', 'labels': [[(1, 2), (8, 9), 1]]}
+{'sentence': 'The location and ambience is Ok but the food is what makes up for it .', 'labels': [[(1, 2), (5, 6), 0], [(8, 9), (11, 13), 1]]}
+{'sentence': 'otherwise , good stuff for late nite eats .', 'labels': [[(3, 4), (2, 3), 1], [(7, 8), (5, 6), 1]]}
+{'sentence': 'I love and I know gourmet food by excellence !', 'labels': [[(5, 7), (1, 2), 1], [(5, 7), (8, 9), 1]]}
+{'sentence': 'Two people in our party felt like something else , and Volare immediately obliged with two great dishes that were not in their regular menu .', 'labels': [[(17, 18), (16, 17), 1], [(24, 25), (23, 24), 0]]}
+{'sentence': 'He offers subpar service and has no personality .', 'labels': [[(3, 4), (2, 3), 2]]}
+{'sentence': "The waitress remembers me and is very friendly , she knows what my regular is and that 's the fried mini buns with the condensed milk and the assorted fruits on beancurd .", 'labels': [[(1, 2), (7, 8), 1], [(19, 32), (13, 14), 1]]}
+{'sentence': 'Diner food at bistro prices is a bummer ... .', 'labels': [[(1, 2), (7, 8), 2]]}
+{'sentence': 'While we thoroughly enjoyed the food , it was annoying to scream across the table for conversation .', 'labels': [[(5, 6), (3, 4), 1]]}
+{'sentence': 'The first time the sushi was outstanding , the second time it was a little bland .', 'labels': [[(4, 5), (6, 7), 1], [(4, 5), (15, 16), 1]]}
+{'sentence': 'The portions are large and the servers always surprise us with a different starter .', 'labels': [[(1, 2), (3, 4), 1], [(6, 7), (8, 9), 1], [(13, 14), (12, 13), 1]]}
+{'sentence': 'delicious bagels , especially when right out of the oven .', 'labels': [[(1, 2), (0, 1), 1]]}
+{'sentence': 'All the food was hot tasty .', 'labels': [[(2, 3), (4, 6), 1]]}
+{'sentence': 'This is one great place to eat pizza more out but not a good place for take-out pizza .', 'labels': [[(7, 8), (3, 4), 1], [(16, 18), (13, 14), 2]]}
+{'sentence': 'Our server was very helpful and friendly .', 'labels': [[(1, 2), (4, 5), 1], [(1, 2), (6, 7), 1]]}
+{'sentence': 'Try green curry with vegetables .', 'labels': [[(1, 5), (0, 1), 1]]}
+{'sentence': "First of all , this place is *not* romantic , as claimed by Citysearch 's editorial review .", 'labels': [[(5, 6), (7, 9), 2]]}
+{'sentence': 'The second you walk through the heavy vault like door , with people anticipating your arrival you get the sense that you are going to have the dining ride of a lifetime .', 'labels': [[(9, 10), (6, 7), 0]]}
+{'sentence': 'The food was not very tasty , the portioins were tiny even for such a high quality restaurant .', 'labels': [[(1, 2), (3, 6), 2], [(8, 9), (10, 11), 2]]}
+{'sentence': 'The Pad Thai is excellent here , as well .', 'labels': [[(1, 3), (4, 5), 1]]}
+{'sentence': 'I do not recommend lunch specials just because it tasts the same with other regular chinese restaurant .', 'labels': [[(4, 6), (2, 4), 2]]}
+{'sentence': "We parked on the block of Nina 's the place looked nice , with people obviously enjoying their pizzas .", 'labels': [[(9, 10), (11, 12), 1], [(18, 19), (16, 17), 1]]}
+{'sentence': 'The food is o.k. , but not any better than what you get at a good neighborhood restaurant .', 'labels': [[(1, 2), (3, 5), 0], [(1, 2), (6, 9), 0]]}
+{'sentence': 'I think the stuff was better than Disney .', 'labels': [[(3, 4), (5, 6), 1]]}
+{'sentence': "While the $ 20 entree range is not overly expensive , in New York City , there is definitely better food in that range , and so Sapphire , despite it 's lovely atmosphere , will most likely not be a restaurant to which I will return .", 'labels': [[(4, 6), (7, 10), 1], [(20, 21), (19, 20), 2], [(33, 34), (32, 33), 1]]}
+{'sentence': 'Orsay , is without a doubt one of the best values for authentic French food in NYC .', 'labels': [[(13, 15), (12, 13), 1]]}
+{'sentence': 'The staff is no nonsense .', 'labels': [[(1, 2), (3, 5), 1]]}
+{'sentence': 'We went here for lunch a couple of weeks ago on a Saturday , and I was thoroughly impressed with the food .', 'labels': [[(21, 22), (18, 19), 1]]}
+{'sentence': 'I recommend the garlic shrimp , okra ( bindi ) , and anything with lamb .', 'labels': [[(3, 5), (1, 2), 1]]}
+{'sentence': 'The menu was impressive with selections ranging from a burger , to steak , to escargot .', 'labels': [[(1, 2), (3, 4), 1]]}
+{'sentence': 'Good for casual dinner with jeans and sneakers .', 'labels': [[(2, 4), (0, 1), 1]]}
+{'sentence': 'Prices are higher to dine in and their chicken tikka marsala is quite good .', 'labels': [[(0, 1), (2, 3), 2], [(8, 11), (13, 14), 1]]}
+{'sentence': 'This place has many different styles of pizza and they are all amazing .', 'labels': [[(5, 8), (4, 5), 1], [(5, 8), (12, 13), 1]]}
+{'sentence': 'The photos of the restaurant in its web site are way better than the real look .', 'labels': [[(15, 16), (11, 12), 2]]}
+{'sentence': 'But the coconut rice was good .', 'labels': [[(2, 4), (5, 6), 1]]}
+{'sentence': 'The food was great .', 'labels': [[(1, 2), (3, 4), 1]]}
+{'sentence': 'Pair you food with the excellent beers on tap or their well priced wine list .', 'labels': [[(6, 9), (5, 6), 1], [(13, 15), (11, 12), 1]]}
+{'sentence': "If you like your music blasted and the system isnt that great and if you want to pay at least 100 dollar bottle minimun then you 'll love it here .", 'labels': [[(4, 5), (2, 3), 2], [(22, 24), (27, 28), 2]]}
+{'sentence': "All of my co-workers stated that the food was amazing and wondered why they had n't heard about this place .", 'labels': [[(7, 8), (9, 10), 1]]}
+{'sentence': 'Metrazur has a beautiful spot overlooking the main terminal .', 'labels': [[(4, 5), (3, 4), 1]]}
+{'sentence': "Friendly staff that actually lets you enjoy your meal and the company you 're with .", 'labels': [[(1, 2), (0, 1), 1], [(8, 9), (6, 7), 1]]}
+{'sentence': 'The restaurant is rather small but we were lucky to get a table quickly .', 'labels': [[(12, 13), (13, 14), 1]]}
+{'sentence': 'Quality of food is excellent and price is cheap , stick to pork , fish , chicken , lamb and vegetables .', 'labels': [[(0, 3), (4, 5), 1], [(6, 7), (8, 9), 1]]}
+{'sentence': 'The place is a little tight and on a cold day , the seating by the entranceway can be pretty drafty .', 'labels': [[(1, 2), (5, 6), 2], [(13, 14), (20, 21), 2]]}
+{'sentence': 'The appetizing is excellent - just as good as Zabars Barney Greengrass at a reasonable price ( if bought by the pound ) .', 'labels': [[(1, 2), (3, 4), 1], [(15, 16), (14, 15), 1]]}
+{'sentence': 'But , they were too big for the bun .', 'labels': [[(8, 9), (4, 6), 0]]}
+{'sentence': 'The food is fresh , delicious , and reasonably priced .', 'labels': [[(1, 2), (3, 4), 1], [(1, 2), (5, 6), 1], [(9, 10), (8, 9), 1]]}
+{'sentence': 'The bagels are fabulous .', 'labels': [[(1, 2), (3, 4), 1]]}
+{'sentence': 'Oh yes , and they lie on the phone , claiming they have seating in the garden , then of course the seats are not available .', 'labels': [[(13, 17), (5, 6), 0], [(22, 23), (24, 26), 0]]}
+{'sentence': 'Although they do the typical what kind of water would you like questions the service was good and overall very relaxing to place to eat .', 'labels': [[(8, 9), (4, 5), 0], [(14, 15), (16, 17), 1], [(22, 23), (20, 21), 1]]}
+{'sentence': "Probably much busier for lunch , it 's seldom crowded for dinner ( too close to downtown ) .", 'labels': [[(4, 5), (2, 3), 0], [(11, 12), (8, 10), 0]]}
+{'sentence': 'Their calzones are horrific , bad , vomit-inducing , YUCK .', 'labels': [[(1, 2), (3, 4), 2], [(1, 2), (5, 6), 2], [(1, 2), (7, 8), 2], [(1, 2), (9, 10), 2]]}
+{'sentence': 'It takes forever to get a drink and they almost always forget to bring something ( although they dont forget to charge you for it .', 'labels': [[(6, 7), (2, 3), 0]]}
+{'sentence': 'Saturday , Nov. 6th I had a group from work come in with about 35 people and the staff was amazing to accomodate us .', 'labels': [[(18, 19), (20, 21), 1]]}
+{'sentence': 'Good spreads , great beverage selections and bagels really tasty .', 'labels': [[(1, 2), (0, 1), 1], [(4, 6), (3, 4), 1], [(7, 8), (9, 10), 1]]}
+{'sentence': 'First , the waiter who served us neglected to fill us in on the specials , which I would have chosen had I known about them .', 'labels': [[(3, 4), (7, 8), 2]]}
+{'sentence': 'Also , top the meal with a delicious and perfect slice of tiramisu .', 'labels': [[(12, 13), (7, 8), 1], [(12, 13), (9, 10), 1]]}
+{'sentence': 'Check out the secret back room .', 'labels': [[(3, 6), (0, 2), 1]]}
+{'sentence': 'Authentic food and they have REAL service , not just the rush you get sometimes when they try to push you out the door .', 'labels': [[(1, 2), (0, 1), 1], [(6, 7), (5, 6), 1]]}
+{'sentence': 'With the theater 2 blocks away we had a delicious meal in a beautiful room .', 'labels': [[(10, 11), (9, 10), 1], [(14, 15), (13, 14), 1]]}
+{'sentence': 'The food is great and reasonably priced .', 'labels': [[(1, 2), (3, 4), 1], [(1, 2), (5, 7), 1]]}
+{'sentence': 'I would definitely recommend SEA if you like thai cuisine !', 'labels': [[(8, 10), (7, 8), 1]]}
+{'sentence': "Over the years the host , Vittorio , and his crew , have always treated me as family -- although with all the business this not-so-little gem does , it amazing he 's even able to remember a consistent but not-so-frequent visitor .", 'labels': [[(10, 11), (30, 31), 1]]}
+{'sentence': 'The restuarant itself is not large , but seems to have several round tables to accomodate large groups hoping to save a buck to eat authentic Taiwanese .', 'labels': [[(12, 14), (11, 12), 1], [(26, 27), (25, 26), 1]]}
+{'sentence': "My husband said he could 've eaten several more , the portion was fine for me he even exclaimed that the french fries were the best he has had .", 'labels': [[(11, 12), (13, 14), 1], [(21, 23), (25, 26), 1]]}
+{'sentence': 'It is the type of place to run into old friends and have a late , raucous dinner .', 'labels': [[(17, 18), (16, 17), 1]]}
+{'sentence': 'The food is delicious - from the specials to the regular menu-fare , the dishes are never a disappointment .', 'labels': [[(1, 2), (3, 4), 1], [(14, 15), (16, 19), 1]]}
+{'sentence': 'Prices are in line .', 'labels': [[(0, 1), (2, 4), 0]]}
+{'sentence': 'The food is prepared quickly and efficiently .', 'labels': [[(1, 2), (4, 5), 1], [(1, 2), (6, 7), 1]]}
+{'sentence': 'For all of you new to Indian food , try the Paneer Roll , it is a piece of heaven .', 'labels': [[(11, 13), (19, 20), 1]]}
+{'sentence': 'The food looked very appetizing and delicious since it came on a variety of fancy plates .', 'labels': [[(1, 2), (4, 5), 1], [(1, 2), (6, 7), 1], [(15, 16), (14, 15), 1]]}
+{'sentence': 'Both the fresh mozzerella slices and the Plain Cheese slice are phenomenal .', 'labels': [[(3, 5), (2, 3), 1], [(3, 5), (11, 12), 1]]}
+{'sentence': 'The food is terrible and overall , I would have to say avoid at all costs .', 'labels': [[(1, 2), (3, 4), 2]]}
+{'sentence': "It 's constantly open , catering to the Pakistani cabbies lined up on Crosby St. , so there 's more turnover with the food than you 'd expect ( i.e. , surprisingly fresh ) .", 'labels': [[(23, 24), (31, 33), 1]]}
+{'sentence': 'The waitstaff were attentive , polite and helpful - an impressive feat in such close quarters .', 'labels': [[(1, 2), (3, 4), 1], [(1, 2), (5, 6), 1], [(1, 2), (7, 8), 1], [(1, 2), (10, 11), 1]]}
+{'sentence': 'Yes , the prices are high , but I felt it was worth it .', 'labels': [[(3, 4), (5, 6), 1], [(3, 4), (12, 13), 1]]}
+{'sentence': 'Have always found that the waiters will go out of their way to be helpful , despite the fact they are often busy with lots of diners .', 'labels': [[(5, 6), (14, 15), 1], [(5, 6), (22, 23), 1]]}
+{'sentence': "While this is n't classical restaurant fare , the chef has given new life to an old cuisine with some really innovative and tasty dishes that are genuinely Indian without being heavy or same old restaurant burn-outs .", 'labels': [[(17, 18), (16, 17), 0], [(24, 25), (21, 22), 1], [(24, 25), (23, 24), 1], [(28, 29), (27, 28), 1]]}
+{'sentence': 'He takes real pride in his food and his business .', 'labels': [[(6, 7), (3, 4), 1]]}
+{'sentence': 'Over the years , it has always provided a pleasurable dining experience with quality food and wine .', 'labels': [[(10, 11), (9, 10), 1], [(14, 15), (13, 14), 1]]}
+{'sentence': 'The photobook menu was a cute touch , certainly helped my group and I pick the fried chicken , pork chop , and noodle dishes that we all ordered .', 'labels': [[(2, 3), (5, 6), 1]]}
+{'sentence': 'I can not imagine better Indian food in all of the city .', 'labels': [[(5, 7), (4, 5), 1]]}
+{'sentence': 'Great romantic place for a date ( try to get the corner booth table for a little privacy and to sit close ! ) .', 'labels': [[(2, 3), (0, 2), 1], [(11, 14), (17, 18), 1]]}
+{'sentence': 'We were fans of the half-price Saturday night option until some inedible squid during a recent visit .', 'labels': [[(5, 9), (2, 3), 1], [(12, 13), (11, 12), 2]]}
+{'sentence': 'Pizza is terrific , as is homemade pasta .', 'labels': [[(0, 1), (2, 3), 1]]}
+{'sentence': 'This is a wonderful place on all stand points especially value ofr money .', 'labels': [[(10, 13), (3, 4), 1]]}
+{'sentence': 'Service is not exactly five star , but thats not really a big deal .', 'labels': [[(0, 1), (2, 6), 1]]}
+{'sentence': 'From beginning appetizers , the scallops were incredible , to the delicious chocolate souffle with rasberry mint sorbet , we were delighted by the taste sensations .', 'labels': [[(1, 3), (7, 8), 1], [(12, 18), (11, 12), 1], [(24, 25), (21, 22), 1]]}
+{'sentence': 'Consistently good Japanese Tapas .', 'labels': [[(2, 4), (1, 2), 1]]}
+{'sentence': 'My goodness , everything from the fish to the rice to the seaweed was absolutely amazing .', 'labels': [[(6, 7), (15, 16), 1]]}
+{'sentence': "The dishes offered were unique , very tasty and fresh from the lamb sausages , sardines with biscuits , large whole shrimp to the amazing pistachio ice cream ( the best and freshest I 've ever had ) .", 'labels': [[(1, 2), (4, 5), 1], [(1, 2), (7, 8), 1], [(1, 2), (9, 10), 1], [(20, 22), (19, 20), 1], [(25, 28), (24, 25), 1]]}
+{'sentence': 'The food is reliable and the price is moderate .', 'labels': [[(1, 2), (3, 4), 1], [(6, 7), (8, 9), 0]]}
+{'sentence': 'Planet Thailand has always been a hit with me , I go there usually for the sushi , which is great , the thai food is excellent too .', 'labels': [[(16, 17), (20, 21), 1], [(23, 25), (26, 27), 1]]}
+{'sentence': 'I had to share my table with a loud group of kids and the service was rude an unattentive .', 'labels': [[(5, 6), (8, 9), 2], [(14, 15), (16, 17), 2], [(14, 15), (18, 19), 2]]}
+{'sentence': "The sauce on the pizza is sooo good with garlic and fresh tomatoes and they do n't skimp .", 'labels': [[(1, 5), (7, 8), 1], [(12, 13), (11, 12), 1]]}
+{'sentence': 'We recently decided to try this location , and to our delight , they have outdoor seating , perfect since I had my yorkie with me .', 'labels': [[(15, 17), (18, 19), 1]]}
+{'sentence': 'My husband had the mesclun , salmon , and ice cream and he enjoyed all 3 courses .', 'labels': [[(4, 5), (13, 14), 1]]}
+{'sentence': 'Super friendly and knowledgable staff , fabulous bistro fare and a wonderful jazz brunch with great live jazz ( the chilaquiles were awesome !', 'labels': [[(4, 5), (1, 2), 1], [(4, 5), (6, 7), 1], [(12, 14), (11, 12), 1], [(16, 18), (15, 16), 1], [(20, 21), (22, 23), 1]]}
+{'sentence': 'The prices were fantastic .', 'labels': [[(1, 2), (3, 4), 1]]}
+{'sentence': 'Still , any quibbles about the bill were off-set by the pour-your-own measures of liquers which were courtesey of the house ...', 'labels': [[(6, 7), (8, 9), 1]]}
+{'sentence': 'The table service could have been a little more attentive but as someone who also works in the service industry , I understood they were busy .', 'labels': [[(1, 3), (9, 10), 1]]}
+{'sentence': "It 's not mind-blowing , but to me , thai food never is and never will be .", 'labels': [[(9, 11), (3, 4), 0]]}
+{'sentence': 'Food was very good as well , considering that we tried the budget selection ( though I wish the pork belly that I ordered was roasted a bit longer , so that fat was more of a melt-in-your-mouth experience ) .', 'labels': [[(0, 1), (3, 4), 1], [(32, 33), (28, 29), 2], [(19, 21), (37, 38), 2]]}
+{'sentence': "i 've been to sapphire twice and both times the food was fine , if not good .", 'labels': [[(10, 11), (12, 13), 1]]}
+{'sentence': "It is kinda nosiy and the tables are close together but it 's still a beautiful place to enjoy a nice dinner .", 'labels': [[(6, 7), (8, 9), 2], [(16, 17), (15, 16), 1], [(21, 22), (20, 21), 1]]}
+{'sentence': 'I love the fact that the pizza tastes so good and is so cheap .', 'labels': [[(6, 7), (1, 2), 1], [(6, 7), (9, 10), 1], [(6, 7), (13, 14), 1]]}
+{'sentence': 'Service was prompt , friendly and great .', 'labels': [[(0, 1), (2, 3), 1], [(0, 1), (4, 5), 1], [(0, 1), (6, 7), 1]]}
+{'sentence': "I have n't eat a lamb chop as delicious as that , the salads are really nice dressed with lemon and extra virgnin olive oil .", 'labels': [[(5, 7), (8, 9), 1], [(13, 14), (16, 17), 1]]}
+{'sentence': 'The sushi was awful !', 'labels': [[(1, 2), (3, 4), 2]]}
+{'sentence': 'You can get an excellent meal at most of the many Indian restaurants on nearby Lexington Avenue for the cost of one the dainty dishes here .', 'labels': [[(5, 6), (4, 5), 1], [(24, 25), (23, 24), 1]]}
+{'sentence': 'The plain pizza was soggy and the creative wild mushroom ( third generation-Fornini ) pizza we had was drenched with truffle oil in the middle ( again making it soggy ) and nothingon the rest .', 'labels': [[(1, 3), (4, 5), 2], [(20, 22), (18, 19), 0]]}
+{'sentence': 'Late nite omelletes are not good here , there is no variety !', 'labels': [[(2, 3), (4, 6), 2]]}
+{'sentence': 'After all that , they complained to me about the small tip .', 'labels': [[(11, 12), (10, 11), 2]]}
+{'sentence': "It 's a great place to pick up a cheap lunch or dinner .", 'labels': [[(10, 11), (9, 10), 1]]}
+{'sentence': 'Our waitress was sweet and accomodating , not overbearing .', 'labels': [[(1, 2), (3, 4), 1], [(1, 2), (5, 6), 1]]}
+{'sentence': 'I was really disappointed ant wanted to tell everyone not to go eat or even take out food from there .', 'labels': [[(17, 18), (3, 4), 2]]}
+{'sentence': 'The website and rating makes this place look wonderful but in reality it was very disappointing .', 'labels': [[(6, 7), (15, 16), 1]]}
+{'sentence': 'Despite a slightly limited menu , everything prepared is done to perfection , ultra fresh and a work of food art .', 'labels': [[(4, 5), (3, 4), 2], [(19, 21), (13, 15), 1]]}
+{'sentence': 'The outdoor atmosphere of sitting on the sidewalk watching the world go by 50 feet away on 6th avenue on a cool evening was wonderful .', 'labels': [[(1, 3), (24, 25), 1]]}
+{'sentence': 'brick oven gallery is My pick for best pizza restaurant anywhere .', 'labels': [[(8, 9), (7, 8), 1]]}
+{'sentence': "Oh , do n't even let me start with how expensive the bills were !", 'labels': [[(12, 13), (10, 11), 2]]}
+{'sentence': 'The scallion pancakes and fried dumplings were nothing out of the ordinary .', 'labels': [[(1, 3), (11, 12), 0]]}
+{'sentence': 'All the appetizers and salads were fabulous , the steak was mouth watering and the pasta was delicious ! ! !', 'labels': [[(2, 3), (6, 7), 1], [(9, 10), (12, 13), 1], [(15, 16), (17, 18), 1]]}
+{'sentence': 'The food now is inconsistent .', 'labels': [[(1, 2), (4, 5), 2]]}
+{'sentence': 'I was pretty much full after our fondue appetizer .', 'labels': [[(7, 9), (4, 5), 0]]}
+{'sentence': 'BE CAREFUL before you request extra spice .', 'labels': [[(6, 7), (1, 2), 0]]}
+{'sentence': 'And the Tom Kha soup was pathetic .', 'labels': [[(2, 5), (6, 7), 2]]}
+{'sentence': 'I started out with a Bombay beer which was big enough for two .', 'labels': [[(5, 7), (9, 10), 1]]}
+{'sentence': 'The decor is vibrant and eye-pleasing with several semi-private boths on the right side of the dining hall , which are great for a date .', 'labels': [[(1, 2), (3, 4), 1], [(1, 2), (5, 6), 1], [(16, 18), (21, 22), 1]]}
+{'sentence': 'Service was quick .', 'labels': [[(0, 1), (2, 3), 1]]}
+{'sentence': "Drawbacks : service is slow and they do n't toast !", 'labels': [[(2, 3), (4, 5), 2]]}
+{'sentence': 'The sweet lassi was excellent as was the lamb chettinad and the garlic naan but the rasamalai was forgettable .', 'labels': [[(1, 3), (4, 5), 1], [(16, 17), (18, 19), 2]]}
+{'sentence': "We 've been following chef Lyle 's food around New York for 15 years and while remaining classic , his innovations with bistro fare have made us return and return .", 'labels': [[(7, 8), (17, 18), 1], [(22, 24), (20, 21), 1]]}
+{'sentence': 'The best thing I tasted were the lambchops .', 'labels': [[(7, 8), (1, 2), 1]]}
+{'sentence': "The spicy tuna and salmon are the best we 've ever had .", 'labels': [[(1, 3), (7, 8), 1]]}
+{'sentence': 'In addition , the food is very good and the prices are reasonable .', 'labels': [[(4, 5), (7, 8), 1], [(10, 11), (12, 13), 1]]}
+{'sentence': 'Upon entering , we were greeted by the owners , Steven and Frederick , who went out of their way to be more than gracious hosts .', 'labels': [[(25, 26), (24, 25), 1]]}
+{'sentence': 'Been going here since it opened have seen the quality value decrease considerably .', 'labels': [[(9, 11), (11, 12), 2]]}
+{'sentence': "Meat dishes now adorn the selections , although there 's still a large number of vegetarian-friendly choices .", 'labels': [[(15, 17), (12, 13), 1]]}
+{'sentence': 'Reasonable prices .', 'labels': [[(1, 2), (0, 1), 1]]}
+{'sentence': 'they bring service up a notch by offerng complementary amuse bouche to all tables and gave us a small dessert for our celebration .', 'labels': [[(9, 11), (8, 9), 1], [(19, 20), (18, 19), 1]]}
+{'sentence': 'Try the crunchy tuna , it is to die for .', 'labels': [[(2, 4), (0, 1), 1], [(2, 4), (8, 10), 1]]}
+{'sentence': 'All in all , this midtown gem instantly became one of my favorite sushi restaurants in the city .', 'labels': [[(13, 14), (12, 13), 1]]}
+{'sentence': 'It is a lot of fun with live entertainment and all kinds of Disney type special effects .', 'labels': [[(7, 9), (5, 6), 1]]}
+{'sentence': "if you 're looking for perfect traditional sushi , go here - if you 're looking for interesting combinations , try Sushi of gari 's ( east side ) .", 'labels': [[(7, 8), (5, 6), 1]]}
+{'sentence': "Be careful of portions - they 're HUGE .", 'labels': [[(3, 4), (7, 8), 1]]}
+{'sentence': 'The Steak Tartare is a great bet , they fix it for you at the table .', 'labels': [[(1, 3), (5, 6), 1]]}
+{'sentence': 'Plus , on Wednesday nights the house wine is unlimited !', 'labels': [[(6, 8), (9, 10), 1]]}
+{'sentence': "The dim sum servings here are a bit larger than I 'm used to .", 'labels': [[(1, 4), (8, 9), 0]]}
+{'sentence': 'However , in the summer of 2003 , it seems the management has changed and the great big door has been replaced for a glass front ridding itself of the dark romantic getup .', 'labels': [[(11, 12), (13, 14), 0], [(18, 19), (16, 18), 1]]}
+{'sentence': "We wo n't go to this place again for a good meal .", 'labels': [[(11, 12), (10, 11), 2]]}
+{'sentence': 'Barbecued codfish was gorgeously moist - as if poached - yet the fabulous texture was let down by curiously bland seasoning - a spice rub might have overwhelmed , however herb mix or other sauce would have done much to enhance .', 'labels': [[(0, 2), (4, 5), 1], [(13, 14), (12, 13), 1], [(20, 21), (19, 20), 2], [(23, 25), (27, 28), 2], [(30, 32), (39, 41), 2]]}
+{'sentence': "After dinner , take your date to the HUGE dance floor , probably one of the biggest you 'll see in NY .", 'labels': [[(9, 11), (8, 9), 1], [(9, 11), (16, 17), 1]]}
+{'sentence': 'Taj Mahal offeres gret value and great food .', 'labels': [[(4, 5), (6, 7), 1]]}
+{'sentence': 'My boyfriend and I recently had an early dinner at Artisanal and was satisfied with our experience .', 'labels': [[(8, 9), (13, 14), 1]]}
+{'sentence': 'Outstanding Bagels , but you get what you pay for .', 'labels': [[(1, 2), (0, 1), 1]]}
+{'sentence': 'Pizza - the only pizza in NYC that should not have additional toppings - the crust tastes like the best , freshly baked bread !', 'labels': [[(15, 16), (19, 20), 1], [(23, 24), (21, 23), 1]]}
+{'sentence': 'Service was warm and attentive , beef carpaachio was exellent ( huge portion ) and pasta was fresh and well-prepared .', 'labels': [[(0, 1), (2, 3), 1], [(0, 1), (4, 5), 1], [(6, 8), (9, 10), 1], [(12, 13), (11, 12), 1], [(15, 16), (17, 18), 1], [(15, 16), (19, 20), 1]]}
+{'sentence': 'Best Italian food I ever had ( and being Italian , that means alot ) .', 'labels': [[(1, 3), (0, 1), 1]]}
+{'sentence': 'I will recommend Scopa to all of my friends for a place to go for wonderful Italian food .', 'labels': [[(16, 18), (15, 16), 1]]}
+{'sentence': 'Looking around , I saw a room full of New Yorkers enjoying a real meal in a real restaurant , not a clubhouse of the fabulous trying to be seen .', 'labels': [[(14, 15), (13, 14), 1], [(22, 23), (25, 26), 2]]}
+{'sentence': "Great bar , most gorgeous bartenders you 've ever seen ( specifically the blond lady ) .", 'labels': [[(1, 2), (0, 1), 1], [(5, 6), (4, 5), 1]]}
+{'sentence': 'They came out over cooked and the cheese was almost non existant .', 'labels': [[(7, 8), (10, 12), 2]]}
+{'sentence': "I had a terrific meal , and our server guided us toward a very nice wine in our price range , instead of allowing us to purchase a similarly priced wine that was n't as good .", 'labels': [[(4, 5), (3, 4), 1], [(15, 16), (14, 15), 2]]}
+{'sentence': 'The svc can be a bit rude at times , esp if you have big group , but overall the restaurant is a must !', 'labels': [[(1, 2), (6, 7), 2]]}
+{'sentence': 'The food is good , especially their more basic dishes , and the drinks are delicious .', 'labels': [[(1, 2), (3, 4), 1], [(13, 14), (15, 16), 1]]}
+{'sentence': 'The food is delicious and beautifully prepared along with the friendly and personable service .', 'labels': [[(1, 2), (3, 4), 1], [(1, 2), (5, 7), 1], [(13, 14), (12, 13), 1]]}
+{'sentence': 'Pizza here is consistently good .', 'labels': [[(0, 1), (4, 5), 1]]}
+{'sentence': 'We had a great tiem watching the shows and characters and ar food was just what we were looking for .', 'labels': [[(7, 8), (3, 4), 1], [(12, 13), (18, 20), 1]]}
+{'sentence': "Would n't recomend it for dinner !", 'labels': [[(5, 6), (2, 3), 2]]}
+{'sentence': "Sauce was watery and the food did n't have much flavor .", 'labels': [[(0, 1), (2, 3), 2], [(5, 6), (6, 11), 2]]}
+{'sentence': 'My husband and I enjoy Sangria .', 'labels': [[(5, 6), (4, 5), 1]]}
+{'sentence': 'First the wrong bread came out with the appetizer , then when i tried to order a second glass of wine for my main course ...', 'labels': [[(3, 4), (2, 3), 2], [(18, 21), (17, 18), 0]]}
+{'sentence': 'Not sure where the previous reviewer , lonk , dined , but Saul is in a great neighborhood and has great food !', 'labels': [[(17, 18), (16, 17), 1], [(21, 22), (20, 21), 1]]}
+{'sentence': 'In an area sadly lacking in decent Thai food , this is one of the best spots .', 'labels': [[(7, 9), (6, 7), 1]]}
+{'sentence': 'Make reservations but expect to be delayed 15-20 minutes as the hosting staff was having difficulty seating guests who arrived with a reservation because they probably had a lot of walk ins being so close to Time Square .', 'labels': [[(1, 2), (6, 7), 2], [(16, 17), (15, 16), 2]]}
+{'sentence': 'The food was average or above including some surprising tasty dishes .', 'labels': [[(1, 2), (3, 6), 1], [(10, 11), (9, 10), 1]]}
+{'sentence': "They do n't seem to place an emphasis on specials or fresh ingredients which to me is necessary for good thai .", 'labels': [[(12, 13), (19, 20), 2]]}
+{'sentence': 'The noodle and rices dishes taste great .', 'labels': [[(1, 5), (6, 7), 1]]}
+{'sentence': "The food 's as good as ever .", 'labels': [[(1, 2), (4, 5), 1]]}
+{'sentence': 'The crust is thin , the ingredients are fresh and the staff is friendly .', 'labels': [[(1, 2), (3, 4), 1], [(6, 7), (8, 9), 1], [(11, 12), (13, 14), 1]]}
+{'sentence': 'Also a little more expensive than your average bagel place .', 'labels': [[(8, 9), (4, 5), 0]]}
+{'sentence': "And the fried clams had just enough kick to them to make 'em worth eating .", 'labels': [[(2, 4), (6, 7), 1]]}
+{'sentence': 'The sauces used are also not that exciting .', 'labels': [[(1, 2), (5, 8), 2]]}
+{'sentence': 'The secret is the lunch menu which offers a complimentary appetizer with every entree ordered .', 'labels': [[(4, 6), (1, 2), 1], [(10, 11), (9, 10), 1]]}
+{'sentence': 'The rice was poor quality and was cooked so badly it was hard .', 'labels': [[(1, 2), (3, 5), 2], [(7, 8), (9, 10), 2], [(1, 2), (12, 13), 2]]}
+{'sentence': 'The shrimp scampi was excellent and the antipasti were plentiful .', 'labels': [[(1, 3), (4, 5), 1], [(7, 8), (9, 10), 1]]}
+{'sentence': 'There is also very limited seating and there can be a substantial wait in getting food at peak times .', 'labels': [[(5, 6), (4, 5), 2], [(12, 13), (11, 12), 2]]}
+{'sentence': "If it 's just a quick martini at the bar ( which I recommend Jeffery 's ) or a mind blowing Roast Chicken , go to Village !", 'labels': [[(6, 7), (5, 6), 0], [(9, 10), (13, 14), 0], [(21, 23), (19, 21), 1]]}
+{'sentence': 'There was a long wait for a table outside , but it was a little too hot in the sun anyway so our insde table was very nice .', 'labels': [[(7, 8), (3, 4), 0], [(23, 25), (27, 28), 1]]}
+{'sentence': 'I have never been disappointed but their true strength lays in their amazingly delicious and cheap lunch specials .', 'labels': [[(16, 18), (13, 14), 1], [(16, 18), (15, 16), 1]]}
+{'sentence': 'So much more than the usual bar food , go there to enjoy the menu while sampling one of their hand-crafted beers .', 'labels': [[(14, 15), (12, 13), 1], [(21, 22), (20, 21), 1]]}
+{'sentence': 'This is my first time writing a review for a restaurant because the food and service was excellent .', 'labels': [[(13, 14), (17, 18), 1]]}
+{'sentence': "Do n't waste money on decor .", 'labels': [[(5, 6), (2, 3), 0]]}
+{'sentence': 'They also have a back garden open in the summer - cute and French with outdoor seating - what more could you ask for ?', 'labels': [[(4, 6), (11, 12), 1], [(4, 6), (13, 14), 1]]}
+{'sentence': 'I have never before eaten 40 pieces of relatively good nigiri .', 'labels': [[(10, 11), (9, 10), 0]]}
+{'sentence': 'Given the incredible architecture surrounding it , this place has no character .', 'labels': [[(3, 4), (2, 3), 1], [(8, 9), (10, 12), 2]]}
+{'sentence': 'While the place is not a hotspot hangout , the drinks are unique and pack a lot of bang for the buck .', 'labels': [[(10, 11), (12, 13), 1]]}
+{'sentence': "Have frequented 'ino for several years and the food remains excellent .", 'labels': [[(8, 9), (10, 11), 1]]}
+{'sentence': 'Their eggplant is so delicate , sweet tender !', 'labels': [[(1, 2), (4, 5), 1], [(1, 2), (6, 8), 1]]}
+{'sentence': 'Each bite of food at Kai was indeed delicious , fresh , and elegant .', 'labels': [[(3, 4), (8, 9), 1], [(3, 4), (10, 11), 1], [(3, 4), (13, 14), 1]]}
+{'sentence': 'all the food was excellent - considering the quality of food in most moderately priced restaurants is mediocre this was slightly more pricey and well worth it .', 'labels': [[(2, 3), (4, 5), 1], [(14, 15), (13, 14), 0], [(8, 11), (17, 18), 1]]}
+{'sentence': 'My friend got the mushroom pizza which tasted better .', 'labels': [[(4, 6), (8, 9), 1]]}
+{'sentence': "I had the cod with paella ( spicy and very filling , I 'm a big eater and could only eat half ) while my boyfriend had the classic fish and chips ( again , a big serving - at least 5 pieces of fish and a basketful of fries ) .", 'labels': [[(3, 6), (7, 8), 2], [(3, 6), (10, 11), 2], [(29, 32), (28, 29), 2], [(29, 32), (36, 37), 2]]}
+{'sentence': "It 's a shame that a nice , convenient place like the Pink Pony can be so ruined by lousy service .", 'labels': [[(9, 10), (8, 9), 1], [(20, 21), (19, 20), 2]]}
+{'sentence': 'The porcini mushroom pasta special was tasteless , so was the seafood tagliatelle .', 'labels': [[(1, 5), (6, 7), 2]]}
+{'sentence': 'Try the spicy wontons and the salt pepper shrimps .', 'labels': [[(2, 4), (0, 1), 1]]}
+{'sentence': 'THE FOOD PORTIONS ARE REALLY LARGE .', 'labels': [[(1, 3), (5, 7), 1]]}
+{'sentence': 'The fries are yummy .', 'labels': [[(1, 2), (3, 4), 1]]}
+{'sentence': 'Friendly and informative staff , very attentive and prompt raw bar service .', 'labels': [[(3, 4), (0, 1), 1], [(3, 4), (2, 3), 1], [(3, 4), (6, 7), 1], [(10, 12), (9, 10), 1]]}
+{'sentence': 'Best Taiwanese food in NY !', 'labels': [[(1, 3), (0, 1), 1]]}
+{'sentence': 'This place is a great stop for great food .', 'labels': [[(8, 9), (7, 8), 1]]}
+{'sentence': 'All the pastas are fantastic and the homemade lasagna is some of the best that I have had in the City .', 'labels': [[(2, 3), (4, 5), 1], [(7, 9), (13, 14), 1]]}
+{'sentence': 'The staff ignored my friends and I the entire time we were there .', 'labels': [[(1, 2), (2, 3), 2]]}
+{'sentence': 'Yet paired with such rude service , would never recommend for anyone interested in carrying any kind of conversation while there .', 'labels': [[(5, 6), (4, 5), 2]]}
+{'sentence': 'The in-house lady DJ on Saturday nights has outrageously good taste in music , and moreover , takes requests .', 'labels': [[(1, 4), (9, 11), 1]]}
+{'sentence': "While the food was excellent , it was n't cheap ( though not extremely expensive either ) .", 'labels': [[(2, 3), (4, 5), 1]]}
+{'sentence': 'Beef noodle soup is good as well .', 'labels': [[(0, 3), (4, 5), 1]]}
+{'sentence': 'Delivery service is great too .', 'labels': [[(0, 2), (3, 4), 1]]}
+{'sentence': "The food 's dazzling flavors overwhelm the palate , truly embracing the beauty of authentic Thai cuisine .", 'labels': [[(1, 2), (5, 6), 1], [(15, 17), (14, 15), 1]]}
+{'sentence': 'I recieved prompt service with a smile .', 'labels': [[(3, 4), (2, 3), 1]]}
+{'sentence': "They pray to their Food Gods to make them into a good pizza like VT 's .", 'labels': [[(12, 13), (11, 12), 2]]}
+{'sentence': 'The place was quiet and delightful .', 'labels': [[(1, 2), (3, 4), 1], [(1, 2), (5, 6), 1]]}
+{'sentence': "As much as I like the food there , I ca n't bring myself to go back .", 'labels': [[(6, 7), (4, 5), 1]]}
+{'sentence': 'It looked like shredded cheese partly done - still in strips .', 'labels': [[(3, 5), (5, 7), 2]]}
+{'sentence': "The prices and ambience are especially great considering it 's in the West Village .", 'labels': [[(1, 2), (6, 7), 1]]}
+{'sentence': 'The soup is pretty good too .', 'labels': [[(1, 2), (4, 5), 1]]}
+{'sentence': "It is so easy to get a reservation at a top place in NYC with a week 's notice .", 'labels': [[(7, 8), (3, 4), 1]]}
+{'sentence': 'I have never better enjoyed humble root vegetables or a mushroom consomme - and this chef accomplishes without fats .', 'labels': [[(6, 8), (3, 5), 1]]}
+{'sentence': "If you go to Roth 's try to be served by Mike , he is GREAT ! !", 'labels': [[(9, 10), (15, 17), 1]]}
+{'sentence': 'not the food , not the ambiance , not the service , I agree with the previous reviews you wait and wait , the wait staff are very rude and when you get in they are looking to get you right out .', 'labels': [[(24, 26), (28, 29), 2]]}
+{'sentence': 'I always get the Shabu-Shabu dinner and the beef is always fresh .', 'labels': [[(8, 9), (11, 12), 1]]}
+{'sentence': "The pizza was delivered cold and the cheese was n't even fully melted !", 'labels': [[(1, 2), (4, 5), 2], [(7, 8), (8, 13), 2]]}
+{'sentence': 'We were very surprised by how good the food was on our first visit here on a Sunday night .', 'labels': [[(8, 9), (6, 7), 1]]}
+{'sentence': "Nha Trang , while being notorious for utter lack of comfort and decor , horribly slow wait staff and horribly quick meals , is one of the best vietnamese restaurants i 've ever been to . the pho is delicious and comes with very fresh vegtables .", 'labels': [[(10, 11), (8, 9), 2], [(16, 18), (14, 16), 2], [(21, 22), (19, 21), 2], [(37, 38), (39, 40), 1], [(45, 46), (44, 45), 1]]}
+{'sentence': 'On the other hand , if you are not fooled easily , you will find hundreds of restaurants that will give you service and ambiance that is on par with Alain Ducasse , and food that will outshine in presentaion , taste , choice , quality and quantity .', 'labels': [[(22, 23), (27, 29), 0], [(34, 35), (37, 38), 2]]}
+{'sentence': 'If I could rate the people this place would be off the charts - unfortunately - the pizza , sorry - not the best in NYC .', 'labels': [[(5, 6), (23, 24), 1]]}
+{'sentence': 'The food is amazing ! ! ! !', 'labels': [[(1, 2), (3, 4), 1]]}
+{'sentence': 'The portions are now very small , the sauces are overly ambitious usually inedible while the service is still good , the restaurant , due to its popularity , seems frantic .', 'labels': [[(1, 2), (5, 6), 2], [(8, 9), (11, 12), 2], [(8, 9), (13, 14), 2], [(16, 17), (19, 20), 1]]}
+{'sentence': "The owner is very friendly and a great guy , go try his pizza , you 'll like it !", 'labels': [[(1, 2), (4, 5), 1], [(1, 2), (7, 8), 1], [(13, 14), (11, 12), 1], [(13, 14), (17, 18), 1]]}
+{'sentence': 'The atmosphere is great ! ! !', 'labels': [[(1, 2), (3, 4), 1]]}
+{'sentence': "With so many good restaurants on the UWS , I do n't need overpriced food , absurdly arrogant wait-staff who do n't recognize they work at a glorified diner , clumsy service , and management that does n't care .", 'labels': [[(14, 15), (13, 14), 2], [(18, 19), (17, 18), 2], [(28, 29), (27, 28), 2], [(31, 32), (30, 31), 2], [(34, 35), (36, 39), 2]]}
+{'sentence': 'I tend to judge a sushi restaurant by its sea urchin , which was heavenly at sushi rose .', 'labels': [[(9, 11), (14, 15), 1]]}
+{'sentence': 'The service is a little scatty at times but all is forgiven when the food arrives .', 'labels': [[(1, 2), (5, 6), 2], [(14, 15), (11, 12), 1]]}
+{'sentence': 'The bruscetta is a bit soggy , but the salads were fresh , included a nice mix of greens ( not iceberg ) all dishes are served piping hot from the kitchen .', 'labels': [[(1, 2), (5, 6), 2], [(9, 10), (11, 12), 1], [(16, 19), (15, 16), 1], [(24, 25), (28, 29), 1]]}
+{'sentence': 'If your favorite Chinese food is General Tao chicken , then this is NOT your place .', 'labels': [[(6, 9), (2, 3), 2]]}
+{'sentence': 'Not only is the cuisine the best around , the service has always been attentive and charming .', 'labels': [[(4, 5), (6, 7), 1], [(10, 11), (14, 15), 1], [(10, 11), (16, 17), 1]]}
+{'sentence': 'The production is a symphony , alot of fun to experience.The food sublime for the most part .', 'labels': [[(11, 12), (12, 13), 1]]}
+{'sentence': 'Waiters tend to forget drinks completely , food portions are so tiny , two people have trouble sharing one entree .', 'labels': [[(0, 1), (3, 4), 2], [(7, 9), (11, 12), 2], [(19, 20), (16, 17), 2]]}
+{'sentence': "my wife and i have been going to nyc for years and would n't miss roxy , s food is expensive but it 's new york !", 'labels': [[(18, 19), (20, 21), 1]]}
+{'sentence': 'Interesting selection , good wines , service fine , fun decor .', 'labels': [[(4, 5), (3, 4), 1], [(6, 7), (7, 8), 1], [(10, 11), (9, 10), 1]]}
+{'sentence': "But the thing that my wife and I hated was it was so loud and it felt like ' bar ' or ' pub ' .", 'labels': [[(19, 20), (13, 14), 2]]}
+{'sentence': "While there are plenty of places to go for a good corned beef sandwich , Katz 's has a charm about it .", 'labels': [[(11, 14), (10, 11), 1]]}
+{'sentence': 'However , looking at the table next to ours , we both sort of wished we had ordered pizza , which looked perfect', 'labels': [[(18, 19), (22, 23), 1]]}
+{'sentence': 'Priced at upper intermediate range .', 'labels': [[(0, 1), (2, 4), 2]]}
+{'sentence': 'The fish was adequate , but inexpertly sliced .', 'labels': [[(1, 2), (3, 4), 1], [(1, 2), (6, 8), 1]]}
+{'sentence': "If you live in new york city , you 'll find better food at small restaurants outside of time square and spend half the amount .", 'labels': [[(12, 13), (11, 12), 2]]}
+{'sentence': "they did n't disappoint , service from the second i arrived at the door was extremely pleasant and attentive with almost one server per table .", 'labels': [[(5, 6), (16, 17), 1], [(5, 6), (18, 19), 1]]}
+{'sentence': "I do n't know who they think they are but they have no respect for the residents of the neighborhood ever since they opened their cabaret next door and blasts loud music till three in the morning every weekend during the summer .", 'labels': [[(31, 32), (30, 31), 2]]}
+{'sentence': "The rice to fish ration was also good -- they did n't try to overpack the rice .", 'labels': [[(1, 5), (7, 8), 1]]}
+{'sentence': 'The only positive was the wait staff , which was prompt , knowledgable , and likeable .', 'labels': [[(5, 7), (2, 3), 1], [(5, 7), (10, 11), 1], [(5, 7), (12, 13), 1], [(5, 7), (15, 16), 1]]}
+{'sentence': 'I am not a vegetarian but , almost all the dishes were great .', 'labels': [[(10, 11), (12, 13), 1]]}
+{'sentence': 'I was very impressed by this low-key upper eastsider and their authentically thai cuisine ! ! !', 'labels': [[(12, 14), (11, 12), 1]]}
+{'sentence': 'For the location , the prices are very reasonable .', 'labels': [[(5, 6), (8, 9), 1]]}
+{'sentence': 'The food is okay and the prices here are mediocre .', 'labels': [[(1, 2), (3, 4), 0], [(6, 7), (9, 10), 0]]}
+{'sentence': "My friend 's food was also the complete opposite of what it 's supposed to taste like ( aND look like ) .", 'labels': [[(3, 4), (8, 9), 2]]}
+{'sentence': 'We have been to this place many times , and always have great food , wine , and service .', 'labels': [[(13, 14), (12, 13), 1]]}
+{'sentence': 'Not a typical pizza joint , but good for a low key and fairly cheap nice sit down dinner .', 'labels': [[(18, 19), (14, 16), 1]]}
+{'sentence': 'The corned beef was tender and melted in my mouth .', 'labels': [[(1, 3), (4, 5), 1], [(1, 3), (6, 7), 1]]}
+{'sentence': "The best Chicken pad tai , I 've ever had .", 'labels': [[(2, 5), (1, 2), 1]]}
+{'sentence': '$ 20 for all you can eat sushi can not be beaten .', 'labels': [[(7, 8), (8, 12), 0]]}
+{'sentence': 'Haru serves very fresh fish , has a trendy , modern ambiance , prime location on Park Avenue South and friendly service .', 'labels': [[(4, 5), (3, 4), 1], [(11, 12), (8, 9), 1], [(11, 12), (10, 11), 1], [(14, 15), (13, 14), 1], [(21, 22), (20, 21), 1]]}
+{'sentence': 'Warm and friendly in the winter and terrific outdoor seating in the warmer months .', 'labels': [[(8, 10), (7, 8), 1]]}
+{'sentence': "Very romantic fires - I 've literally spent hours at Lanterna , drinking wine from their extensive wine and enjoying the ambience .", 'labels': [[(17, 18), (16, 17), 1], [(21, 22), (19, 20), 1]]}
+{'sentence': "We got a little tipsy from the sake but is n't that what Saturday nights with the girlfriends are all about ?", 'labels': [[(7, 8), (4, 5), 0]]}
+{'sentence': 'Always a nice crowd , but never loud .', 'labels': [[(3, 4), (2, 3), 1], [(3, 4), (6, 8), 1]]}
+{'sentence': 'The service is spotty , sometimes really friendly and sometimes barely there .', 'labels': [[(1, 2), (3, 4), 1]]}
+{'sentence': 'His drinks are very inventive , delicious and classy .', 'labels': [[(1, 2), (4, 5), 1], [(1, 2), (6, 7), 1], [(1, 2), (8, 9), 1]]}
+{'sentence': 'Great food , great prices , great service .', 'labels': [[(1, 2), (0, 1), 1], [(4, 5), (3, 4), 1], [(7, 8), (6, 7), 1]]}
+{'sentence': 'Awesome Pizza especially the Margheritta slice .', 'labels': [[(1, 2), (0, 1), 1]]}
+{'sentence': 'This place , however , has a lot less pretension than Joya and the Thai food is still above average .', 'labels': [[(14, 16), (18, 20), 1]]}
+{'sentence': 'Food is great .', 'labels': [[(0, 1), (2, 3), 1]]}
+{'sentence': 'I recommend the meatballs and caprese salad and the beans on toast were a wonderful start to the meal !', 'labels': [[(3, 4), (1, 2), 1], [(9, 12), (14, 15), 1]]}
+{'sentence': 'This place is incredibly tiny .', 'labels': [[(1, 2), (4, 5), 2]]}
+{'sentence': "I did n't complain , I liked the atmosphere so much .", 'labels': [[(8, 9), (6, 7), 1]]}
+{'sentence': 'But when you are seated the waitresses are great , they explain everything on the menu , and the price of the food is really cheap for the service you get .', 'labels': [[(6, 7), (8, 9), 1], [(19, 20), (25, 26), 1]]}
+{'sentence': "I 've been to several places for Dim Sum and this has got to be the WORST .", 'labels': [[(7, 9), (16, 18), 2]]}
+{'sentence': 'The freshest , best variety , and the fastest delivery .', 'labels': [[(4, 5), (3, 4), 1], [(9, 10), (8, 9), 1]]}
+{'sentence': 'Go to Volare for 1st class service and terrific food .', 'labels': [[(6, 7), (4, 6), 1], [(9, 10), (8, 9), 1]]}
+{'sentence': 'The people in the restaurant were pretty obnoxious and loud .', 'labels': [[(1, 2), (7, 8), 2], [(1, 2), (9, 10), 2]]}
+{'sentence': 'The sandwiches are dry , tasteless and way overpriced .', 'labels': [[(1, 2), (3, 4), 2], [(1, 2), (5, 6), 2], [(1, 2), (8, 9), 2]]}
+{'sentence': 'Price no more than a Jersey deli but way better .', 'labels': [[(0, 1), (9, 10), 1]]}
+{'sentence': 'We were well attended to by the enthusiastic staff especially the manager Tony Gaskin who made excellent suggestions for our menu selections .', 'labels': [[(8, 9), (7, 8), 1], [(11, 12), (16, 17), 1]]}
+{'sentence': 'Made my dining experience uncomfortable .', 'labels': [[(2, 4), (4, 5), 2]]}
+{'sentence': 'A very inviting restaurant , with friendly service .', 'labels': [[(7, 8), (6, 7), 1]]}
+{'sentence': 'THe back garden sitting area is very pleasant , where you can see their personal herb garden .', 'labels': [[(1, 5), (7, 8), 1]]}
+{'sentence': 'We also had shared a house salad that was fresh .', 'labels': [[(5, 7), (9, 10), 1]]}
+{'sentence': 'The ceiling is amazing !', 'labels': [[(1, 2), (3, 4), 1]]}
+{'sentence': 'Not a small feat for good french food in the area .', 'labels': [[(6, 8), (5, 6), 1]]}
+{'sentence': 'The space is a bit too small for live music , so on jazz nights , it can be loud and cramped .', 'labels': [[(1, 2), (6, 7), 2], [(13, 15), (19, 20), 0], [(13, 15), (21, 22), 0]]}
+{'sentence': 'Big Wong gets big Ups for a fine establishment .', 'labels': [[(8, 9), (7, 8), 1]]}
+{'sentence': 'The entree was bland and small , dessert was not inspired .', 'labels': [[(1, 2), (3, 4), 2], [(1, 2), (5, 6), 2], [(7, 8), (9, 11), 2]]}
+{'sentence': 'The staff was the friendliest that have seen in New York .', 'labels': [[(1, 2), (4, 5), 1]]}
+{'sentence': 'With the exception of our lemon salad that had so much pepper on it that our eyes started watering , the food here was decent , not great .', 'labels': [[(11, 12), (10, 11), 2], [(21, 22), (24, 25), 0], [(21, 22), (26, 28), 0]]}
+{'sentence': "The Pad thai , lad nar and various other dishes all look good on paper but , I 've had better thai food in less asthetically pleasing places .", 'labels': [[(1, 3), (12, 13), 1], [(21, 23), (20, 21), 0]]}
+{'sentence': 'Delicious food at a great price but do not go here on a cold day and sit by the front door .', 'labels': [[(1, 2), (0, 1), 1], [(5, 6), (4, 5), 1], [(19, 21), (13, 14), 0]]}
+{'sentence': "Overall , I 'm still impressed that the place even exists and the prices are quite decent but then again , its Chinatown .", 'labels': [[(13, 14), (16, 17), 1]]}
+{'sentence': 'Admittedly some nights inside the restaurant were rather warm , but the open kitchen is part of the charm .', 'labels': [[(12, 14), (18, 19), 1]]}
+{'sentence': 'Pizza was a little soggy .', 'labels': [[(0, 1), (4, 5), 2]]}
+{'sentence': 'The only problem is that the manager is a complete incompetent .', 'labels': [[(6, 7), (10, 11), 2]]}
+{'sentence': 'The wine list is interesting and has many good values .', 'labels': [[(1, 3), (4, 5), 1], [(1, 3), (8, 10), 1]]}
+{'sentence': "I 'm still mad that i had to pay for lousy food .", 'labels': [[(11, 12), (10, 11), 2]]}
+{'sentence': "Definite go if you 're used to good Indian restaurant food from abroad .", 'labels': [[(8, 11), (7, 8), 1]]}
+{'sentence': 'By far , the best pizza in Manhattan .', 'labels': [[(5, 6), (4, 5), 1]]}
+{'sentence': 'Decent Thai food in cute - though a bit dank - little Nolita hangout , BUT service terrible .', 'labels': [[(1, 3), (0, 1), 1], [(16, 17), (17, 18), 2]]}
+{'sentence': 'The food is mostly made from scratch , fresh and well prepared .', 'labels': [[(1, 2), (8, 9), 1], [(1, 2), (10, 12), 1]]}
+{'sentence': 'Worse of all , $ 60 was erroneously added to our $ 80 bill .', 'labels': [[(13, 14), (7, 8), 2]]}
+{'sentence': 'NO more reservations , expensive tips and annoying stuff .', 'labels': [[(2, 3), (0, 2), 1], [(5, 6), (4, 5), 1], [(8, 9), (7, 8), 1]]}
+{'sentence': "Sushi was n't anything spectacular for the price .", 'labels': [[(0, 1), (4, 5), 0]]}
+{'sentence': "So , for good food i 'd recommend it , but not for a fun night out .", 'labels': [[(4, 5), (3, 4), 1], [(4, 5), (7, 8), 1]]}
+{'sentence': 'The menu choices are similar but the taste lacked more flavor than it looked .', 'labels': [[(1, 3), (4, 5), 0], [(7, 8), (8, 9), 2]]}
+{'sentence': 'A must for all the Dosa lovers .', 'labels': [[(5, 6), (1, 2), 1]]}
+{'sentence': 'The appetizers are just OK and the main courses were decidedly subpar .', 'labels': [[(1, 2), (4, 5), 0], [(7, 9), (11, 12), 2]]}
+{'sentence': 'The staff is very attentive and we can almost always get a table .', 'labels': [[(1, 2), (4, 5), 1]]}
+{'sentence': 'Try the mediterranean salad , it is a true experience for your taste buds ! !', 'labels': [[(2, 4), (0, 1), 1]]}
+{'sentence': 'The cream cheeses are out of this world and I love that coffee ! !', 'labels': [[(1, 3), (4, 8), 1], [(12, 13), (10, 11), 1]]}
+{'sentence': 'From the entrees to the sides to the drinks , everything was creatively prepared yet still simple .', 'labels': [[(2, 3), (12, 14), 1], [(2, 3), (16, 17), 1]]}
+{'sentence': 'Service was prompt and courteous .', 'labels': [[(0, 1), (2, 3), 1], [(0, 1), (4, 5), 1]]}
+{'sentence': 'It was not above ordinary and the beef version had cheap ( undercooked ) beef .', 'labels': [[(7, 9), (10, 11), 2], [(7, 9), (12, 13), 2]]}
+{'sentence': "It was nice and fresh , but I ca n't give it high scores on being authentic thai .", 'labels': [[(17, 18), (16, 17), 2]]}
+{'sentence': 'Only wine and beer are served , but the house varities are actually quite good .', 'labels': [[(9, 11), (14, 15), 1]]}
+{'sentence': 'Oh , and the complimentary pudding dessert was just enough - yummy !', 'labels': [[(5, 7), (9, 10), 1], [(5, 7), (11, 12), 1]]}
+{'sentence': 'Decent wine selection too .', 'labels': [[(1, 3), (0, 1), 1]]}
+{'sentence': 'It saves walking in and waiting for a table in the often noisy , crowded bar at dinnertime .', 'labels': [[(5, 6), (1, 2), 2], [(15, 16), (12, 13), 2], [(15, 16), (14, 15), 2]]}
+{'sentence': 'Mine was a little burnt but still delicious with goat cheese and panchetta ( raddichio was kind of bitter though ) .', 'labels': [[(9, 11), (7, 8), 1], [(14, 15), (18, 19), 2]]}
+{'sentence': 'Disappointing food , lousy service .', 'labels': [[(1, 2), (0, 1), 2], [(4, 5), (3, 4), 2]]}
+{'sentence': 'If you want a casual neighborhood bistro that has great food and excellent service , this is the place .', 'labels': [[(10, 11), (9, 10), 1], [(13, 14), (12, 13), 1]]}
+{'sentence': 'great place to go for a drink too because they have 100 kinds of beer .', 'labels': [[(6, 7), (0, 1), 0]]}
+{'sentence': 'Over price , and small portions .', 'labels': [[(1, 2), (0, 1), 2], [(5, 6), (4, 5), 2]]}
+{'sentence': 'Meanwhile , the bartender continued to pour champagne from his reserve after we had finished our bottle and we enjoyed an amuse of turnip soup with pureed basil , gratis .', 'labels': [[(23, 28), (19, 20), 1]]}
+{'sentence': 'The food was well prepared and the service impecable .', 'labels': [[(1, 2), (3, 5), 1], [(7, 8), (8, 9), 1]]}
+{'sentence': 'BUt their best dish is thh Thai spiced curry noodles with shrimp - a dish that would cost $ 23.95 is most places , but it is $ 16 here .', 'labels': [[(3, 4), (2, 3), 1]]}
+{'sentence': 'Good , dark atmosphere and the music is a nice touch .', 'labels': [[(3, 4), (0, 1), 1], [(3, 4), (2, 3), 1], [(6, 7), (9, 11), 1]]}
+{'sentence': 'But the thai is definitely not great -- bland and undistinguished .', 'labels': [[(2, 3), (5, 7), 2], [(2, 3), (8, 9), 2], [(2, 3), (10, 11), 2]]}
+{'sentence': 'Great for groups , great for a date , great for early brunch or a nightcap .', 'labels': [[(12, 13), (9, 10), 1]]}
+{'sentence': 'Our friendly server made great food suggestions and also sent both the sommelier and the fromager to the table to help suggest different pairings for wine and cheese .', 'labels': [[(2, 3), (1, 2), 1], [(5, 7), (4, 5), 1]]}
+{'sentence': "Because we did n't have a reservation , we could only sit in the back garden , but it was great , secluded and perfect in nice weather .", 'labels': [[(14, 16), (20, 21), 1], [(14, 16), (22, 23), 1], [(14, 16), (24, 25), 1]]}
+{'sentence': 'Stuffing yourself with Japanese food is a rare thing .', 'labels': [[(3, 5), (7, 8), 0]]}
+{'sentence': 'Service is not what one would expect from a joint in this price category .', 'labels': [[(0, 1), (2, 7), 2]]}
+{'sentence': 'Our family never expected such incredible entertainment in a restaurant .', 'labels': [[(6, 7), (5, 6), 1]]}
+{'sentence': 'i would recommend reservations on weekends though .', 'labels': [[(3, 4), (2, 3), 0]]}
+{'sentence': 'Great pizza for lunch place .', 'labels': [[(1, 2), (0, 1), 1]]}
+{'sentence': 'The food was very expensive ( we spent $ 160 for lunch for two ) but extremely tasty .', 'labels': [[(1, 2), (4, 5), 1], [(1, 2), (17, 18), 1]]}
+{'sentence': 'We were a group of 8 and well seved .', 'labels': [[(8, 9), (7, 8), 1]]}
+{'sentence': 'I LOVE their spicy scallop roll , and my boyfriend consistently gets the sesame chicken .', 'labels': [[(4, 6), (1, 2), 1]]}
+{'sentence': 'Best dish is nori-wrapped tuna .', 'labels': [[(3, 5), (0, 1), 1]]}
+{'sentence': 'An excellent alternative to fast food joints and ordering in but , the food was slightly disappointing .', 'labels': [[(13, 14), (1, 2), 2], [(13, 14), (16, 17), 2]]}
+{'sentence': 'The all you can eat deal is truly amazing here .', 'labels': [[(1, 6), (8, 9), 1]]}
+{'sentence': 'They were such a rip-off ( $ 8.95 for four small meat patties in steamed buns ) and not worth trying .', 'labels': [[(11, 16), (4, 5), 2], [(11, 16), (18, 21), 2]]}
+{'sentence': 'All of the pizzas are terrific and the price is even better !', 'labels': [[(3, 4), (5, 6), 1], [(8, 9), (11, 12), 1]]}
+{'sentence': 'It is about FOOD and Ambiance , and imagine how dreadful it will be it we only had to listen to an idle engine .', 'labels': [[(3, 4), (10, 11), 2]]}
+{'sentence': 'The food was good too .', 'labels': [[(1, 2), (3, 4), 1]]}
+{'sentence': 'The dining room is quietly elegant with no music to shout over -- how refreshing !', 'labels': [[(1, 3), (5, 6), 1], [(1, 3), (14, 15), 1]]}
+{'sentence': 'Admittedly , this is not the place for gigantic pieces of fish overflowing the plate ( and thank goodness , in my opinion ) but for simple , elegant sushi there is no better place in New York or anywhere in the US .', 'labels': [[(29, 30), (26, 27), 1], [(29, 30), (28, 29), 1]]}
+{'sentence': 'The menu seemed to have a wide variety of dishes for seafood lovers and interesting ways of preparing them .', 'labels': [[(1, 2), (6, 7), 1], [(11, 12), (14, 15), 1]]}
+{'sentence': 'The white bean brushetta to start was incredible and the pasta was phenomenal .', 'labels': [[(1, 4), (7, 8), 1], [(10, 11), (12, 13), 1]]}
+{'sentence': 'Great food , great lay out and awesome service .', 'labels': [[(1, 2), (3, 4), 1], [(8, 9), (7, 8), 1]]}
+{'sentence': 'We walked in on a Wednesday night and were seated promptly .', 'labels': [[(9, 10), (10, 11), 1]]}
+{'sentence': "The wait staff is very freindly , they make it feel like you 're eating in a freindly little european town .", 'labels': [[(1, 3), (5, 6), 1]]}
+{'sentence': "The waitstaff are all very busy , it 's not outstanding service , but I 've never been dealt with rudely .", 'labels': [[(1, 2), (5, 6), 2], [(11, 12), (9, 11), 1]]}
+{'sentence': 'They have it all -- great price , food , and service .', 'labels': [[(6, 7), (5, 6), 1]]}
+{'sentence': 'The flavors are great , and the menu is extensive .', 'labels': [[(1, 2), (3, 4), 1], [(7, 8), (9, 10), 1]]}
+{'sentence': "This place has the best interior I have seen anywhere in the northside of W'burg , and will impress whoever you bring there .", 'labels': [[(5, 6), (4, 5), 1], [(1, 2), (18, 19), 1]]}
+{'sentence': 'The food has been consistant for years and it never lets you down .', 'labels': [[(1, 2), (4, 5), 1]]}
+{'sentence': "And forget what you read under me , the atmosphere is n't that bad either .", 'labels': [[(9, 10), (10, 14), 0]]}
+{'sentence': 'sometimes i get good food and ok service .', 'labels': [[(4, 5), (3, 4), 1], [(7, 8), (6, 7), 0]]}
+{'sentence': "After complaining about the chicken dish , the manager came over to tell us that , no one had ever complained before , and that we just did n't know what the dish was supposed to taste like .", 'labels': [[(4, 6), (1, 2), 2]]}
+{'sentence': 'Bartender was unable to tear himself away from friends at bar .', 'labels': [[(0, 1), (2, 5), 2]]}
+{'sentence': "Anyways , if you 're in the neighborhood to eat good food , I would n't waste my time trying to find something , rather go across the street to Tamari .", 'labels': [[(11, 12), (10, 11), 1]]}
+{'sentence': 'Dahkin also offers prix fixe lunch and buffet .', 'labels': [[(4, 6), (3, 4), 1]]}
+{'sentence': "Although the place could be a little more eye catching and roomier , at the same time , it does n't really matter .", 'labels': [[(2, 3), (8, 10), 1]]}
+{'sentence': 'We actually gave 10 % tip ( which we have never done despite mediocre food and service ) , because we felt totally ripped off .', 'labels': [[(14, 15), (13, 14), 0]]}
+{'sentence': 'I would highly recommend requesting a table by the window .', 'labels': [[(6, 10), (3, 4), 1]]}
+{'sentence': 'While we enjoyed the food , we were highly disappointed by the poor service ( waiter was not quite competent and SLOW service ) and lack of remorse .', 'labels': [[(4, 5), (2, 3), 1], [(13, 14), (12, 13), 2], [(15, 16), (17, 20), 2], [(22, 23), (21, 22), 2]]}
+{'sentence': 'The service , however , was a bright flower in a garden .', 'labels': [[(1, 2), (7, 8), 1]]}
+{'sentence': "We 've been to Grocery three times and not once has an item on the menu disappointed .", 'labels': [[(15, 16), (16, 17), 1]]}
+{'sentence': 'A touch more jalapeno heat for contrast and it would have been very good indeed .', 'labels': [[(3, 4), (13, 14), 1]]}
+{'sentence': "We ate out in the back patio , which is worth it as it 's cool and the music is hear well there .", 'labels': [[(5, 7), (10, 11), 1], [(5, 7), (15, 16), 1], [(18, 19), (21, 22), 1]]}
+{'sentence': 'The location is perfect .', 'labels': [[(1, 2), (3, 4), 1]]}
+{'sentence': "Guacamole+shrimp appetizer was really great , we both had the filet , very good , did n't much like the frites that came with , but the filet was so good , neither of us cared .", 'labels': [[(0, 2), (4, 5), 1], [(10, 11), (13, 14), 1], [(27, 28), (30, 31), 1]]}
+{'sentence': 'The lunch special is an absolute steal .', 'labels': [[(1, 3), (6, 7), 1]]}
+{'sentence': 'Nothing fancy but really good food with pretty reasonable price .', 'labels': [[(5, 6), (4, 5), 1], [(9, 10), (8, 9), 1]]}
+{'sentence': 'The chicken pot pie is exceptional , the cheeseburger huge and delictable , and the service professional wan warm .', 'labels': [[(0, 4), (5, 6), 1], [(8, 9), (9, 10), 1], [(8, 9), (11, 12), 1], [(15, 16), (16, 17), 1], [(15, 16), (18, 19), 1]]}
+{'sentence': "While I quite liked the food and the ambience , I 'm not quite sure if it they really deserve it the Michelin rating they have displayed so prooudly in the window .", 'labels': [[(5, 6), (3, 4), 1]]}
+{'sentence': 'Not worth the prices .', 'labels': [[(3, 4), (1, 2), 2]]}
+{'sentence': 'From the moment you enter till the moment you walk out the friendly and helpful staff was was just Fantastic .', 'labels': [[(15, 16), (12, 13), 1], [(15, 16), (14, 15), 1], [(15, 16), (19, 20), 1]]}
+{'sentence': 'Service was good and food is wonderful .', 'labels': [[(0, 1), (2, 3), 1], [(4, 5), (6, 7), 1]]}
+{'sentence': 'The restaurant is a bit noisy but that is something that can be overlooked once you sit down and enjoy a great meal', 'labels': [[(22, 23), (19, 20), 1], [(22, 23), (21, 22), 1]]}
+{'sentence': 'I have eaten at Saul , many times , the food is always consistently , outrageously good .', 'labels': [[(10, 11), (16, 17), 1]]}
+{'sentence': 'sandwiches tho pricey are over stuffed - can serve 2 persons easily thus cost effective !', 'labels': [[(0, 1), (2, 3), 1], [(0, 1), (5, 6), 1], [(0, 1), (13, 15), 1]]}
+{'sentence': 'Service and food is what any one would expect when spending that type of money .', 'labels': [[(0, 1), (8, 9), 0]]}
+{'sentence': 'LOVE the atmosphere - felt like I was in Paris .', 'labels': [[(2, 3), (0, 1), 1]]}
+{'sentence': 'The staff is incredibly helpful and attentive .', 'labels': [[(1, 2), (4, 5), 1], [(1, 2), (6, 7), 1]]}
+{'sentence': 'Apparently , the good cook works then .', 'labels': [[(4, 5), (3, 4), 1]]}
+{'sentence': 'The menu changed , portions were even smaller than before , a lentil dish was salty beyond edibility , a basmati rice dish lacked flavor .', 'labels': [[(1, 2), (2, 3), 2], [(4, 5), (7, 8), 2], [(12, 14), (15, 16), 2], [(20, 23), (23, 24), 2]]}
+{'sentence': 'Patroon features a nice cigar bar and has great staff .', 'labels': [[(4, 6), (3, 4), 1], [(9, 10), (8, 9), 1]]}
+{'sentence': 'Very affordable and excellent ambient !', 'labels': [[(4, 5), (1, 2), 1], [(4, 5), (3, 4), 1]]}
+{'sentence': 'Bill a little high , but worth it .', 'labels': [[(0, 1), (3, 4), 1], [(0, 1), (6, 7), 1]]}
+{'sentence': 'Why do people rave about the ambience .', 'labels': [[(6, 7), (3, 4), 2]]}
+{'sentence': "Fluke sashimi drizzled with jalapeno-lime olive oil , the fruit of the oil nicely highlighting the fish 's sweetness .", 'labels': [[(9, 13), (13, 14), 1], [(16, 17), (18, 19), 1]]}
+{'sentence': 'Great sushi experience .', 'labels': [[(1, 2), (0, 1), 1]]}
+{'sentence': "If you 're looking for a great meal at a decent price , go to Del Frisco 's !", 'labels': [[(7, 8), (6, 7), 1], [(11, 12), (10, 11), 1]]}
+{'sentence': 'Try the congee and the donut like deep fried dough they call Ow Ley Soh , a delicious and sweet tasting bread .', 'labels': [[(2, 3), (0, 1), 1], [(21, 22), (17, 18), 1], [(21, 22), (19, 21), 1]]}
+{'sentence': 'The food was delicious and the waiter was incredibly helpful and attentive ( considering we were the only ones there for the first hour ) .', 'labels': [[(1, 2), (3, 4), 1], [(6, 7), (9, 10), 1], [(6, 7), (11, 12), 1]]}
+{'sentence': "Perhaps this food is considered extreme to an Upper East Side resident , but for the rest of us who 've actually eaten ethnic food , this is simply dull .", 'labels': [[(2, 3), (5, 6), 1]]}
+{'sentence': 'The place was real empty but that was because this was the first Sunday they ever opened .', 'labels': [[(1, 2), (4, 5), 2]]}
+{'sentence': 'This little place definitely exceeded my expectations and you sure get a lot of food for your money .', 'labels': [[(2, 3), (4, 7), 1], [(14, 15), (12, 13), 1]]}
+{'sentence': 'Service was excellent , and the AC worked very well too ( thank God , it was hot ! ) .', 'labels': [[(0, 1), (2, 3), 1], [(6, 7), (9, 10), 1]]}
+{'sentence': 'You get the sense that the people there care about their restaurant and about your experience and that is very nice .', 'labels': [[(6, 7), (20, 21), 1]]}
+{'sentence': 'My friend ordered some of their special sushi rolls which had excellent presentation and tasted great !', 'labels': [[(7, 9), (6, 7), 1], [(7, 9), (11, 12), 1], [(7, 9), (15, 16), 1]]}
+{'sentence': 'Although be warned their dinner menu to sit and take out prices are different .', 'labels': [[(4, 8), (2, 3), 0], [(11, 12), (13, 14), 0]]}
+{'sentence': 'The staff was accomodating , the food was absolutely delicious and the place is lovely .', 'labels': [[(1, 2), (3, 4), 1], [(6, 7), (9, 10), 1], [(12, 13), (14, 15), 1]]}
+{'sentence': "my picks are : - Scallion Pancake ( fried with vegetable juice , very special and tasty ) - Guizhou Chicken - Shredded Squid Family Style ( one of my personal favorites ) - Sichuan Spicy Soft Shell Crab - Shuizhu Fish ( this one is for hardcore Sichuan food fans , I would n't recommend to my American friends as it 's very spicy .", 'labels': [[(5, 7), (14, 15), 1], [(5, 7), (16, 17), 1], [(22, 26), (31, 32), 1], [(40, 42), (64, 65), 1]]}
+{'sentence': 'They smell like they stuff them with old canned vegetables like the spinach mushroom calzone .', 'labels': [[(12, 15), (7, 8), 2]]}
+{'sentence': 'To celebrate a birthday , three of us went to Mare anticipating great food .', 'labels': [[(13, 14), (12, 13), 0]]}
+{'sentence': 'There was a great deal for 6 Blue Point oysters and a beer or glass of wine for $ 8 !', 'labels': [[(7, 10), (3, 4), 0]]}
+{'sentence': 'I really liked the noodle dishes at Rice Avenue compared to their Green Curry dish .', 'labels': [[(4, 6), (2, 3), 1]]}
+{'sentence': 'But for whatever reason , prices are about twice as high .', 'labels': [[(5, 6), (10, 11), 2]]}
+{'sentence': 'I am relatively new to the area and tried Pick a bgel on 2nd and was disappointed with the service and I thought the food was overated and on the pricey side .', 'labels': [[(19, 20), (16, 17), 2], [(24, 25), (26, 27), 2], [(24, 25), (30, 31), 2]]}
+{'sentence': 'Great atmoshere and worth every bit .', 'labels': [[(1, 2), (0, 1), 1]]}
+{'sentence': 'Great staff .', 'labels': [[(1, 2), (0, 1), 1]]}
+{'sentence': "Only complaint would be that at an average cost of $ 12- $ 15 per meal , I 'd like not to have to worry about finding a seat !", 'labels': [[(8, 9), (1, 2), 2], [(28, 29), (20, 25), 2]]}
+{'sentence': 'To finish off such a delightful dinner experience you must have dessert , especially the White Chocolate Bread Pudding with Gelato and hot chocolate .', 'labels': [[(6, 7), (5, 6), 1]]}
+{'sentence': 'The banana tower is an amazing dessert as well .', 'labels': [[(1, 3), (5, 6), 1]]}
+{'sentence': 'Excellent atmosphere , delicious dishes good and friendly service .', 'labels': [[(1, 2), (0, 1), 1], [(4, 5), (3, 4), 1], [(8, 9), (5, 6), 1], [(8, 9), (7, 8), 1]]}
+{'sentence': 'A cool place to hang with your friends for a couple of healthy drinks and desserts .', 'labels': [[(2, 3), (1, 2), 1], [(13, 14), (12, 13), 1]]}
+{'sentence': 'Great vibe , lots of people .', 'labels': [[(1, 2), (0, 1), 1]]}
+{'sentence': 'The service is a bit slow , but harkens back to my years growing up in Napoli , Italy where things are not rushed and when you sit down for dinner the table is yours all night .', 'labels': [[(1, 2), (5, 6), 2]]}
+{'sentence': 'Wine list is not huge but def well selected .', 'labels': [[(0, 2), (4, 5), 1], [(0, 2), (7, 9), 1]]}
+{'sentence': 'A cool bar with great food , and tons of excellent beer .', 'labels': [[(2, 3), (1, 2), 1], [(5, 6), (4, 5), 1], [(11, 12), (10, 11), 1]]}
+{'sentence': 'Be sure to try the seasonal , and always delicious , specials .', 'labels': [[(11, 12), (3, 4), 1], [(11, 12), (5, 6), 1], [(11, 12), (9, 10), 1]]}
+{'sentence': 'Fresh , authentic , french cuisine in substantial portions .', 'labels': [[(4, 6), (0, 1), 1], [(4, 6), (2, 3), 1], [(8, 9), (7, 8), 1]]}
+{'sentence': 'Drinks got screwed up , she acted put upon .', 'labels': [[(0, 1), (2, 4), 2]]}
+{'sentence': "The one vegetarian entree ( Abby 's treasure ) was actually quite a surprise - it was delicious and had wintermelon covering an assortment of fresh mushrooms and vegetables .", 'labels': [[(2, 4), (13, 14), 1], [(2, 4), (17, 18), 1], [(26, 29), (25, 26), 1]]}
+{'sentence': 'But the pizza is way to expensive .', 'labels': [[(2, 3), (6, 7), 2]]}
+{'sentence': 'And the staff is also young , energeic and hot ! ! ! !', 'labels': [[(2, 3), (5, 6), 1], [(2, 3), (7, 8), 1], [(2, 3), (9, 10), 1]]}
+{'sentence': 'Even better , they know how to cook French classics like Steak au Poivre and Onglet without burning it to death or overcooking it .', 'labels': [[(11, 14), (1, 2), 1]]}
+{'sentence': 'Service was decent , but not as smooth as I would expect from a place with these prices and reputation .', 'labels': [[(0, 1), (2, 3), 1], [(0, 1), (5, 8), 1]]}
+{'sentence': 'We had a wonderful meal at Naples 45 a month ago on a visit to NYC .', 'labels': [[(4, 5), (3, 4), 1]]}
+{'sentence': 'Good drink .', 'labels': [[(1, 2), (0, 1), 1]]}
+{'sentence': 'My chow fun and chow see was really bland and oily .', 'labels': [[(1, 6), (8, 9), 2], [(1, 6), (10, 11), 2]]}
+{'sentence': 'Even though I made the reservation at 3pm for the same night through Dinnerbroker , we were seated at a table with one of the best view !', 'labels': [[(20, 21), (25, 26), 1]]}
+{'sentence': "I did n't take a look at the rest menu , but the oysters were fantastic .", 'labels': [[(13, 14), (15, 16), 1]]}
+{'sentence': 'The grilled cheese at home afterwards was better . ! !', 'labels': [[(1, 3), (7, 8), 1]]}
+{'sentence': 'The red sliding doors may be unique but they do not block off the cold air from the outside .', 'labels': [[(3, 4), (6, 7), 1]]}
+{'sentence': 'Great service , great food .', 'labels': [[(1, 2), (0, 1), 1], [(4, 5), (3, 4), 1]]}
+{'sentence': 'The food is expensive , but worth every bite .', 'labels': [[(1, 2), (3, 4), 1], [(1, 2), (6, 7), 1]]}
+{'sentence': 'sometimes i get bad food and bad service , sometimes i get good good and bad service .', 'labels': [[(4, 5), (3, 4), 2], [(7, 8), (6, 7), 2], [(13, 14), (12, 13), 1], [(16, 17), (15, 16), 2]]}
+{'sentence': 'In summer-eat outside on a terrace ( another great feature of Suan ) ! ! !', 'labels': [[(5, 6), (8, 9), 1]]}
+{'sentence': "It 's the perfect restaurant for NY life style , it got cool design , awesome drinks and food and lot 's of good looking people eating and hanging at the pink bar ...", 'labels': [[(13, 14), (12, 13), 1], [(16, 17), (15, 16), 1], [(32, 33), (31, 32), 0]]}
+{'sentence': 'If you love seafood , you would love this place !', 'labels': [[(3, 4), (2, 3), 1], [(9, 10), (7, 8), 1]]}
+{'sentence': 'They charge different prices all the time .', 'labels': [[(3, 4), (2, 3), 2]]}
+{'sentence': 'I was in love with Pongsri on 48th , but compared to Suan it is slow in service and overpriced .', 'labels': [[(17, 18), (15, 16), 2]]}
+{'sentence': 'My friends and I experienced amazing cheese and a delicious , new summer menu at Artisanal last night .', 'labels': [[(6, 7), (5, 6), 1], [(13, 14), (9, 10), 1], [(13, 14), (11, 12), 1]]}
+{'sentence': "It 's charmingly small and that leads to an atmoshere that is extremely cozy and romantic , even .", 'labels': [[(9, 10), (13, 14), 1], [(9, 10), (15, 16), 1]]}
+{'sentence': 'In terms of the food itself -- nothing special , we limited ourselves to several appetizers .', 'labels': [[(4, 5), (7, 9), 0], [(15, 16), (11, 12), 0]]}
+{'sentence': 'The service was ok .', 'labels': [[(1, 2), (3, 4), 0]]}
+{'sentence': 'The staff is accomodating , the ambiance is exciting and yet relaxed , and the food is out of this world !', 'labels': [[(1, 2), (3, 4), 1], [(6, 7), (8, 9), 1], [(6, 7), (11, 12), 1], [(15, 16), (17, 21), 1]]}
+{'sentence': 'The manager claimed that he could not compensate us for anything on the bill which just shows the lack of sophistication from the entire group .', 'labels': [[(1, 2), (18, 21), 2]]}
+{'sentence': 'We took advanatage of the half price sushi deal on saturday so it was well worth it .', 'labels': [[(5, 9), (15, 16), 1]]}
+{'sentence': 'No dress codes , no attitudes , plenty of comfort companionship , a great place to relax in an always busy Midtown .', 'labels': [[(1, 3), (0, 1), 1], [(5, 6), (4, 5), 1], [(14, 15), (13, 14), 1]]}
+{'sentence': 'Largest and freshest pieces of sushi , and delicious !', 'labels': [[(3, 6), (0, 1), 1], [(3, 6), (2, 3), 1], [(3, 6), (8, 9), 1]]}
+{'sentence': 'Even the pasta is delicious here ( a rarity in New York pizza restaurants ) .', 'labels': [[(2, 3), (4, 5), 1]]}
+{'sentence': 'Maybe I say so because it looked promising for people who like artery-clogging jewish deli food , but turns out to be poorly run and awful .', 'labels': [[(13, 16), (22, 23), 1], [(13, 16), (25, 26), 1]]}
+{'sentence': 'Wait staff is blantently unappreciative of your business but its the best pie on the UWS !', 'labels': [[(0, 2), (4, 5), 2], [(12, 13), (11, 12), 1]]}
+{'sentence': "The ingredients taste fresher , the crust is thinner and crispier , the slice is less oily , and it 's never burnt like it occasionally is at Joe 's .", 'labels': [[(1, 2), (3, 4), 1], [(6, 7), (8, 9), 1], [(6, 7), (10, 11), 1], [(13, 14), (15, 17), 1]]}
+{'sentence': 'The prices were CHEAP compared to the quality of service and food .', 'labels': [[(1, 2), (3, 4), 1]]}
+{'sentence': 'Top spot in town for Vietnamese classics , better than places that cost a lot more .', 'labels': [[(5, 7), (0, 1), 1]]}
+{'sentence': "I come from a family of pizzeria owners , and I 'm almost ashamed to say that the pizza in Fornino 's blows my families receipies away .", 'labels': [[(18, 19), (13, 14), 1]]}
+{'sentence': 'They have a huge selection of different cream cheeses and all of their salads are great .', 'labels': [[(7, 9), (3, 4), 1], [(7, 9), (6, 7), 1], [(13, 14), (15, 16), 1]]}
+{'sentence': 'The food was authentic .', 'labels': [[(1, 2), (3, 4), 1]]}
+{'sentence': 'The dim sum is delectable while the prices are quite easy on the wallet .', 'labels': [[(1, 3), (4, 5), 1], [(7, 8), (10, 11), 1]]}
+{'sentence': "I only tried a simple dish of spinach ravioli in a light oil and garlic sauce , but it actually faired better than most NYC Italian joints I 've tried similar dishes at .", 'labels': [[(7, 16), (21, 22), 1]]}
+{'sentence': 'I ordered a Chicken Teriyaki dish and found that the chicken was extremely dry .', 'labels': [[(3, 6), (13, 14), 2]]}
+{'sentence': 'So , a little inconsistency there but either way , both pizzas were really good .', 'labels': [[(11, 12), (14, 15), 1]]}
+{'sentence': 'Not enough wines by the glass either .', 'labels': [[(2, 6), (0, 2), 2]]}
+{'sentence': 'I had the duck breast special on my last visit and it was incredible .', 'labels': [[(3, 6), (13, 14), 1]]}
+{'sentence': 'These innovators of french indian fusion do a great job of making dishes as interesting as possible while still being accessible .', 'labels': [[(3, 6), (8, 9), 1], [(12, 13), (14, 15), 1], [(12, 13), (20, 21), 1]]}
+{'sentence': 'We were worried we would have trouble getting in , but somehow managed to have a short wait .', 'labels': [[(17, 18), (16, 17), 1]]}
+{'sentence': 'My wife had the fried shrimp which are huge and loved it .', 'labels': [[(4, 6), (8, 9), 1], [(4, 6), (10, 11), 1]]}
+{'sentence': 'The service is awful -- the last time I was there ( and I do mean the last time ) we were told that they needed our table so we would have to leave .', 'labels': [[(1, 2), (3, 4), 2]]}
+{'sentence': 'night without a reservation , we had to wait at the bar for a little while , but the manager was so nice and made our wait a great experience .', 'labels': [[(19, 20), (22, 23), 1]]}
+{'sentence': 'Try the green curry ! ! !', 'labels': [[(2, 4), (0, 1), 1]]}
+{'sentence': 'We had the scallops as an appetizer and they were delicious and the sauce was wonderful .', 'labels': [[(3, 4), (10, 11), 1], [(13, 14), (15, 16), 1]]}
+{'sentence': 'We were also seated promptly at the time of our reservation and the service was very quick and professional .', 'labels': [[(13, 14), (16, 17), 1], [(13, 14), (18, 19), 1]]}
+{'sentence': 'You rarely have to wait for a seat and the currys ( masaman , green , red ) are full of flavor and come super spicy if you ask for it .', 'labels': [[(7, 8), (1, 2), 1], [(21, 22), (19, 20), 1]]}
+{'sentence': 'The food there are sastifying .', 'labels': [[(1, 2), (4, 5), 1]]}
+{'sentence': 'I highly recommend visiting this restaurant and having dinner and drinks !', 'labels': [[(8, 9), (2, 3), 1]]}
+{'sentence': 'The bar is very well stocked with interesting beers and well priced wines .', 'labels': [[(1, 2), (4, 6), 1], [(8, 9), (7, 8), 1], [(12, 13), (10, 12), 1]]}
+{'sentence': 'The food was good .', 'labels': [[(1, 2), (3, 4), 1]]}
+{'sentence': 'Great wine selection , Gigondas is worth the price , and the house champagne is a great value .', 'labels': [[(1, 3), (0, 1), 1], [(4, 5), (6, 9), 1], [(12, 14), (16, 18), 1]]}
+{'sentence': "at night , but it 's hard to hear your own conversation with everyone else competing for that same luxury - the music playing in the background is also voluminous .", 'labels': [[(22, 23), (29, 30), 2]]}
+{'sentence': 'I have enjoyed everything I have ever gotten and the fish is so fresh and always prepared in a great way .', 'labels': [[(10, 11), (13, 14), 1], [(10, 11), (19, 20), 1]]}
+{'sentence': 'I love to visit Murrays for my bagel fix .', 'labels': [[(7, 8), (1, 2), 1]]}
+{'sentence': 'The place was nice and calm .', 'labels': [[(1, 2), (3, 4), 1], [(1, 2), (5, 6), 1]]}
+{'sentence': 'Cheese plate is a varied delight and great bargain at $ 10 .', 'labels': [[(0, 2), (4, 6), 1], [(0, 2), (7, 9), 1]]}
+{'sentence': 'I could have drank 4 glasses of water and still been parched - so watch out .', 'labels': [[(5, 8), (11, 12), 0]]}
+{'sentence': 'Most of the servers are very attentive , friendly and quite attractive .', 'labels': [[(3, 4), (6, 7), 1], [(3, 4), (8, 9), 1], [(3, 4), (11, 12), 1]]}
+{'sentence': 'Service is average .', 'labels': [[(0, 1), (2, 3), 0]]}
+{'sentence': "But they 've done a really nice job of offering all the typical pizzeria faves plus some terrific specials like the Godmother pizza ( a sort of traditional flat pizza with an olive oil-brushed crust and less tomato sauce than usual ) .", 'labels': [[(18, 19), (17, 18), 1]]}
+{'sentence': "They forgot a sandwich , did n't include plastic forks , and did n't include pita with the hummus platter .", 'labels': [[(3, 4), (1, 2), 0]]}
+{'sentence': 'The steak is good , the fish is good and the sushi was surprisingly great .', 'labels': [[(1, 2), (3, 4), 1], [(6, 7), (8, 9), 1], [(11, 12), (14, 15), 1]]}
+{'sentence': "The service was poor , restaurant poorly lit , staff not very attentive and I would have rather eaten at a Mcdonald 's than this joint .", 'labels': [[(1, 2), (3, 4), 2], [(9, 10), (10, 13), 2]]}
+{'sentence': 'My GF and I still choose to eat there a lot because of diverse cocktails , the chill decor , and the decent sushi .', 'labels': [[(14, 15), (13, 14), 1], [(18, 19), (17, 18), 1], [(23, 24), (22, 23), 1]]}
+{'sentence': 'We ended the dinner with a surprisingly light and flaky apple tarte tatin .', 'labels': [[(10, 13), (9, 10), 1]]}
+{'sentence': 'The buffet had a nice selection .', 'labels': [[(1, 2), (4, 5), 1]]}
+{'sentence': 'The food was below average , the service was pathetic , there was no ambience at all .', 'labels': [[(1, 2), (3, 5), 2], [(7, 8), (9, 10), 2], [(14, 15), (13, 14), 2]]}
+{'sentence': 'I REALLY ENJOYED THE SHOWS PUT ON BY THE ACTORS .', 'labels': [[(4, 5), (2, 3), 1]]}
+{'sentence': 'service was efficient courteous .', 'labels': [[(0, 1), (2, 4), 1]]}
+{'sentence': 'The miso soup lacked flavor and the fish was unfortunately not as well prepared as in the past .', 'labels': [[(1, 3), (3, 5), 2], [(7, 8), (9, 10), 2]]}
+{'sentence': "They are the best bagels I 've had .", 'labels': [[(4, 5), (3, 4), 1]]}
+{'sentence': "Toons has recently been redone , so it 's now a very attractive space .", 'labels': [[(13, 14), (12, 13), 1]]}
+{'sentence': 'While the prices are nothing special , the portions are huge .', 'labels': [[(2, 3), (5, 6), 0]]}
+{'sentence': 'The menu is Prix Fixe , so be prepared to spend at least $ 60 per person , but it is Well worth it superb food .', 'labels': [[(1, 2), (21, 23), 2], [(25, 26), (24, 25), 1]]}
+{'sentence': 'The wine list is extensive and impressive .', 'labels': [[(1, 3), (4, 5), 1], [(1, 3), (6, 7), 1]]}
+{'sentence': 'We had the most wonderful waitress .', 'labels': [[(5, 6), (4, 5), 1]]}
+{'sentence': 'While the staff at this little bistro is very friendly , I have never experienced more incompetency .', 'labels': [[(2, 3), (9, 10), 1]]}
+{'sentence': 'The quail was fantastic and unique and the pastas were full of flavor .', 'labels': [[(1, 2), (3, 4), 1], [(1, 2), (5, 6), 1], [(8, 9), (10, 11), 1]]}
+{'sentence': 'The staff is courteous and friendly .', 'labels': [[(1, 2), (3, 4), 1], [(1, 2), (5, 6), 1]]}
+{'sentence': 'Decor is nice though service can be spotty .', 'labels': [[(0, 1), (2, 3), 1], [(4, 5), (7, 8), 2]]}
+{'sentence': 'Aside from the rushed service , we were very impressed with the food and the drinks .', 'labels': [[(4, 5), (3, 4), 2], [(12, 13), (9, 10), 1]]}
+{'sentence': 'I would highly recommend this place to anyone who is looking for a fine Indian dining experience that is definitely a value for your dollar .', 'labels': [[(14, 17), (13, 14), 1]]}
+{'sentence': "And even with it 's Pub atmosphere they were great to my kids too !", 'labels': [[(5, 7), (9, 10), 1]]}
+{'sentence': 'This big draw is the all you can sushi here for $ 19.95 !', 'labels': [[(8, 9), (2, 3), 1]]}
+{'sentence': "Some of the workers ignore me and talk to the female customers , other times , they 've skipped my order .", 'labels': [[(3, 4), (4, 5), 2], [(20, 21), (18, 19), 2]]}
+{'sentence': 'The specials are usually quite good too .', 'labels': [[(1, 2), (5, 6), 1]]}
+{'sentence': "They 've the best desserts and mixed drinks as well as snack foods .", 'labels': [[(4, 5), (3, 4), 1]]}
+{'sentence': 'While the new restaurant still features much of the same classical furniture that made Tiffin so attractive , the menu has been overhauled .', 'labels': [[(11, 12), (10, 11), 1], [(19, 20), (22, 23), 2]]}
+{'sentence': 'The best burger I have had in the Village .', 'labels': [[(2, 3), (1, 2), 1]]}
+{'sentence': 'The blond wood decor is very soothing , the premium sake is excellent and the service is great .', 'labels': [[(1, 4), (6, 7), 1], [(10, 11), (12, 13), 1], [(15, 16), (17, 18), 1]]}
+{'sentence': 'There is usually a wait but it is well worth it .', 'labels': [[(4, 5), (8, 10), 1]]}
+{'sentence': "Only drawback - they wo n't toast your bagel , and they do n't make eggs for the bagel .", 'labels': [[(8, 9), (1, 2), 2]]}
+{'sentence': 'As always we had a great glass of wine while we waited .', 'labels': [[(6, 9), (5, 6), 1]]}
+{'sentence': "The wait staff is pleasant , fun , and for the most part gorgeous ( in the wonderful aesthetic beautification way , not in that she's-way-cuter-than-me-that-b @ # $ * way ) .", 'labels': [[(1, 3), (4, 5), 1], [(1, 3), (6, 7), 1], [(1, 3), (13, 14), 1]]}
+{'sentence': 'Of course this atmosphere is lacking , but what do you expect from a 24 hour bagel place anyways ?', 'labels': [[(3, 4), (5, 6), 2]]}
+{'sentence': 'Service was very good and warm .', 'labels': [[(0, 1), (3, 4), 1], [(0, 1), (5, 6), 1]]}
+{'sentence': "Cornelia Street looks like a Broadway set for West Side Story and the inside of Po is so cool quaint you really ca n't top the setting for a romantic dinner in NYC .", 'labels': [[(30, 31), (29, 30), 1]]}
+{'sentence': 'Food was good and the view of the new york city skiline was terrific even on a foggy rainy day like that of when I went .', 'labels': [[(0, 1), (2, 3), 1], [(5, 6), (13, 14), 1]]}
+{'sentence': 'Try the Pad Se-Ew or Chicken with Cashew Nuts for a memorable and repeatable experience .', 'labels': [[(2, 4), (0, 1), 1], [(2, 4), (11, 12), 1], [(2, 4), (13, 14), 1]]}
+{'sentence': "It 's just O.K . pizza .", 'labels': [[(5, 6), (3, 5), 0]]}
+{'sentence': "The food is decent at best , and the ambience , well , it 's a matter of opinion , some may consider it to be a sweet thing , I thought it was just annoying .", 'labels': [[(1, 2), (3, 4), 0], [(9, 10), (35, 36), 1]]}
+{'sentence': 'Leon is an East Village gem : casual but hip , with well prepared basic French bistro fare , good specials , a warm and lively atmosphere .', 'labels': [[(15, 18), (12, 14), 1], [(20, 21), (19, 20), 1], [(26, 27), (23, 24), 1], [(26, 27), (25, 26), 1]]}
+{'sentence': 'The food is above average for midtown and sligtly better than some of the other Heartland Breweries in the city .', 'labels': [[(1, 2), (3, 5), 1], [(1, 2), (9, 10), 1]]}
+{'sentence': 'The food was absolutely horrible !', 'labels': [[(1, 2), (4, 5), 2]]}
+{'sentence': "Food does n't appear to be cooked on premisis but there 's a high turnover so its pretty fresh .", 'labels': [[(0, 1), (18, 19), 1]]}
+{'sentence': 'Similar to other Indian restaurants , they use the dinner special to attract customers at the door .', 'labels': [[(9, 11), (12, 13), 0]]}
+{'sentence': "The people with carts of food do n't understand you because they do n't speak English , their job is to give you the delicious food you point at .", 'labels': [[(25, 26), (24, 25), 1]]}
+{'sentence': 'The crackling calamari salad , which is usually a cheap disaster at many restaurants , is crispy and lightly dressed .', 'labels': [[(1, 4), (16, 17), 1], [(1, 4), (18, 20), 1]]}
+{'sentence': 'Shockingly easy to throw a group dinner here : simple contract , deposit only to hold the date the entire 2nd fl mezz for our grp of 20 .', 'labels': [[(5, 7), (1, 2), 0]]}
+{'sentence': 'The Thai ice tea was amazingly smooth and yummy !', 'labels': [[(1, 4), (6, 7), 1], [(1, 4), (8, 9), 1]]}
+{'sentence': 'Drinks way over priced .', 'labels': [[(0, 1), (2, 4), 2]]}
+{'sentence': 'The main downside to the place is the nazi-like guy running it who constantly complains about the noise level .', 'labels': [[(17, 19), (2, 3), 2]]}
+{'sentence': "What I did n't like was how the food came right after it was ordered .", 'labels': [[(8, 9), (2, 5), 2]]}
+{'sentence': 'Moderate prices .', 'labels': [[(1, 2), (0, 1), 0]]}
+{'sentence': "I think I 've had some the best meals of my life at minnow .", 'labels': [[(8, 9), (7, 8), 1]]}
+{'sentence': 'My biggest complaint was the untasty food although presented well .', 'labels': [[(6, 7), (5, 6), 1]]}
+{'sentence': 'Most importantly , food is excellent .', 'labels': [[(3, 4), (5, 6), 1]]}
+{'sentence': 'Great roofdeck , nice group of 30 somethings , but no music , kind of quiet .', 'labels': [[(1, 2), (0, 1), 1], [(11, 12), (10, 11), 2], [(11, 12), (15, 16), 2]]}
+{'sentence': 'The best part of the experience was knowing that the manager ( a bubbly , friendly young woman with a great smile ) truly cared about how we were doing .', 'labels': [[(10, 11), (13, 14), 1], [(10, 11), (15, 17), 1]]}
+{'sentence': 'However , service was as plain as sesame crusted Salmon I had .', 'labels': [[(2, 3), (5, 6), 0]]}
+{'sentence': "It 's great to go for a quick lunch either alone or with a friend .", 'labels': [[(8, 9), (7, 8), 1]]}
+{'sentence': 'The food was mediocre at best but it was the horrible service that made me vow never to go back .', 'labels': [[(1, 2), (3, 4), 0], [(11, 12), (10, 11), 2]]}
+{'sentence': 'You get what you pay for and with that logic in mind , Spice is a great place to grab some cheap eats and drinks in a beautiful setting .', 'labels': [[(22, 23), (21, 22), 1], [(28, 29), (27, 28), 1]]}
+{'sentence': 'The service was terrible , we had to wait for everything and ask several of different people for the same thing before we were allowed to be served .', 'labels': [[(1, 2), (3, 4), 2]]}
+{'sentence': 'Other than being a little crowded and a bit overpriced , the atmosphere is filled with energy ( and the beautiful people of course ) and the food was surprising good !', 'labels': [[(12, 13), (16, 17), 1], [(21, 22), (20, 21), 1], [(27, 28), (29, 31), 1]]}
+{'sentence': 'Waiters are slow but sweet .', 'labels': [[(0, 1), (2, 3), 1], [(0, 1), (4, 5), 1]]}
+{'sentence': 'The music is the best among all the Indian restaurants I have visited .', 'labels': [[(1, 2), (4, 5), 1]]}
+{'sentence': 'The bread and lamb chops I had before the meal were quite good , however .', 'labels': [[(1, 2), (12, 13), 1]]}
+{'sentence': "Rao 's has the best service and atmosphere in NYC .", 'labels': [[(5, 6), (4, 5), 1]]}
+{'sentence': 'They never brought us complimentary noodles , ignored repeated requests for sugar , and threw our dishes on the table .', 'labels': [[(5, 6), (4, 5), 2], [(11, 12), (7, 8), 2], [(16, 17), (14, 15), 2]]}
+{'sentence': 'Excellent dumplings served amid clean , chic decor .', 'labels': [[(1, 2), (0, 1), 1], [(7, 8), (4, 5), 1], [(7, 8), (6, 7), 1]]}
+{'sentence': 'The kitchen however , is almost always slow .', 'labels': [[(1, 2), (7, 8), 2]]}
+{'sentence': 'The corned beef and pastrami are excellent , much less fatty than those big tourist places around Times Square .', 'labels': [[(1, 3), (6, 7), 1], [(1, 3), (9, 11), 1]]}
+{'sentence': 'Cute place , nice wait staff but would never go there again .', 'labels': [[(1, 2), (0, 1), 1], [(4, 6), (3, 4), 1]]}
+{'sentence': "people are rude bit again it 's new york !", 'labels': [[(0, 1), (2, 3), 2]]}
+{'sentence': 'The plain slice is great and if you get toppings , the whole slice is topped with them , not sparsely sprinkled on like some places .', 'labels': [[(1, 3), (4, 5), 1]]}
+{'sentence': 'Service was also horrible and the ambience is not that great .', 'labels': [[(0, 1), (3, 4), 2], [(6, 7), (8, 11), 2]]}
+{'sentence': 'The pizza is overpriced and soggy .', 'labels': [[(1, 2), (3, 4), 2], [(1, 2), (5, 6), 2]]}
+{'sentence': 'Everything is excellent , the menu is quite extensive , and you eat with a view on both sides of the city .', 'labels': [[(5, 6), (8, 9), 1]]}
+{'sentence': 'For the quality of food , a little too expensive .', 'labels': [[(2, 5), (9, 10), 2]]}
+{'sentence': "Here 's to the fake fish tanks too ...", 'labels': [[(5, 7), (4, 5), 2]]}
+{'sentence': 'Its worth the wait though .', 'labels': [[(3, 4), (1, 2), 1]]}
+{'sentence': "I 've never had bad service and the fish is fresh and delicious .", 'labels': [[(5, 6), (2, 5), 1], [(8, 9), (10, 11), 1], [(8, 9), (12, 13), 1]]}
+{'sentence': 'What an amazing meal and experience !', 'labels': [[(3, 4), (2, 3), 1]]}
+{'sentence': 'Unique apppetizers .', 'labels': [[(1, 2), (0, 1), 1]]}
+{'sentence': "The staff has always been attentive and kind , and I 've always been amazed at how they 've handled all the various different group sizes that come in .", 'labels': [[(1, 2), (5, 6), 1], [(1, 2), (7, 8), 1], [(1, 2), (14, 15), 1]]}
+{'sentence': "The wait here is long for dim sum , but if you do n't like sharing tables or if the typical raucous dim sum atmosphere is not your gig , this is a sleek ( for Chinatown ) alternative .", 'labels': [[(1, 2), (4, 5), 2], [(22, 25), (20, 22), 0]]}
+{'sentence': 'This place has good potential , but needs a significant amount of work before we can justify spending that much money on indian food you can get everywhere else .', 'labels': [[(20, 21), (19, 20), 2]]}
+{'sentence': 'Everything is always cooked to perfection , the service is excellent , the decor cool and understated .', 'labels': [[(8, 9), (10, 11), 1], [(13, 14), (14, 15), 1], [(13, 14), (16, 17), 1]]}
+{'sentence': 'The Thai food is good .', 'labels': [[(1, 3), (4, 5), 1]]}
+{'sentence': 'Great selection of wine , and seafood .', 'labels': [[(1, 4), (0, 1), 1]]}
+{'sentence': 'Acceptable prices .', 'labels': [[(1, 2), (0, 1), 1]]}
+{'sentence': 'Definitely not worth the price !', 'labels': [[(4, 5), (1, 3), 2]]}
+{'sentence': 'Orsay , is a very pleasant throw back to traditional French food , and French service as well .', 'labels': [[(10, 12), (5, 6), 1], [(10, 12), (9, 10), 1]]}
+{'sentence': "It 's easy to get a table for a large group and you do n't get hustled out .", 'labels': [[(6, 7), (2, 3), 1]]}
+{'sentence': 'Great food at reasonable prices .', 'labels': [[(1, 2), (0, 1), 1], [(4, 5), (3, 4), 1]]}
+{'sentence': 'Salads are a delicious way to begin the meal .', 'labels': [[(0, 1), (3, 4), 1]]}
+{'sentence': 'I ordered tamarind duck and my wife ordered noodles with ground beef , and we were both delighted by the way the dishes evoked Thai flavors in unexpected ways .', 'labels': [[(2, 4), (17, 18), 1]]}
+{'sentence': "If you 've ever been along the river in Weehawken you have an idea of the top of view the chart house has to offer .", 'labels': [[(18, 19), (16, 17), 1]]}
+{'sentence': 'The prices are about $ 9 for an entree for dinner and even less for lunch .', 'labels': [[(1, 2), (13, 14), 1]]}
+{'sentence': 'Should you happen to be impressed by the cuisine definitely try it .', 'labels': [[(8, 9), (5, 6), 1], [(8, 9), (10, 11), 1]]}
+{'sentence': 'I had the black cod with yuzu sauce , which was wonderful .', 'labels': [[(3, 8), (11, 12), 1]]}
+{'sentence': 'Prices too high for this cramped and unappealing resturant .', 'labels': [[(0, 1), (2, 3), 2]]}
+{'sentence': 'Downstairs lounge is always a good attraction', 'labels': [[(0, 2), (5, 7), 1]]}
+{'sentence': 'The menu prices are a bit expensive for what you get in quality and portion size .', 'labels': [[(1, 3), (6, 7), 2]]}
+{'sentence': 'The food was amazing , and the service was prompt and helpful , but not over-bearing or rushed .', 'labels': [[(1, 2), (3, 4), 1], [(7, 8), (9, 10), 1], [(7, 8), (11, 12), 1], [(7, 8), (14, 18), 1]]}
+{'sentence': '( food was delivered by a busboy , not waiter ) We got no cheese offered for the pasta , our water and wine glasses remained EMPTY our entire meal , when we would have easily spent another $ 20 on wine .', 'labels': [[(21, 25), (26, 27), 2]]}
+{'sentence': 'The food was not fresh , the sauces were bland and very oily .', 'labels': [[(1, 2), (3, 5), 2], [(7, 8), (9, 10), 2], [(7, 8), (12, 13), 2]]}
+{'sentence': 'This is definitely an excellent date spot because of the ambiance and on the weekends the night scene is more than alive .', 'labels': [[(6, 7), (4, 5), 1], [(16, 18), (21, 22), 1]]}
+{'sentence': "One of us actually liked the expresso - that 's it .", 'labels': [[(6, 7), (4, 5), 1]]}
+{'sentence': 'Again , the waitress was awesome .', 'labels': [[(3, 4), (5, 6), 1]]}
+{'sentence': 'I loved everythig about it-especially the shows and actors .', 'labels': [[(6, 7), (1, 2), 1]]}
+{'sentence': 'The food was just OK , I would never go back .', 'labels': [[(1, 2), (4, 5), 0]]}
+{'sentence': 'Scalina Fedeli reminded me why service is so integral to fine dining .', 'labels': [[(5, 6), (8, 9), 1], [(11, 12), (10, 11), 1]]}
+{'sentence': 'i recommend the thai popcorn : )', 'labels': [[(3, 5), (1, 2), 1]]}
+{'sentence': 'The tuna and wasabe potatoes are excellent .', 'labels': [[(1, 2), (6, 7), 1]]}
+{'sentence': "The only disappointment was the coat check girls who did n't seem to know what a customer is on a realtively non-busy night ( for the coat check girls ) .", 'labels': [[(5, 8), (2, 3), 2]]}
+{'sentence': 'Ummm ... the beer was cold .', 'labels': [[(3, 4), (5, 6), 1]]}
+{'sentence': "We had great desserts ( including the best cannoli I 've ever had ) and then they offered an after dinner drink , on the house .", 'labels': [[(3, 4), (2, 3), 1], [(8, 9), (7, 8), 1]]}
+{'sentence': 'Even with the prix fixe pricing , this restaurant is not worth it .', 'labels': [[(3, 6), (10, 12), 1]]}
+{'sentence': 'We asked to be moved ( which took half an hour ) , and then were seated in a high traffic area in the back , even though the rest of the room was practically empty .', 'labels': [[(32, 33), (35, 36), 0]]}
+{'sentence': "Where tanks in other Chinatown restaurants display a lurking myriad of sad-looking marine life in their murky waters , the tanks at Ping 's are clear as glass with healthy-looking creatures who do not yet know that they will be part of some dim sum lover 's brunch .", 'labels': [[(1, 2), (11, 12), 1], [(20, 21), (25, 26), 1], [(43, 45), (29, 30), 0]]}
+{'sentence': "The Halibut was too salty , dessert was so so ( do n't waste any of your calories ) and service was poor .", 'labels': [[(1, 2), (4, 5), 2], [(6, 7), (8, 10), 0], [(20, 21), (22, 23), 2]]}
+{'sentence': 'The view is spectacular , and the food is great .', 'labels': [[(1, 2), (3, 4), 1], [(7, 8), (9, 10), 1]]}
+{'sentence': "The place was n't too hard to find , but it was kind of packed , as soon as my boyfriend and I got our food , the line reached the door .", 'labels': [[(1, 2), (5, 6), 1], [(1, 2), (14, 15), 1]]}
+{'sentence': 'Good bagels and good cream cheese .', 'labels': [[(1, 2), (3, 4), 1]]}
+{'sentence': 'The food is wonderful , tasty and filling , and the service is professional and friendly .', 'labels': [[(1, 2), (3, 4), 1], [(1, 2), (5, 6), 1], [(1, 2), (7, 8), 1], [(11, 12), (13, 14), 1], [(11, 12), (15, 16), 1]]}
+{'sentence': 'It is also extremely well priced .', 'labels': [[(5, 6), (4, 5), 1]]}
+{'sentence': 'Always great service !', 'labels': [[(2, 3), (1, 2), 1]]}
+{'sentence': 'I am happy i did the food was awesome .', 'labels': [[(6, 7), (8, 9), 1]]}
+{'sentence': 'We ordered the chicken casserole , but what we got were a few small pieces of chicken , all dark meat and on the bone .', 'labels': [[(16, 17), (12, 13), 2], [(20, 21), (19, 20), 2]]}
+{'sentence': 'I recommend the jelly fish , drunken chicken and the soupy dumplings , certainly the stir fry blue crab .', 'labels': [[(3, 5), (1, 2), 1]]}
+{'sentence': 'I LOVED THE SHOWS .', 'labels': [[(3, 4), (1, 2), 1]]}
+{'sentence': 'We could have made a meal of the yummy dumplings from the dumpling menu .', 'labels': [[(9, 10), (8, 9), 1]]}
+{'sentence': 'Then , get ripped on free box wine .', 'labels': [[(6, 8), (5, 6), 1]]}
+{'sentence': 'My wife and I ate here earlier this week and have not stopped ranting and raving about the food .', 'labels': [[(18, 19), (13, 14), 1], [(18, 19), (15, 16), 1]]}
+{'sentence': "If you do n't mind pre-sliced low quality fish , unfriendly staff and a sushi chef that looks like he is miserable then this is your place .", 'labels': [[(8, 9), (6, 8), 2], [(11, 12), (10, 11), 2], [(14, 16), (21, 22), 2]]}
+{'sentence': 'The food itself was just ok - nothing spectacular - but the service was awful .', 'labels': [[(1, 2), (5, 6), 0], [(12, 13), (14, 15), 2]]}
+{'sentence': 'The pizza is yummy and I like the atmoshpere .', 'labels': [[(1, 2), (3, 4), 1], [(8, 9), (6, 7), 1]]}
+{'sentence': 'Good food .', 'labels': [[(1, 2), (0, 1), 1]]}
+{'sentence': "those rolls were big , but not good and sashimi was n't fresh .", 'labels': [[(1, 2), (3, 4), 1], [(1, 2), (6, 8), 1], [(9, 10), (10, 13), 2]]}
+{'sentence': "The pesto pizza was excellent , thin-crust pizza with a nice amount of spicy Italian cheese that I 'd never heard of before .", 'labels': [[(1, 3), (4, 5), 1], [(14, 16), (10, 11), 1], [(14, 16), (13, 14), 1]]}
+{'sentence': 'try the spicy shrimp appetizer ( again , not the greatest value in the world but worth the price ) and the lamb vindaloo is great .', 'labels': [[(3, 5), (16, 19), 1], [(22, 24), (25, 26), 1]]}
+{'sentence': "I have had so many dinners here and it 's always been perfect - on a date with my husband , with my mom , with girlfriends and larger groups .", 'labels': [[(5, 6), (12, 13), 1]]}
+{'sentence': 'Delicate spices , onions , eggs and a kick-ass roti .', 'labels': [[(1, 2), (0, 1), 1], [(9, 10), (8, 9), 1]]}
+{'sentence': 'Incredible food at a very agreeable price brings me back just about every other day to this authentic Thai restaurant .', 'labels': [[(1, 2), (0, 1), 1], [(6, 7), (5, 6), 1]]}
+{'sentence': 'Delicious crab cakes too .', 'labels': [[(1, 3), (0, 1), 1]]}
+{'sentence': "This was the worst dining experience I 've ever had .", 'labels': [[(4, 6), (3, 4), 2]]}
+{'sentence': 'I have been coming here for years and have nothing but good things to say about the service and the great staff at La Lanterna .', 'labels': [[(17, 18), (11, 12), 1], [(21, 22), (20, 21), 1]]}
+{'sentence': 'Food was okay , nothing great .', 'labels': [[(0, 1), (2, 3), 0], [(0, 1), (4, 6), 0]]}
+{'sentence': 'Always popular , always full , always a wait .', 'labels': [[(8, 9), (6, 7), 2]]}
+{'sentence': 'If the omakase is to showcase technique and variety , serving almost 40 % of items BBQ-ed and a spicy tuna roll wrapped with not-so-fresh nori seems to be a rather limp performance .', 'labels': [[(25, 26), (24, 25), 2]]}
+{'sentence': "I ca n't wait for summer , when they serve outside on their gigantic patio .", 'labels': [[(14, 15), (13, 14), 1]]}
+{'sentence': 'Best Pastrami I ever had and great portion without being ridiculous .', 'labels': [[(1, 2), (0, 1), 1], [(7, 8), (6, 7), 1]]}
+{'sentence': 'It can not be the ambience , because the place is very cramped and some guests have to sit in an aisle .', 'labels': [[(9, 10), (12, 13), 2]]}
+{'sentence': 'Authentic Pakistani food .', 'labels': [[(1, 3), (0, 1), 1]]}
+{'sentence': 'The staff has always been friendly without seeming grating , and the chef has greeted us on a couple of occasions .', 'labels': [[(1, 2), (5, 6), 1]]}
+{'sentence': 'The eggplant parmesan is also great , and my friend who grew up in Manhattan claims that no one serves a better baked ziti with meatsauce .', 'labels': [[(1, 3), (5, 6), 1], [(22, 26), (21, 22), 1]]}
+{'sentence': 'Quality ingredients preparation all around , and a very fair price for NYC .', 'labels': [[(1, 2), (0, 1), 1], [(10, 11), (9, 10), 1]]}
+{'sentence': 'In such a crappy part of town to find a good value for lunch , this place is great .', 'labels': [[(11, 12), (10, 11), 1]]}
+{'sentence': "In fact , while leaving the place we saw two people looking at the menu , and I could n't help telling them that the food was horrible .", 'labels': [[(25, 26), (27, 28), 2]]}
+{'sentence': 'Even though the restaurant was packed , we were seated promptly and even asked for a table upstairs with no problems .', 'labels': [[(9, 10), (10, 11), 1]]}
+{'sentence': 'The bread is the soft paratha bread ( unlike the plain bread they use in Calcutta ) , and the stuffing is tandoori styled and very flavorful .', 'labels': [[(5, 7), (4, 5), 1], [(11, 12), (10, 11), 2], [(20, 21), (23, 24), 1], [(20, 21), (26, 27), 1]]}
+{'sentence': "Service is friendly , prices are good - delivery time was a little slow , but for the way this pizza tastes , I 'm willing to overlook it .", 'labels': [[(0, 1), (2, 3), 1], [(4, 5), (6, 7), 1], [(8, 10), (13, 14), 2]]}
+{'sentence': "The food can get pricey but the prixe fixe tasting menu is the greatest food for a good price and they cater the food to any food allergies or food you do n't like .", 'labels': [[(1, 2), (4, 5), 2], [(18, 19), (17, 18), 1]]}
+{'sentence': 'The service is excellent , the decor is great , and the food is delicious and comes in large portions .', 'labels': [[(1, 2), (3, 4), 1], [(6, 7), (8, 9), 1], [(12, 13), (14, 15), 1], [(19, 20), (18, 19), 1]]}
+{'sentence': 'An excellent service', 'labels': [[(2, 3), (1, 2), 1]]}
+{'sentence': 'I LOVE their Thai noodles with shrimp and chicken and coconut juice is the MUST !', 'labels': [[(3, 12), (1, 2), 1], [(3, 12), (14, 15), 1]]}
+{'sentence': 'The pizza was really good .', 'labels': [[(1, 2), (4, 5), 1]]}
+{'sentence': 'The only possible drawback to this last point is that as of the date of this posting , the additional menu items are only written in Chinese .', 'labels': [[(20, 22), (3, 4), 2]]}
+{'sentence': "Food is average , and I would say even the chain restaurant Baluchi 's tastes better .", 'labels': [[(0, 1), (2, 3), 0]]}
+{'sentence': 'The place is small and cramped but the food is fantastic .', 'labels': [[(1, 2), (3, 4), 2], [(1, 2), (5, 6), 2], [(8, 9), (10, 11), 1]]}
+{'sentence': 'The food is tasty and portion sizes are appropriate .', 'labels': [[(1, 2), (3, 4), 1], [(5, 7), (8, 9), 1]]}
+{'sentence': 'Kosher dills are the perfect compliment for your unforgetable sandwich and they give you plenty of them .', 'labels': [[(0, 2), (4, 5), 1], [(9, 10), (8, 9), 1]]}
+{'sentence': 'The food is so cheap and the waiters are nice .', 'labels': [[(1, 2), (4, 5), 1], [(7, 8), (9, 10), 1]]}
+{'sentence': 'The bartender on my most recent visit was so incredibly rude that I will never go back .', 'labels': [[(1, 2), (10, 11), 2]]}
+{'sentence': 'Their sushi , Kamikaze and other Rolls are fresh and well presented .', 'labels': [[(1, 2), (8, 9), 1], [(1, 2), (10, 12), 1]]}
+{'sentence': 'For authentic Thai food , look no further than Toons .', 'labels': [[(2, 4), (1, 2), 1]]}
+{'sentence': 'I choose to go with one of the special , the braised lamb shank in red wine , which was excellent .', 'labels': [[(11, 17), (20, 21), 1]]}
+{'sentence': 'Small servings for main entree , i had salmon ( wasnt impressed ) girlfriend had chicken , it was good .', 'labels': [[(1, 2), (0, 1), 2], [(8, 9), (10, 12), 2], [(15, 16), (19, 20), 1]]}
+{'sentence': 'The ambience is very romantic and definitely a good place to bring a date .', 'labels': [[(1, 2), (4, 5), 1], [(9, 10), (8, 9), 1]]}
+{'sentence': 'It is far more popular as a bar than as a restaurant , with only a few tables and the waiter being the bartender , but we greatly enjoyed the unobtrusive atmosphere .', 'labels': [[(7, 8), (4, 5), 1], [(17, 18), (16, 17), 2], [(31, 32), (28, 29), 1], [(31, 32), (30, 31), 1]]}
+{'sentence': "The food is very good for it 's price , better than most fried dumplings I 've had .", 'labels': [[(1, 2), (4, 5), 1], [(1, 2), (10, 11), 1]]}
+{'sentence': 'There are much better places in NY with better prices .', 'labels': [[(9, 10), (8, 9), 2]]}
+{'sentence': 'Obv caviar is top of the line but the rest of the menu is so diverse it gives you a chance to taste so manydifferent varietys .', 'labels': [[(0, 2), (3, 7), 1], [(12, 13), (15, 16), 1]]}
+{'sentence': 'I ate here a week ago and found most dishes average at best and too expensive .', 'labels': [[(9, 10), (10, 11), 2], [(9, 10), (14, 16), 2]]}
+{'sentence': 'Still , try it once , since if you end up loving the food , it could be one of your best dining experiences .', 'labels': [[(13, 14), (11, 12), 0], [(22, 24), (21, 22), 1]]}
+{'sentence': 'Other guests enjoyed pizza , santa fe chopped salad and fish and chips .', 'labels': [[(3, 4), (2, 3), 1]]}
+{'sentence': 'not only does make the best pizza in NY , maybe anywhere .', 'labels': [[(6, 7), (5, 6), 1]]}
+{'sentence': "The spicy Tuna roll is huge and probably the best that I 've had at this price range .", 'labels': [[(2, 4), (5, 6), 1], [(16, 18), (9, 10), 1]]}
+{'sentence': 'Our waiter and all of the people helping him were attentive and genuine .', 'labels': [[(1, 2), (10, 11), 1], [(1, 2), (12, 13), 1]]}
+{'sentence': 'The place is a BISTRO which means : simple dishes and wine served efficiently in a bustling atmosphere .', 'labels': [[(1, 2), (4, 5), 1], [(9, 12), (8, 9), 1], [(12, 13), (13, 14), 1], [(17, 18), (16, 17), 1]]}
+{'sentence': 'This is one of the best comfort food places in the city .', 'labels': [[(6, 8), (5, 6), 1]]}
+{'sentence': 'I had a huge pastrami sandwich on a roll .', 'labels': [[(4, 6), (3, 4), 1]]}
+{'sentence': "Though you will undoubtedly be seated at a table with what seems like barely enough room ( no matter what the size of your party ) , the warm atomosphere is worth the cramped quarters- you 'll have fun and forgot about the tight spot you 're in .", 'labels': [[(8, 9), (14, 15), 2], [(29, 30), (28, 29), 1], [(44, 45), (43, 44), 2]]}
+{'sentence': 'The fish was not fresh and the rice tasted old and stale .', 'labels': [[(1, 2), (3, 5), 2], [(7, 8), (9, 10), 2], [(7, 8), (11, 12), 2]]}
+{'sentence': 'Considering their price of $ 6.25 for lunch special , the dish was ridiculously small .', 'labels': [[(11, 12), (13, 15), 2]]}
+{'sentence': "Besides , when you have bad service , that 's less money you have to tip .", 'labels': [[(6, 7), (5, 6), 2], [(11, 12), (10, 11), 2]]}
+{'sentence': 'Compared to Ess-a , Tal offers a less doughy bagel !', 'labels': [[(9, 10), (7, 9), 2]]}
+{'sentence': "Ballato 's is consistently delicious authentic italian food .", 'labels': [[(6, 8), (4, 6), 1]]}
+{'sentence': 'They offer the same menu but have creative drinks that are loaded with alcohol and cheeky names -- but they do cost you .', 'labels': [[(4, 5), (3, 4), 0], [(8, 9), (7, 8), 1]]}
+{'sentence': 'We went to eat at the Jekyll and Hyde restaurant on Friday night and really enjoyed the fun atmosphere and good food .', 'labels': [[(18, 19), (15, 16), 1], [(18, 19), (17, 18), 1], [(21, 22), (20, 21), 1]]}
+{'sentence': 'The food was pretty traditional but it was hot and good with large portions .', 'labels': [[(1, 2), (4, 5), 1], [(1, 2), (8, 9), 1], [(1, 2), (10, 11), 1], [(13, 14), (12, 13), 1]]}
+{'sentence': 'Unless you are eating in the Pizzeria side of this place , and are not in a rush , this place is a bad idea .', 'labels': [[(20, 21), (23, 24), 2]]}
+{'sentence': 'Ambiance is barely romantic but management tries .', 'labels': [[(0, 1), (2, 4), 2], [(5, 6), (6, 7), 1]]}
+{'sentence': "I must warn the reader that the portions sizes are very small ( especially the appetizers ) , so if you plan to eat until you are full and do not intend to order the chef 's special tasting menu , prepare to order and pay for an appetizer ( 1 dish for each person because the portions are not for sharing ) , a main entree , and the cold udon at the end of the meal .", 'labels': [[(7, 8), (11, 12), 2]]}
+{'sentence': 'They were very abrupt with me when I called and actually claimed the food was late because they were out of rice .', 'labels': [[(13, 14), (15, 16), 2], [(21, 22), (19, 21), 0]]}
+{'sentence': 'After we got our sashimi order , I could not believe how small the portions were !', 'labels': [[(4, 5), (12, 13), 0]]}
+{'sentence': 'Nothing better than buying a snapple for $ 3.25 too .', 'labels': [[(5, 6), (1, 2), 1]]}
+{'sentence': 'Service is extraordinary , yet not overbearing , and the decor brings a taste of trendy SoHo into Queens .', 'labels': [[(0, 1), (2, 3), 1], [(0, 1), (5, 7), 1], [(10, 11), (15, 16), 1]]}
+{'sentence': "The dosas are skimpy , unattractive and drip with grease , and personally I 'd drink popcorn topping before I 'd eat another one of these .", 'labels': [[(1, 2), (3, 4), 2], [(1, 2), (5, 6), 2]]}
+{'sentence': "If I wanted to deal with a crappy scene and annoying customers I 'd go out in Manhattan .", 'labels': [[(8, 9), (7, 8), 2], [(11, 12), (10, 11), 2]]}
+{'sentence': 'Until you realize that their five minutes is meaningless and your wait may be anywhere from two to twenty minutes it may be frustrating .', 'labels': [[(11, 12), (23, 24), 2]]}
+{'sentence': 'The food was very good , but not very thai .', 'labels': [[(1, 2), (4, 5), 1], [(1, 2), (7, 10), 1]]}
+{'sentence': "Thalia is a beautiful restaurant with beautiful people serving you , but the food does n't quite match up .", 'labels': [[(7, 9), (6, 7), 1], [(13, 14), (14, 19), 2]]}
+{'sentence': 'The fillings may be unconventional but the dosa batter is definitely authentic and the combinations very tasty .', 'labels': [[(1, 2), (4, 5), 0], [(7, 9), (11, 12), 1]]}
+{'sentence': 'This is the perfect spot for meeting friends , having lunch , dinner , pre-theatre or after-theatre drinks !', 'labels': [[(4, 5), (3, 4), 1]]}
+{'sentence': 'The mussaman curry that I ordered was as thin as water and aside from the poorly fried tofu that I ordered in it , they graciously provided me with ONE piece of poorly cooked potato .', 'labels': [[(1, 3), (8, 9), 2], [(16, 18), (15, 16), 2], [(34, 35), (32, 34), 2]]}
+{'sentence': "A restaurant that does n't try to do anything except serve great food with great service in a pleasant atmosphere .", 'labels': [[(12, 13), (11, 12), 1], [(15, 16), (14, 15), 1], [(19, 20), (18, 19), 1]]}
+{'sentence': 'Their sake martini is wonderful .', 'labels': [[(1, 3), (4, 5), 1]]}
+{'sentence': 'Well , this place is so Ghetto its not even funny .', 'labels': [[(3, 4), (6, 7), 2], [(3, 4), (8, 11), 2]]}
+{'sentence': 'Found service above average , but that could be because we were 13 of us .', 'labels': [[(1, 2), (2, 4), 1]]}
+{'sentence': 'fine dining restaurant quality .', 'labels': [[(3, 4), (0, 1), 1]]}
+{'sentence': '( and I have eaten my share ) Which impresses me for having such a large amount of people to serve .', 'labels': [[(20, 21), (9, 10), 1], [(20, 21), (15, 16), 1]]}
+{'sentence': "The service is friendly , if not the most prompt in the world , the food is great , and the prices , while not cheap , wo n't put your wallet out of commission .", 'labels': [[(1, 2), (3, 4), 1], [(15, 16), (17, 18), 1], [(21, 22), (24, 26), 1]]}
+{'sentence': 'Best drumsticks over rice and sour spicy soup in town !', 'labels': [[(1, 4), (0, 1), 1]]}
+{'sentence': 'Slightly above average wines start at $ 70+ with only one selection listed at $ 30+ .', 'labels': [[(3, 4), (1, 3), 2]]}
+{'sentence': 'And it all comes at a very reasonable price ( congee , noodles , and rice dishes are no more than $ 3-6 each ) .', 'labels': [[(8, 9), (7, 8), 1]]}
+{'sentence': 'I recommend this place to everyone who asks me where to go for a good meal .', 'labels': [[(15, 16), (14, 15), 1]]}
+{'sentence': 'The waitresses are nice -- also you can just get counter service sit .', 'labels': [[(1, 2), (3, 4), 1]]}
+{'sentence': 'The only friendly staff member was the guy at the bar .', 'labels': [[(3, 5), (2, 3), 1]]}
+{'sentence': "You can certainly find restaurants that offer a superior fine dining experience , but for superb food at reasonable prices , La Villa ca n't be beat .", 'labels': [[(16, 17), (15, 16), 1], [(19, 20), (18, 19), 1]]}
+{'sentence': 'I do suggest to ask to be seated upstairs if you are looking to be a little cozy .', 'labels': [[(8, 9), (17, 18), 1]]}
+{'sentence': 'The red curry is weak and tasteless , the pad thai is stuck together and lumpy , the rice is often overcooked , and the seafood is pretty sketchy .', 'labels': [[(1, 3), (4, 5), 2], [(1, 3), (6, 7), 2], [(9, 11), (12, 13), 2], [(9, 11), (15, 16), 2], [(18, 19), (21, 22), 2], [(25, 26), (28, 29), 2]]}
+{'sentence': 'The wine list is extensive and can easily hike up an otherwise reasonably priced meal .', 'labels': [[(1, 3), (4, 5), 1], [(14, 15), (12, 14), 1]]}
+{'sentence': 'Saul is pretty good , but definitely not great .', 'labels': [[(0, 1), (3, 4), 0], [(0, 1), (7, 9), 0]]}
+{'sentence': 'It is nearly impossible to get a table , so if you ever have the chance to go here for dinner , DO NOT pass it up .', 'labels': [[(7, 8), (3, 4), 2]]}
+{'sentence': 'Their pad penang is delicious and everything else is fantastic .', 'labels': [[(1, 3), (4, 5), 1]]}
+{'sentence': 'The puke green walls leave a lot to be desired , but the food is very good .', 'labels': [[(3, 4), (9, 10), 2], [(13, 14), (16, 17), 1]]}
+{'sentence': 'The flavors are very fresh and pretty unobtrusive , nothing flashy .', 'labels': [[(1, 2), (4, 5), 1], [(1, 2), (7, 8), 1]]}
+{'sentence': 'The hanger steak was like rubber and the tuna was flavorless not to mention it tasted like it had just been thawed .', 'labels': [[(1, 3), (5, 6), 2], [(8, 9), (10, 11), 2]]}
+{'sentence': 'Our son loves pizza and we have a certified Neapolitan pizzaria in our home city ( Seattle ) , we liked this nearly as much - and the differences were more about personal preference than any reflection on either restaurant .', 'labels': [[(3, 4), (2, 3), 1]]}
+{'sentence': 'big and soft as well as good lunch food .', 'labels': [[(7, 9), (0, 1), 1], [(7, 9), (2, 3), 1], [(7, 9), (6, 7), 1]]}
+{'sentence': 'No food snobs allowed , this place is for people who appreciate good food .', 'labels': [[(13, 14), (12, 13), 1]]}
+{'sentence': 'By far the best salad I have had in a fast food restaurant .', 'labels': [[(4, 5), (3, 4), 1]]}
+{'sentence': 'As for the bar , this is another bad idea .', 'labels': [[(3, 4), (8, 9), 2]]}
+{'sentence': 'Unlike HH up the block , this place actually gives you hearty and hot bagels this town is known for .', 'labels': [[(14, 15), (11, 12), 1], [(14, 15), (13, 14), 1]]}
+{'sentence': 'The barebecued salmon is elegantly spiced and not at all dry .', 'labels': [[(1, 3), (4, 6), 1], [(1, 3), (7, 11), 1]]}
+{'sentence': 'What generous portions !', 'labels': [[(2, 3), (1, 2), 1]]}
+{'sentence': 'The wine the service was very good too .', 'labels': [[(1, 2), (6, 7), 1]]}
+{'sentence': 'So , the menu is written in chalk above your head and it all sounds delicious .', 'labels': [[(3, 4), (15, 16), 0]]}
+{'sentence': 'I have been there many times , and food is good and consistent .', 'labels': [[(8, 9), (10, 11), 1], [(8, 9), (12, 13), 1]]}
+{'sentence': 'While Sapphire is certainly not lacking in ambiance , and probably has the best decor of any Indian restaurant I have been to in New York City , the food was not what I had hoped for .', 'labels': [[(7, 8), (5, 6), 1], [(29, 30), (13, 14), 2]]}
+{'sentence': 'The meat dishes were only so-so .', 'labels': [[(1, 3), (5, 6), 0]]}
+{'sentence': 'His wife Tanya , the hostess , completes the comforting atmosphere by being delightfully warm and gracious .', 'labels': [[(10, 11), (9, 10), 1], [(5, 6), (13, 15), 1], [(5, 6), (16, 17), 1]]}
+{'sentence': 'The menu consisted of standard brassiere food , better then places like Balthazar etc .', 'labels': [[(5, 7), (4, 5), 1], [(5, 7), (8, 9), 1]]}
+{'sentence': "You do n't go to Mizu for excellent service , you go for the large amounts of food , the amiable atmosphere , and the hole-in-the-wall feeling of the place .", 'labels': [[(8, 9), (7, 8), 2], [(17, 18), (14, 15), 1], [(21, 22), (20, 21), 1]]}
+{'sentence': "The service is always bad though , do n't expect much of anything from your server , and I would not recommend bringing a date here either .", 'labels': [[(1, 2), (4, 5), 2]]}
+{'sentence': 'The service is decent even when this small place is packed .', 'labels': [[(1, 2), (3, 4), 1], [(8, 9), (7, 8), 2], [(8, 9), (10, 11), 2]]}
+{'sentence': 'This is the best sushi in new york city - hands down .', 'labels': [[(4, 5), (3, 4), 1]]}
+{'sentence': 'The Thali was small , thoroughly unremarkable , and $ 14.95 .', 'labels': [[(1, 2), (3, 4), 2], [(1, 2), (6, 7), 2]]}
+{'sentence': 'The sushi is also great !', 'labels': [[(1, 2), (4, 5), 1]]}
+{'sentence': "From the complimentary chef app of a delicate butternut squash ravioli in a delicious truffle sauce to an amazing buttery and tender langostine entree to a dessert that I ca n't remember because of the fabulous Cakebread Cabernet we were drinking -- the whole evening was amazing .", 'labels': [[(3, 5), (2, 3), 1], [(8, 11), (7, 8), 1], [(14, 16), (13, 14), 1], [(19, 24), (18, 19), 1], [(36, 38), (35, 36), 1]]}
+{'sentence': 'Truly the mark of an attentive waiter .', 'labels': [[(6, 7), (5, 6), 1]]}
+{'sentence': 'The food here is rather good , but only if you like to wait for it .', 'labels': [[(1, 2), (5, 6), 1]]}
+{'sentence': 'I got an excellent piece of cheesecake and we had several other nice pastries .', 'labels': [[(6, 7), (3, 4), 1], [(13, 14), (12, 13), 1]]}
+{'sentence': "The staff is very kind and well trained , they 're fast , they are always prompt to jump behind the bar and fix drinks , they know details of every item in the menu and make excellent recomendations .", 'labels': [[(1, 2), (4, 5), 1], [(1, 2), (6, 8), 1], [(1, 2), (11, 12), 1], [(1, 2), (16, 17), 1]]}
+{'sentence': 'The makhani was OK -- the korma was bland .', 'labels': [[(1, 2), (3, 4), 0], [(6, 7), (8, 9), 2]]}
+{'sentence': 'The food is inventive but still keeps traditional indian flavoring .', 'labels': [[(1, 2), (3, 4), 1], [(1, 2), (7, 8), 1]]}
+{'sentence': 'though the service could be better ( possibly due to more than one very large group in the house ) , it is very cordial and warm , as is the general clientele .', 'labels': [[(2, 3), (3, 6), 1], [(2, 3), (24, 25), 1], [(2, 3), (26, 27), 1]]}
+{'sentence': 'The decor in this place is very diner-ish and the kind of place you expect in the East Village - not romantic , just simple , small and sparse .', 'labels': [[(1, 2), (7, 8), 1], [(4, 5), (24, 25), 1], [(4, 5), (26, 27), 1], [(4, 5), (28, 29), 1]]}
+{'sentence': 'This is a cute place and could be good but they need to get their act together .', 'labels': [[(4, 5), (3, 4), 1]]}
+{'sentence': 'The lox is always fresh too .', 'labels': [[(1, 2), (4, 5), 1]]}
+{'sentence': 'Service was very friendly .', 'labels': [[(0, 1), (3, 4), 1]]}
+{'sentence': "So all I 'm trying to say is this restaurant is by far the best thai food restaurant I 've ever been to .", 'labels': [[(15, 17), (14, 15), 1]]}
+{'sentence': 'Food was OK - fish was cooked well .', 'labels': [[(0, 1), (2, 3), 0], [(4, 5), (6, 8), 1]]}
+{'sentence': 'We actually left hungry and went across the street to Wo Hop at 15 Mott street for some good chinese food .', 'labels': [[(19, 21), (18, 19), 1]]}
+{'sentence': 'The duck confit is always amazing and the foie gras terrine with figs was out of this world .', 'labels': [[(1, 3), (5, 6), 1], [(8, 13), (14, 18), 1]]}
+{'sentence': 'The whole set up is truly unprofessional and I wish Cafe Noir would get some good staff , because despite the current one this is a great place .', 'labels': [[(16, 17), (15, 16), 2]]}
+{'sentence': 'The service does sometimes lack focus and it is not ideal if you are in a hurry but I have never been treated rudely .', 'labels': [[(1, 2), (4, 6), 1]]}
+{'sentence': 'The staff offers impeccable service .', 'labels': [[(1, 2), (3, 4), 1]]}
+{'sentence': 'The place is sleek , modern and playful and i will return again frequently .', 'labels': [[(1, 2), (3, 4), 1], [(1, 2), (5, 6), 1], [(1, 2), (7, 8), 1]]}
+{'sentence': 'I have known about this secret for the last 13 years , Emilio ( the Godfather ) has continued to serve food and wine for the gods at mortal prices .', 'labels': [[(29, 30), (28, 29), 1]]}
+{'sentence': 'The brioche and lollies as party favors is a cute and sweet touch to a most memorable meal .', 'labels': [[(1, 4), (9, 10), 1], [(1, 4), (11, 12), 1], [(17, 18), (16, 17), 1]]}
+{'sentence': 'The service was attentive , yet unimposing , the food was far better than many notorious restaurants in Midtown and the wine list is extensive and well priced .', 'labels': [[(1, 2), (3, 4), 1], [(1, 2), (6, 7), 1], [(9, 10), (12, 13), 1], [(21, 23), (24, 25), 1], [(21, 23), (26, 28), 1]]}
+{'sentence': 'Kind , attentive wait staff .', 'labels': [[(3, 5), (0, 1), 1], [(3, 5), (2, 3), 1]]}
+{'sentence': 'The owners and employees are friendly and their pizza is fantastic .', 'labels': [[(1, 2), (5, 6), 1], [(8, 9), (10, 11), 1]]}
+{'sentence': 'The food is yummy , especially their cooked-to-perfection mussels in spicy tomato sauce and their shoestring crispy fries .', 'labels': [[(1, 2), (3, 4), 1], [(8, 13), (7, 8), 1], [(17, 18), (16, 17), 1]]}
+{'sentence': 'It was like the servers forgot that they actually worked there and instead wanted to hang out and be cool .', 'labels': [[(4, 5), (5, 6), 2]]}
+{'sentence': 'The service is good and ambience is good for a date or group outing .', 'labels': [[(1, 2), (3, 4), 1], [(5, 6), (7, 8), 1]]}
+{'sentence': 'We a menu that rarely changes , e xcept for one or two specials , the quality and care they put in thier food in evident .', 'labels': [[(16, 17), (25, 26), 1]]}
+{'sentence': 'The decor is nice , but more casual than fine dining .', 'labels': [[(1, 2), (3, 4), 1], [(1, 2), (7, 8), 1]]}
+{'sentence': 'This restaurant is a wonderful place to go many times and it is reasonably priced .', 'labels': [[(14, 15), (13, 14), 1]]}
+{'sentence': 'Stick to dimsum , not super overpriced noodles .', 'labels': [[(7, 8), (4, 7), 0]]}
+{'sentence': 'The service is fine and they allow you to enjoy the view .', 'labels': [[(1, 2), (3, 4), 1], [(11, 12), (9, 10), 1]]}
+{'sentence': 'We , there were four of us , arrived at noon - the place was empty - and the staff acted like we were imposing on them and they were very rude .', 'labels': [[(19, 20), (31, 32), 2]]}
+{'sentence': 'delicious simple food in nice outdoor atmosphere .', 'labels': [[(2, 3), (0, 2), 1], [(6, 7), (4, 5), 1]]}
+{'sentence': 'The food is good , but very expensive for the casualness of it .', 'labels': [[(1, 2), (3, 4), 1], [(1, 2), (7, 8), 1]]}
+{'sentence': 'The only fallback on this restaurant is the prices .', 'labels': [[(8, 9), (2, 3), 2]]}
+{'sentence': 'The hot and sour soup was unbearably hot and tasted of only pepper and nothing else .', 'labels': [[(4, 5), (6, 8), 2]]}
+{'sentence': 'The food is delicious .', 'labels': [[(1, 2), (3, 4), 1]]}
+{'sentence': 'Their wines by the glass are a great accompaniment and you can eat like a king with wine for under $ 30 .', 'labels': [[(1, 5), (7, 8), 1]]}
+{'sentence': 'This place has the the correct ambience and an excellent staff to make you feel like a guest and a friend at the same time .', 'labels': [[(6, 7), (5, 6), 1], [(10, 11), (9, 10), 1]]}
+{'sentence': 'The food is outstanding and the service is quick , friendly and very professional .', 'labels': [[(1, 2), (3, 4), 1], [(6, 7), (8, 9), 1], [(6, 7), (10, 11), 1], [(6, 7), (13, 14), 1]]}
+{'sentence': 'The bagels always warm , soft on the inside , crispy on the outside and enormous in size .', 'labels': [[(1, 2), (3, 4), 1], [(1, 2), (5, 6), 1], [(1, 2), (10, 11), 1], [(1, 2), (15, 16), 1]]}
+{'sentence': 'I had a late dinner at Lucky Stike , a great name for a joint if ever I saw one .', 'labels': [[(4, 5), (10, 11), 0]]}
+{'sentence': 'Service is fast and friendly .', 'labels': [[(0, 1), (2, 3), 1], [(0, 1), (4, 5), 1]]}
+{'sentence': 'And they have these home made potato chips at the bar that are the most delicious things in the world !', 'labels': [[(6, 8), (15, 16), 1]]}
+{'sentence': 'My husband and I enjoyed each of the 6 taste size portions and left completely full .', 'labels': [[(11, 12), (4, 5), 1]]}
+{'sentence': "We all ate pasta entre'es , which were great .", 'labels': [[(3, 5), (8, 9), 1]]}
+{'sentence': 'The food was boring and expensive .', 'labels': [[(1, 2), (3, 4), 2], [(1, 2), (5, 6), 2]]}
+{'sentence': 'The ambience is pretty and nice for conversation , so a casual lunch here would probably be best .', 'labels': [[(1, 2), (3, 4), 1], [(1, 2), (5, 6), 1], [(12, 13), (11, 12), 1]]}
+{'sentence': 'Terrific menu full of unique rolls and special dishes .', 'labels': [[(1, 2), (0, 1), 1], [(5, 6), (4, 5), 1], [(8, 9), (7, 8), 1]]}
+{'sentence': 'The service is ok but could be better .', 'labels': [[(1, 2), (3, 4), 2], [(1, 2), (5, 8), 2]]}
+{'sentence': 'We love the food , drinks , and atmosphere !', 'labels': [[(3, 4), (1, 2), 1]]}
+{'sentence': 'I was here a few weeks back and we had the worst customer service experience at a restaurant ever .', 'labels': [[(12, 14), (11, 12), 2]]}
+{'sentence': 'Went on a 3 day oyster binge , with Fish bringing up the closing , and I am so glad this was the place it O trip ended , because it was so great !', 'labels': [[(23, 24), (33, 34), 1]]}
+{'sentence': 'If you are looking for a good quality , cheap eats - this is the place .', 'labels': [[(7, 8), (6, 7), 1]]}
+{'sentence': 'The service was friendly and the atmosphere was casual .', 'labels': [[(1, 2), (3, 4), 1], [(6, 7), (8, 9), 1]]}
+{'sentence': 'I recommend their Pad See Ew , Pork Chops or Tofu plates .', 'labels': [[(3, 6), (1, 2), 1]]}
+{'sentence': 'Never in my life did I think that I could be satisfied both in taste and in quantity for $ 3.00 in NYC .', 'labels': [[(14, 15), (11, 12), 1]]}
+{'sentence': "this is the best secret place in midtown ' , I heard that from the bartender , after having brilliant food ( try steak with portobello mushrooms ) and drinks on the bar last Tuesday .", 'labels': [[(20, 21), (19, 20), 1], [(23, 27), (22, 23), 1]]}
+{'sentence': 'The service was excellent - friendly and attentive .', 'labels': [[(1, 2), (3, 4), 1], [(1, 2), (5, 6), 1], [(1, 2), (7, 8), 1]]}
+{'sentence': 'The main course had an average portion , and was decent overall .', 'labels': [[(6, 7), (5, 6), 0], [(1, 3), (10, 11), 1]]}
+{'sentence': 'Waitstaff is great , very attentive .', 'labels': [[(0, 1), (2, 3), 1], [(0, 1), (5, 6), 1]]}
+{'sentence': 'The dinner menu is diverse and top-notch as well .', 'labels': [[(1, 3), (4, 5), 1], [(1, 3), (6, 7), 1]]}
+{'sentence': "I do n't like Indian food too much and this was delicious , however you want to factor that into the equation .", 'labels': [[(4, 6), (1, 4), 1]]}
+{'sentence': 'at taj , vegetarians can rejoice-all the dishes are manna from heaven .', 'labels': [[(7, 8), (11, 12), 1]]}
+{'sentence': "Forget the rush and the wait and the noise ( which is n't actually that bad ) , I mean please , who goes to a steakhouse to be coddled and romantic ?", 'labels': [[(5, 6), (11, 16), 1]]}
+{'sentence': "Jimmy 's is hands down the hottest night spot in the Bronx .", 'labels': [[(8, 9), (6, 7), 1]]}
+{'sentence': 'Nice ambiance , nice little bar , good bartender , Francois , and good service .', 'labels': [[(5, 6), (3, 4), 1], [(8, 9), (7, 8), 1], [(14, 15), (13, 14), 1]]}
+{'sentence': 'The calamari comes with an incredible sauce , and the duck noodles are yummy as well .', 'labels': [[(6, 7), (5, 6), 1], [(10, 12), (13, 14), 1]]}
+{'sentence': 'I would definitely go back -- if only for some of those exotic martinis on the blackboard .', 'labels': [[(13, 14), (12, 13), 1]]}
+{'sentence': 'Simple comfort food and what hot and large portions .', 'labels': [[(2, 3), (0, 2), 1], [(8, 9), (7, 8), 1]]}
+{'sentence': 'The bagels are also reasonably priced for NYC .', 'labels': [[(1, 2), (4, 6), 1]]}
+{'sentence': "Also , specify if you like your food spicy- its rather bland if you do n't .", 'labels': [[(7, 8), (11, 12), 0]]}
+{'sentence': 'Our waiter was fine , the place looks nice in that not-trying-too-hard way , but at those prices , a little more should be expected of your food .', 'labels': [[(1, 2), (3, 4), 1], [(27, 28), (21, 25), 2]]}
+{'sentence': "Coming from Boston this place is like Emma 's Pizza in Kendall Square in Cambridge ( although they have more funky toppings ! )", 'labels': [[(21, 22), (20, 21), 1]]}
+{'sentence': "I 've been to this restaurant more than a dozen times and when I 'm craving for Pho , Lemon grass chicken or Beef Cube on rice , this is the place to go .", 'labels': [[(17, 18), (15, 16), 1]]}
+{'sentence': 'Oh yes , and if you are a fan of Indian oldies film stars , there are plenty of portraits of Indian actors and actresses in classic black white that adorn the walls , some of which , I would love to know where they obtained .', 'labels': [[(19, 20), (17, 18), 1]]}
+{'sentence': "The food is spectacular , from the appitizers to the main course , and then of course the desserts , ( WOW ) you 'll need no more .", 'labels': [[(1, 2), (3, 4), 1]]}
+{'sentence': 'Average to good Thai food , but terrible delivery .', 'labels': [[(3, 5), (0, 3), 1], [(8, 9), (7, 8), 2]]}
+{'sentence': "Joe 's Pizza used to have the best slice until this pizzeria opened up .", 'labels': [[(8, 9), (7, 8), 1]]}
+{'sentence': 'They are still living in the dark ages and do not have an answering machine , so if you want to make a reservation you are limited .', 'labels': [[(23, 24), (26, 27), 2]]}
+{'sentence': 'The food is amazing , rich pastas and fresh doughy pizza .', 'labels': [[(1, 2), (3, 4), 1], [(6, 7), (5, 6), 1], [(10, 11), (8, 10), 1]]}
+{'sentence': 'Food was very good , but not what I would consider out of this world .', 'labels': [[(0, 1), (3, 4), 1]]}
+{'sentence': "Try the Pad Thai , it 's fabulous and their prices are so cheap !", 'labels': [[(2, 4), (0, 1), 1], [(2, 4), (7, 8), 1], [(2, 4), (13, 14), 1]]}
+{'sentence': 'Food is great and inexpensive .', 'labels': [[(0, 1), (2, 3), 1], [(0, 1), (4, 5), 1]]}
+{'sentence': 'The price very reasonable .', 'labels': [[(1, 2), (3, 4), 1]]}
+{'sentence': "Dessert - ca n't be missed , so save room ! ! !", 'labels': [[(0, 1), (2, 6), 1]]}
+{'sentence': 'Ingredients are organic which is a real plus for me .', 'labels': [[(0, 1), (2, 3), 1], [(0, 1), (7, 8), 1]]}
+{'sentence': 'It was so bad I actually refused to pay for my food .', 'labels': [[(11, 12), (3, 4), 2]]}
+{'sentence': 'I recommend this spot to anyone who enjoys fine cuisine at reasonable prices .', 'labels': [[(9, 10), (8, 9), 1], [(12, 13), (11, 12), 1]]}
+{'sentence': 'The staff was very attentive , the ambience lovely , and the food superb .', 'labels': [[(1, 2), (4, 5), 1], [(7, 8), (8, 9), 1], [(12, 13), (13, 14), 1]]}
+{'sentence': 'I love when restaurants think using fancy expensive ingrediants makes the food fine cuisine , even with no idea how to use them .', 'labels': [[(8, 9), (7, 8), 1], [(13, 14), (12, 13), 1]]}
+{'sentence': 'THe Pizza and wine were excellent -the service too -- but what really MADE this place was the backyard dining area .', 'labels': [[(1, 2), (5, 6), 1]]}
+{'sentence': 'The service was superb , they treat you like family .', 'labels': [[(1, 2), (3, 4), 1]]}
+{'sentence': 'We all had the tasting menu and unlike some of the other reviews , I felt there was more than enough food .', 'labels': [[(21, 22), (18, 21), 1]]}
+{'sentence': 'They had scrapped the bottom of the vessel in which they make the rice -RESULT - WE HAD LARGE CHUNKS OF BURNT RICE IN OUR SERVING BOWL .', 'labels': [[(22, 23), (21, 22), 2]]}
+{'sentence': '- for dessert we split chocolate cake and vanilla gelato ( with espresso ) , which were tasty , but I thought a bit overpriced .', 'labels': [[(5, 7), (17, 18), 1], [(5, 7), (24, 25), 1]]}
+{'sentence': 'Warm , comfortable surroundings , nice appointments ( witness the etched glass and brickwork separating the dining rooms ) .', 'labels': [[(3, 4), (0, 1), 1], [(3, 4), (2, 3), 1], [(16, 18), (5, 6), 0]]}
+{'sentence': 'The well mannered , pleasant staff that Tony has in his employ .', 'labels': [[(5, 6), (4, 5), 1]]}
+{'sentence': 'The flavors robust and subtle .', 'labels': [[(1, 2), (2, 3), 1], [(1, 2), (4, 5), 1]]}
+{'sentence': "All I can say is $ 2 pints during happy hour and the some of the cheapest oysters you 'll find in the city , though the quality is some of the best .", 'labels': [[(17, 18), (16, 17), 1], [(27, 28), (32, 33), 1]]}
+{'sentence': 'I would never wait for a table to eat , it just is not THAT great .', 'labels': [[(6, 7), (2, 4), 0]]}
+{'sentence': 'We concluded with tiramisu chocolate cake , both were delicious .', 'labels': [[(3, 6), (9, 10), 1]]}
+{'sentence': 'The counter service is bad .', 'labels': [[(1, 3), (4, 5), 2]]}
+{'sentence': 'This is such a lovely , peaceful place to eat outside .', 'labels': [[(7, 8), (4, 5), 1], [(7, 8), (6, 7), 1]]}
+{'sentence': 'The sauce is delicious and the crust is perfect .', 'labels': [[(1, 2), (3, 4), 1], [(6, 7), (8, 9), 1]]}
+{'sentence': 'You will pay a lot for the decore , but the food is no better or worse than a lot of other Chinese and Asian fusion places in NY .', 'labels': [[(7, 8), (2, 5), 2], [(11, 12), (13, 17), 0]]}
+{'sentence': 'They have some great entrees here as well .', 'labels': [[(4, 5), (3, 4), 1]]}
+{'sentence': 'The service is not consistently excellent -- just decent .', 'labels': [[(1, 2), (3, 6), 0], [(1, 2), (8, 9), 0]]}
+{'sentence': 'The food , served in small tasting portions ( as an option ) is very good with each dish being better than the next .', 'labels': [[(7, 8), (5, 6), 1], [(1, 2), (15, 16), 1], [(18, 19), (20, 21), 1]]}
+{'sentence': "I had the mango chicken and i ca n't go on to tell you how delicious that was and the presentation was beautiful .", 'labels': [[(3, 5), (15, 16), 1], [(20, 21), (22, 23), 1]]}
+{'sentence': 'Oh , but wait , we were out of drinks ( which were also delightfully overpriced ) .', 'labels': [[(9, 10), (15, 16), 2]]}
+{'sentence': 'The service is fantastic .', 'labels': [[(1, 2), (3, 4), 1]]}
+{'sentence': 'The garlic mashed potatoes are hands down the best in the city !', 'labels': [[(1, 4), (8, 9), 1]]}
+{'sentence': 'Food and service was okay .', 'labels': [[(0, 1), (4, 5), 0]]}
+{'sentence': "The best pad thai i 've ever had .", 'labels': [[(2, 4), (1, 2), 1]]}
+{'sentence': 'Over time , the food quality has decreased substantially , it is a lot less crowded than it used to , and the service must definitely be part of the reason .', 'labels': [[(4, 6), (7, 8), 2]]}
+{'sentence': 'While this is a pretty place in that overly cute French way , the food was insultingly horrible .', 'labels': [[(5, 6), (4, 5), 1], [(14, 15), (16, 18), 2]]}
+{'sentence': 'I went there for lunch and it was not as good as I expected from the reviews I read .', 'labels': [[(4, 5), (8, 14), 0]]}
+{'sentence': "The wine list is n't great , and the desserts are shipped in from Bruno 's down the street , which is not as good as it used to be .", 'labels': [[(1, 3), (3, 6), 2], [(9, 10), (22, 25), 2]]}
+{'sentence': 'Their coffee is quite good too !', 'labels': [[(1, 2), (4, 5), 1]]}
+{'sentence': 'great wine list ( italian ) , good food , service was INITIALLY fine .', 'labels': [[(1, 3), (0, 1), 1], [(8, 9), (7, 8), 1], [(10, 11), (13, 14), 1]]}
+{'sentence': "Despite the fact that the space is large , they 've overcrowded the floor with tables .", 'labels': [[(5, 6), (7, 8), 1], [(15, 16), (11, 12), 2]]}
+{'sentence': 'As far as the service goes , the waitresses were not particularly friendly , but they got the job done .', 'labels': [[(8, 9), (10, 13), 1]]}
+{'sentence': 'They are not helpful in the least and will give you the grand run around so by the time the event date rolls around you will not only regret chosing this place , but also become hostile !', 'labels': [[(31, 32), (36, 37), 2]]}
+{'sentence': 'Taxan delicious !', 'labels': [[(0, 1), (1, 2), 1]]}
+{'sentence': 'Unlike other places in NYC where the sandwiches you want only come as a triple-decker , here you can get what you want in a reasonably-sized portion ( and price ) .', 'labels': [[(26, 27), (25, 26), 1]]}
+{'sentence': 'Restaurant snobs need not bother , this is a small , neighborhood kind of place .', 'labels': [[(14, 15), (9, 10), 1]]}
+{'sentence': "They could n't even make a salad that was appealing .", 'labels': [[(6, 7), (9, 10), 2]]}
+{'sentence': 'Plus they made a perfect martini .', 'labels': [[(5, 6), (4, 5), 1]]}
+{'sentence': 'The waiter was attentive .', 'labels': [[(1, 2), (3, 4), 1]]}
+{'sentence': "Their Margarita is best I 've had since I 've returned from Naples !", 'labels': [[(1, 2), (3, 4), 1]]}
+{'sentence': "Their sake list was extensive , but we were looking for Purple Haze , which was n't listed but made for us upon request !", 'labels': [[(1, 3), (4, 5), 1], [(11, 13), (15, 18), 1]]}
+{'sentence': 'The tables are crammed way too close , the menu is typical of any Italian restaurant , and the wine list is simply overpriced .', 'labels': [[(1, 2), (3, 4), 2], [(1, 2), (5, 7), 2], [(9, 10), (11, 12), 0], [(19, 21), (23, 24), 2]]}
+{'sentence': 'The food was actually awful .', 'labels': [[(1, 2), (4, 5), 2]]}
+{'sentence': 'There is actually space to breathe and the decor sets the tone for an intimate dinner .', 'labels': [[(15, 16), (14, 15), 0]]}
+{'sentence': 'My husband and I both ordered the Steak , medium .', 'labels': [[(7, 8), (9, 10), 0]]}
+{'sentence': 'Furthermore , the rice had no seasoning , so the sushi was bland and disgusting .', 'labels': [[(3, 4), (5, 7), 2], [(10, 11), (12, 13), 2], [(10, 11), (14, 15), 2]]}
+{'sentence': 'This place has realy fresh sushi and a nice large menu of Japanese classic cuisine .', 'labels': [[(5, 6), (4, 5), 1], [(10, 11), (9, 10), 1]]}
+{'sentence': 'The sushi is average and the prices are anything but .', 'labels': [[(1, 2), (3, 4), 0]]}
+{'sentence': 'My wife and I also enjoyed the spinach , the Shanghai low mein , and other attractions .', 'labels': [[(7, 8), (5, 6), 1]]}
+{'sentence': 'Turned out there was full service upstairs and sat down .', 'labels': [[(5, 6), (4, 5), 1]]}
+{'sentence': 'If you have a dumpling fetish i suggest you try some here !', 'labels': [[(4, 5), (9, 10), 1]]}
+{'sentence': "The waiters and owners were nonchalant about this and promised to call the exterminator but were n't as dismayed or apologetic as I would have expected .", 'labels': [[(1, 2), (5, 6), 2]]}
+{'sentence': 'And the food was fantastic .', 'labels': [[(2, 3), (4, 5), 1]]}
+{'sentence': "They 're also friendlier here , especially the owner , Kenny .", 'labels': [[(8, 9), (3, 4), 1]]}
+{'sentence': "While the room is not particularly comfortable , once you 're seated you 'll forget about everything except what 's on your plate .", 'labels': [[(2, 3), (4, 7), 2]]}
+{'sentence': 'Winnie and her staff are the best crew you can find serving you .', 'labels': [[(7, 8), (6, 7), 1]]}
+{'sentence': 'The ambiance is minimal the food is not phenomenal , but some dishes are quite good , such as the eggplant parmesan , veal in carozza chicken saltimbocca .', 'labels': [[(1, 2), (3, 4), 1], [(5, 6), (7, 9), 2], [(12, 13), (15, 16), 1]]}
+{'sentence': "The bar has various selections and the mixed drink special is a catcher ! 2 for 1 's .", 'labels': [[(1, 2), (3, 4), 1], [(7, 10), (12, 13), 1]]}
+{'sentence': "If it is n't for the food ( A+++ ) , it must be the service or the ambience .", 'labels': [[(6, 7), (7, 10), 1]]}
+{'sentence': "I like the ambience , it 's very dark and original .", 'labels': [[(3, 4), (1, 2), 1], [(3, 4), (8, 9), 1], [(3, 4), (10, 11), 1]]}
+{'sentence': 'Overall , not worth the money .', 'labels': [[(5, 6), (2, 4), 2]]}
+{'sentence': 'This place is not worth the prices .', 'labels': [[(6, 7), (3, 5), 2]]}
+{'sentence': 'Pick a bagel has the best bagels in the city .', 'labels': [[(6, 7), (5, 6), 1]]}
+{'sentence': 'Yes you have to wait to be seated and because its small there is no waiting area and the seat at the bar was all taken .', 'labels': [[(22, 23), (11, 12), 0], [(15, 17), (14, 15), 2], [(19, 20), (24, 26), 2]]}
+{'sentence': 'The last two times I ordered from here my food was soo spicy that I could barely eat it , and the spice took away from the flavor of the dish .', 'labels': [[(9, 10), (12, 13), 2], [(30, 31), (16, 17), 2], [(22, 23), (23, 25), 2]]}
+{'sentence': 'The fried dumplings are GREAT !', 'labels': [[(1, 3), (4, 5), 1]]}
+{'sentence': 'This place has the best Chinese style BBQ ribs in the city .', 'labels': [[(7, 9), (4, 5), 1]]}
+{'sentence': 'We figured we never had Argentinian Pizza before so we grabbed our lunch there , sharing a large Pelligrino , a pizza of two of their specials , one was goat cheese the other blue cheese , and both were excellent .', 'labels': [[(18, 19), (17, 18), 1], [(30, 32), (40, 41), 1]]}
+{'sentence': "The ' kamasutra ' and ' bombay cosmopolitan ' are excellent and will have you tipsy in no time .", 'labels': [[(2, 3), (10, 11), 1]]}
+{'sentence': 'This is the perfect date spot for Williamsburg couples .', 'labels': [[(4, 6), (3, 4), 1]]}
+{'sentence': 'The dim sum here is only so-so .', 'labels': [[(1, 3), (6, 7), 0]]}
+{'sentence': '$ 6 and there is much tasty food , all of it fresh and continually refilled .', 'labels': [[(7, 8), (6, 7), 1], [(7, 8), (12, 13), 1], [(7, 8), (15, 16), 1]]}
+{'sentence': 'Just straight up cheap , good food .', 'labels': [[(6, 7), (3, 4), 1], [(6, 7), (5, 6), 1]]}
+{'sentence': "Seating is ok even though sometimes there 's alot of people .", 'labels': [[(0, 1), (2, 3), 0]]}
+{'sentence': 'Even with a relatively inexpensive botle of wine , if you can call $ 70.00 inexpensive , the cost is through the roof for better than average fare .', 'labels': [[(5, 8), (4, 5), 1]]}
+{'sentence': 'Service was slow , but the people were friendly .', 'labels': [[(0, 1), (2, 3), 2], [(6, 7), (8, 9), 1]]}
+{'sentence': 'The steak was very fatty and the sauce was overpowering and not very tasty .', 'labels': [[(1, 2), (4, 5), 2], [(7, 8), (9, 10), 2], [(7, 8), (11, 14), 2]]}
+{'sentence': 'The food is alright - some stuff is good - some is not ( like the steak dish which tends to be dry ) .', 'labels': [[(1, 2), (3, 4), 1], [(16, 18), (22, 23), 2]]}
+{'sentence': 'They have a very diverse menu so its something for everybody .', 'labels': [[(5, 6), (4, 5), 1]]}
+{'sentence': "As a long-time patron of Mamoun 's , I always figured that I had found the best late night food spot in the city .", 'labels': [[(19, 21), (16, 17), 1]]}
+{'sentence': 'The bagel was huge .', 'labels': [[(1, 2), (3, 4), 0]]}
+{'sentence': 'The service was the only thing good about this restaurant .', 'labels': [[(1, 2), (6, 7), 1]]}
+{'sentence': 'Service -- friendly and attentive .', 'labels': [[(0, 1), (2, 3), 1], [(0, 1), (4, 5), 1]]}
+{'sentence': 'Service was very prompt but slightly rushed .', 'labels': [[(0, 1), (3, 4), 1], [(0, 1), (6, 7), 1]]}
+{'sentence': 'Great food , great decor , great service .', 'labels': [[(1, 2), (0, 1), 1], [(4, 5), (3, 4), 1], [(7, 8), (6, 7), 1]]}
+{'sentence': 'And , atlhough tables opened up next to us and we ASKED for a slightly larger space , they left us awkardly seated .', 'labels': [[(16, 17), (15, 16), 0]]}
+{'sentence': "I 've dined at Alain Ducasse 's restaurant in Monte Carlo for half the price for the same excellent dining experience .", 'labels': [[(19, 20), (18, 19), 1]]}
+{'sentence': 'Yeah , sometimes the service can be slow .', 'labels': [[(4, 5), (7, 8), 2]]}
+{'sentence': "Save your money and do n't waste your calories , go to Margharita 's on Washington Street instead , they have amazing food and the BEST service .", 'labels': [[(22, 23), (21, 22), 1], [(26, 27), (25, 26), 1]]}
+{'sentence': 'The service was attentive without being overbearing and each dish we tried was wonderful from the spring rolls to the cod with pineapple tempura .', 'labels': [[(1, 2), (3, 7), 1], [(9, 10), (13, 14), 1]]}
+{'sentence': 'The only weird thing was if we got a bottle , the waitress would have simply multiplied the glass price X4 , which makes no sense whatsoever .', 'labels': [[(12, 13), (2, 3), 2]]}
+{'sentence': "The place is small and intimate and you may feel a little crowded , but the service is excellent and it 's great for friends out , a romantic date , or a special occassion .", 'labels': [[(1, 2), (3, 4), 2], [(1, 2), (5, 6), 2], [(1, 2), (12, 13), 2], [(16, 17), (18, 19), 1]]}
+{'sentence': 'The service was excellent and the food was delicious .', 'labels': [[(1, 2), (3, 4), 1], [(6, 7), (8, 9), 1]]}
+{'sentence': 'Service was also very good .', 'labels': [[(0, 1), (4, 5), 1]]}
+{'sentence': 'I took my girlfriend there for her birthday last night and we had a relaxing , really good meal .', 'labels': [[(18, 19), (14, 15), 1], [(18, 19), (17, 18), 1]]}
+{'sentence': "I 'm happy to have Nosh in the neighborhood and the food is very comforting .", 'labels': [[(11, 12), (14, 15), 1]]}
+{'sentence': 'Good atmosphere , combination of all the hottest music dress code is relatively strict except on Fridays .', 'labels': [[(1, 2), (0, 1), 1], [(8, 9), (7, 8), 1]]}
+{'sentence': 'love the food .', 'labels': [[(2, 3), (0, 1), 1]]}
+{'sentence': "I would highly recommend Nina 's to anyone who wants to have a romantic dinner in a heart warming surrounding filled with candles and family pictures .", 'labels': [[(14, 15), (13, 14), 1], [(19, 20), (17, 19), 1]]}
+{'sentence': 'All the desserts the group tried got favorable reviews .', 'labels': [[(2, 3), (7, 8), 1]]}
+{'sentence': "There 's something smooth about sipping sake upper east side style .", 'labels': [[(6, 7), (3, 4), 1]]}
+{'sentence': "It 's a nice place to relax and have conversation .", 'labels': [[(4, 5), (3, 4), 1]]}
+{'sentence': 'Best Reuben sandwich ever !', 'labels': [[(1, 3), (0, 1), 1]]}
+{'sentence': 'Lucky Strike is a great casual place to just grab a bite to eat .', 'labels': [[(6, 7), (4, 6), 1]]}
+{'sentence': 'Wonderful strawberry daiquiries as well !', 'labels': [[(1, 3), (0, 1), 1]]}
+{'sentence': 'Frites were delicious if a bit on the thick side .', 'labels': [[(0, 1), (2, 3), 1]]}
+{'sentence': 'I would recommend putting your name down and then getting a drink at a local bar first though because of the wait time .', 'labels': [[(11, 12), (2, 3), 0]]}
+{'sentence': 'I fell in love with the egg noodles in the beef broth with shrimp dumplings and slices of BBQ roast pork .', 'labels': [[(6, 21), (3, 4), 1]]}
+{'sentence': 'Overall , the best bagel in town .', 'labels': [[(4, 5), (3, 4), 1]]}
+{'sentence': 'Light , refreshing summer rolls ( not fried ) remind me of Vietnamese places in Paris .', 'labels': [[(3, 5), (2, 3), 1]]}
+{'sentence': 'The sushi seemed pretty fresh and was adequately proportioned .', 'labels': [[(1, 2), (4, 5), 1], [(1, 2), (8, 9), 1]]}
+{'sentence': 'but the service was a bit slow .', 'labels': [[(2, 3), (6, 7), 2]]}
+{'sentence': 'Spreads and toppings are great - though a bit pricey .', 'labels': [[(0, 1), (4, 5), 1], [(0, 1), (9, 10), 1]]}
+{'sentence': 'Indoor was very cozy and cute .', 'labels': [[(0, 1), (3, 4), 1], [(0, 1), (5, 6), 1]]}
+{'sentence': 'We had a 3 hour brunch- they definitely do not rush you- and they kept the unlimited mimosas flowing the whole time .', 'labels': [[(17, 18), (16, 17), 1]]}
+{'sentence': 'And their prices are very high - they actually think that they can get away with charging such prices for such terrible food and service !', 'labels': [[(2, 3), (5, 6), 2], [(22, 23), (21, 22), 2]]}
+{'sentence': 'The service was excellent , the food was excellent , but the entire experience was very cool .', 'labels': [[(1, 2), (3, 4), 1], [(6, 7), (8, 9), 1]]}
+{'sentence': 'The service is good and the resturant is clean .', 'labels': [[(1, 2), (3, 4), 1]]}
+{'sentence': 'Great spot , whether looking for a couple of drinks or quiet dinner .', 'labels': [[(1, 2), (0, 1), 1], [(12, 13), (11, 12), 1]]}
+{'sentence': 'Food is excellent .', 'labels': [[(0, 1), (2, 3), 1]]}
+{'sentence': 'Although we were looking for regular lettuce and some walnuts the salads we got were great .', 'labels': [[(11, 12), (15, 16), 1]]}
+{'sentence': 'both are very reasonably priced ( around $ 8 for dinner and $ 5 for lunch ) , and are delicious and filling .', 'labels': [[(4, 5), (3, 4), 1], [(10, 11), (20, 21), 1], [(10, 11), (22, 23), 1]]}
+{'sentence': 'Ambience is so cute and quaint , good for business although we were there on vacation .', 'labels': [[(0, 1), (3, 4), 1], [(0, 1), (5, 6), 1], [(0, 1), (7, 8), 1]]}
+{'sentence': 'My boyfriend ate tuna and it was cooked perfectly !', 'labels': [[(3, 4), (8, 9), 1]]}
+{'sentence': 'Good food at the restaurant ( a bit expensive , but great if you want to impress your date ) .', 'labels': [[(1, 2), (0, 1), 1]]}
+{'sentence': 'I highly recommend Caviar Russe to anyone who wants delicious top grade caviar and fantastic service .', 'labels': [[(12, 13), (9, 12), 1], [(15, 16), (14, 15), 1]]}
+{'sentence': "You ca n't say its cheap because food is cheaper in Chinatown .", 'labels': [[(7, 8), (9, 10), 1]]}
+{'sentence': 'great eats , good times .', 'labels': [[(1, 2), (0, 1), 1]]}
+{'sentence': 'Grilled whole fish wonderful , great spicing .', 'labels': [[(2, 3), (3, 4), 1], [(2, 3), (5, 6), 1]]}
+{'sentence': 'For years , I thought Tuscan cuisine was the best , but Salvatore converted me to the hearty Neapolitan fare on my first visit .', 'labels': [[(5, 7), (9, 10), 1], [(18, 20), (17, 18), 1]]}
+{'sentence': 'Another plus is most of the entrees are approx .', 'labels': [[(6, 7), (1, 2), 1]]}
+{'sentence': 'The food was delicious , the atmosphere was relaxed , and we have now adopted Plate 347 as our Secret on Second !', 'labels': [[(1, 2), (3, 4), 1], [(6, 7), (8, 9), 1]]}
+{'sentence': 'From the moment we walked in they were more than accomodating even though the place was packed .', 'labels': [[(14, 15), (16, 17), 2]]}
+{'sentence': 'I found the food , service and value exceptional everytime I have been there .', 'labels': [[(3, 4), (8, 9), 1]]}
+{'sentence': 'We ate at this Thai place following the reviews but very unhappy with the foods .', 'labels': [[(14, 15), (11, 12), 2]]}
+{'sentence': 'The food is definitely good , but I left a bit disappointed .', 'labels': [[(1, 2), (4, 5), 1], [(1, 2), (11, 12), 1]]}
+{'sentence': 'The drinks are a saving grace , but service staff , please , get over yourselves .', 'labels': [[(1, 2), (4, 6), 1]]}
+{'sentence': "There is a downside if you 're ordering in -- the delivery guys have MAJOR attitude .", 'labels': [[(11, 13), (3, 4), 2]]}
+{'sentence': 'The all-Italian staff is warm and engaging from the start .', 'labels': [[(2, 3), (4, 5), 1], [(2, 3), (6, 7), 1]]}
+{'sentence': 'The prices are exceptionally reasonable for food of this caliber .', 'labels': [[(1, 2), (4, 5), 1]]}
+{'sentence': 'The filet mignon dish was superb !', 'labels': [[(1, 4), (5, 6), 1]]}
+{'sentence': 'I had been a regular due to the consistently good food and ease of getting a table .', 'labels': [[(10, 11), (9, 10), 1], [(14, 17), (12, 13), 1]]}
+{'sentence': "The food is good , I ca n't lie .", 'labels': [[(1, 2), (3, 4), 1]]}
+{'sentence': "great food , lt 's of it , more then one person can eat !", 'labels': [[(1, 2), (0, 1), 1]]}
+{'sentence': "I did n't expect to like Nosh as much as I did , but the pastrami on challah sandwich I had was otherworldly , the soups are like Mom 's , and the knishes give Yonah Schimmel 's a run for its money .", 'labels': [[(15, 19), (22, 23), 1]]}
+{'sentence': 'The atmosphere is nothing special , but it feels like a Sushi establishment in Tokyo .', 'labels': [[(1, 2), (3, 5), 0]]}
+{'sentence': 'Cozy romantic atomosphere with only around 15 tables at most .', 'labels': [[(2, 3), (0, 2), 1]]}
+{'sentence': 'This place is worth going even if only for their beer .', 'labels': [[(10, 11), (3, 5), 1]]}
+{'sentence': 'The ambience was so fun , and the prices were great , on top of the fact that the food was really tasty .', 'labels': [[(1, 2), (4, 5), 1], [(8, 9), (10, 11), 1], [(19, 20), (22, 23), 1]]}
+{'sentence': 'The sandwhiches are out of this world !', 'labels': [[(1, 2), (3, 7), 1]]}
+{'sentence': 'Decor is charming .', 'labels': [[(0, 1), (2, 3), 1]]}
+{'sentence': 'Really tasty spring rolls and noodles for a good price though .', 'labels': [[(2, 4), (1, 2), 1], [(9, 10), (8, 9), 1]]}
+{'sentence': "Good , because hey , it 's more food , but bad because dim sum is supposed to be smaller portions so you can try out more dishes and smaller so that each dish is cheap .", 'labels': [[(8, 9), (7, 8), 1], [(13, 15), (11, 12), 2], [(13, 15), (19, 20), 2], [(27, 28), (35, 36), 0]]}
+{'sentence': 'While most people can attest to spending over $ 50 on drinks in New York bars and hardly feeling a thing , the drinks here are plentiful and unique .', 'labels': [[(23, 24), (26, 27), 1], [(23, 24), (28, 29), 1]]}
+{'sentence': 'The food arrived 20 minutes after I called , cold and soggy .', 'labels': [[(1, 2), (9, 10), 2], [(1, 2), (11, 12), 2]]}
+{'sentence': "If you go for the pre-theatre menu , it 's an even greater deal .", 'labels': [[(5, 7), (12, 13), 1]]}
+{'sentence': 'If you are someone who appreciates simplicity , elegance , and wonderfully presented and tasting seafood and vegetables regardless of portion size , Kai is your place .', 'labels': [[(15, 16), (11, 13), 1], [(15, 16), (14, 15), 1]]}
+{'sentence': 'I have been about 4 times and have always had a great meal .', 'labels': [[(12, 13), (11, 12), 1]]}
+{'sentence': 'We usually just get some of the dinner specials and they are very reasonably priced and very tasty .', 'labels': [[(14, 15), (13, 14), 1], [(7, 9), (17, 18), 1]]}
+{'sentence': 'Horrible food and horrible service .', 'labels': [[(1, 2), (0, 1), 2], [(4, 5), (3, 4), 2]]}
+{'sentence': "The wine and cheese plate are plentiful and ca n't wait to try the fondue or table grilling .", 'labels': [[(1, 2), (6, 7), 1]]}
+{'sentence': 'They treated us well and the food was extremely fresh and well-prepared .', 'labels': [[(6, 7), (9, 10), 1], [(6, 7), (11, 12), 1]]}
+{'sentence': 'Their exotic salad is basic ly a delicious little green salad with a peanut sauce that is perfect before their sweet basil fried tofu .', 'labels': [[(1, 3), (7, 8), 1], [(13, 15), (17, 18), 1]]}
+{'sentence': "Even if the food was n't this good , the garden is a great place to sit outside and relax .", 'labels': [[(3, 4), (4, 8), 1], [(10, 11), (13, 14), 1]]}
+{'sentence': 'The chicken and steak were seasoned and cooked to perfection , and the lamb sandwhich is great for heartier appetites .', 'labels': [[(1, 2), (5, 6), 1], [(1, 2), (9, 10), 1], [(13, 15), (16, 17), 1]]}
+{'sentence': "No you 're going to go back because the food was good .", 'labels': [[(9, 10), (11, 12), 1]]}
+{'sentence': 'While this can hardly be called a restaurant , it is possibly the best deal in Manhatten : $ 4 for a plate heaped with rice and 2-3 entrees .', 'labels': [[(25, 26), (13, 14), 1]]}
+{'sentence': 'Traditional French decour was pleasant though the hall was rather noisy - the restaurant was full and we had to raise our voices to be able to maintain a conversation .', 'labels': [[(0, 3), (4, 5), 1], [(7, 8), (10, 11), 2]]}
+{'sentence': 'The fish is fresh and each piece is sliced to perfection and seasoned by the sushi chef ( usually with a little fresh wasabi and soy sauce but also sometimes with some sea salt ) .', 'labels': [[(1, 2), (3, 4), 1], [(15, 17), (12, 13), 1], [(23, 24), (22, 23), 1]]}
+{'sentence': 'Very good wine choices .', 'labels': [[(2, 4), (1, 2), 1]]}
+{'sentence': 'We were seated and ignored by waitstaff .', 'labels': [[(6, 7), (4, 5), 2]]}
+{'sentence': 'Tasty steak , pork loin , the works .', 'labels': [[(1, 2), (0, 1), 1]]}
+{'sentence': "I 'd highly recommend it for a special occasion -- it provides and intimate setting and nice service .", 'labels': [[(14, 15), (13, 14), 1], [(17, 18), (16, 17), 1]]}
+{'sentence': 'The burger was great , also .', 'labels': [[(1, 2), (3, 4), 1]]}
+{'sentence': 'The pizza was great .', 'labels': [[(1, 2), (3, 4), 1]]}
+{'sentence': "I had never had Edamame pureed before but I thought it was innovative and tasty ( could 've used a bit more salt ) .", 'labels': [[(4, 6), (12, 13), 1], [(4, 6), (14, 15), 1]]}
+{'sentence': "however , it 's the service that leaves a bad taste in my mouth .", 'labels': [[(5, 6), (9, 11), 2]]}
+{'sentence': 'The price was extremely reasonable for the appetizers and food we ate .', 'labels': [[(1, 2), (4, 5), 1]]}
+{'sentence': "Do n't dine at Tamarind for the vegetarian dishes , they are simply not up to par with the non-veg selections .", 'labels': [[(7, 9), (13, 17), 2]]}
+{'sentence': 'They need a kick out of it but until then the sushi is pretty good and the place is consistent .', 'labels': [[(11, 12), (14, 15), 1], [(17, 18), (19, 20), 1]]}
+{'sentence': "I 've had to wait only a few times during lunch but this place is definitely worth the wait .", 'labels': [[(18, 19), (16, 17), 1]]}
+{'sentence': 'All in all the food was above average and I would return to see how they operate with four or less dinners .', 'labels': [[(4, 5), (6, 8), 1]]}
+{'sentence': 'For appetizers , I recommend the shrimp fritters and dumplings .', 'labels': [[(6, 8), (4, 5), 1]]}
+{'sentence': 'Such nice people working here - but I have to review the food .', 'labels': [[(2, 3), (1, 2), 1]]}
+{'sentence': 'The restaurant is dark and not very attractive and then you have spot lights shining on you putting you in the worst light possible , reaching for sunglasses .', 'labels': [[(12, 14), (21, 22), 2]]}
+{'sentence': "Veal Parmigana - Better than Patsy 's !", 'labels': [[(0, 2), (3, 4), 1]]}
+{'sentence': 'The food and staff always surprise me with the new heights they are taken to .', 'labels': [[(1, 2), (5, 6), 1]]}
+{'sentence': 'Went to Ottimo and was expecting outstanding pizza ( as I love La Pizza Fresca ) .', 'labels': [[(7, 8), (6, 7), 0]]}
+{'sentence': 'honestly the worst sushi my husband and i had in our entire lives .', 'labels': [[(3, 4), (2, 3), 2]]}
+{'sentence': "However , if you want great food at a great price and do n't mind the decor , you ca n't beat this place .", 'labels': [[(6, 7), (5, 6), 1], [(10, 11), (9, 10), 1], [(16, 17), (12, 15), 2]]}
+{'sentence': 'Interesting other dishes for a change include chicken in curry sauce and salmon caserole .', 'labels': [[(2, 3), (0, 1), 1]]}
+{'sentence': 'One of my favorites though was the Angry Lobster , a cold lobster salad that was magnificent .', 'labels': [[(7, 9), (3, 4), 1], [(11, 14), (16, 17), 1]]}
+{'sentence': 'Ask for Usha , the nicest bartender in manhattan .', 'labels': [[(6, 7), (5, 6), 1]]}
+{'sentence': 'The service is outstanding and my crab-cake eggs benedict could not have been better .', 'labels': [[(1, 2), (3, 4), 1], [(6, 9), (9, 14), 1]]}
+{'sentence': "The place 's decor and hidden bathrooms made for a good laugh .", 'labels': [[(3, 4), (10, 12), 1]]}
+{'sentence': 'Its location is good and the fact that Hutner College is near and their prices are very reasonable , makes students go back to Suan again and again .', 'labels': [[(1, 2), (3, 4), 1], [(14, 15), (17, 18), 1]]}
+{'sentence': 'A wonderful place !', 'labels': [[(2, 3), (1, 2), 1]]}
+{'sentence': 'Service was on par but not wonderful .', 'labels': [[(0, 1), (2, 4), 1], [(0, 1), (5, 7), 1]]}
+{'sentence': 'This place is always very crowded and popular .', 'labels': [[(1, 2), (5, 6), 1], [(1, 2), (7, 8), 1]]}
+{'sentence': 'The selection changes frequently but the basic dishes are always available .', 'labels': [[(1, 2), (2, 4), 0], [(6, 8), (10, 11), 0]]}
+{'sentence': 'I have to say that if this what makes it easier to get a saet a lunch -- I dont mind .', 'labels': [[(16, 17), (10, 11), 0]]}
+{'sentence': 'We were told that they were booked solid and no other table was available .', 'labels': [[(11, 12), (13, 14), 2]]}
+{'sentence': 'The restaraurant is very small so reservations are a must .', 'labels': [[(6, 7), (9, 10), 0]]}
+{'sentence': 'The service was typical short-order , dinner type .', 'labels': [[(1, 2), (3, 4), 0]]}
+{'sentence': 'Each table has a pot of boiling water sunken into its surface , and you get platters of thin sliced meats , various vegetables , and rice and glass noodles .', 'labels': [[(20, 21), (18, 19), 0], [(23, 24), (22, 23), 0]]}

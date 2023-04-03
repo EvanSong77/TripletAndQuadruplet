@@ -1,0 +1,906 @@
+{'sentence': 'I charge it at night and skip taking the cord with me because of the good battery life .', 'labels': [[(16, 18), (15, 16), 'POS']]}
+{'sentence': 'it is of high quality , has a killer GUI , is extremely stable , is highly expandable , is bundled with lots of very good applications , is easy to use , and is absolutely gorgeous .', 'labels': [[(4, 5), (3, 4), 'POS'], [(9, 10), (8, 9), 'POS'], [(26, 27), (25, 26), 'POS'], [(31, 32), (29, 30), 'POS']]}
+{'sentence': 'Easy to start up and does not overheat as much as other laptops .', 'labels': [[(2, 4), (0, 1), 'POS']]}
+{'sentence': 'Great laptop that offers many great features !', 'labels': [[(6, 7), (5, 6), 'POS']]}
+{'sentence': 'One night I turned the freaking thing off after using it , the next day I turn it on , no GUI , screen all dark , power light steady , hard drive light steady and not flashing as it usually does .', 'labels': [[(21, 22), (20, 21), 'NEG'], [(23, 24), (25, 26), 'NEG'], [(27, 29), (29, 30), 'NEU'], [(31, 34), (34, 35), 'NEG']]}
+{'sentence': "However , the multi-touch gestures and large tracking area make having an external mouse unnecessary ( unless you 're gaming ) .", 'labels': [[(12, 14), (14, 15), 'NEU']]}
+{'sentence': 'I love the way the entire suite of software works together .', 'labels': [[(6, 9), (1, 2), 'POS']]}
+{'sentence': 'The speed is incredible and I am more than satisfied .', 'labels': [[(1, 2), (3, 4), 'POS'], [(1, 2), (9, 10), 'POS']]}
+{'sentence': 'I can barely use any usb devices because they will not stay connected properly .', 'labels': [[(5, 7), (10, 14), 'NEG']]}
+{'sentence': 'When I finally had everything running with all my software installed I plugged in my droid to recharge and the system crashed .', 'labels': [[(20, 21), (21, 22), 'NEG']]}
+{'sentence': "Pairing it with an iPhone is a pure pleasure - talk about painless syncing - used to take me forever - now it 's a snap .", 'labels': [[(13, 14), (12, 13), 'POS']]}
+{'sentence': "I also got the added bonus of a 30 '' HD Monitor , which really helps to extend my screen and keep my eyes fresh !", 'labels': [[(19, 20), (17, 18), 'NEU']]}
+{'sentence': 'The machine is slow to boot up and occasionally crashes completely .', 'labels': [[(5, 7), (3, 4), 'NEG']]}
+{'sentence': 'After paying several hundred dollars for this service , it is frustrating that you can not get help after hours .', 'labels': [[(7, 8), (11, 12), 'NEG']]}
+{'sentence': 'I love the operating system and the preloaded software .', 'labels': [[(3, 5), (1, 2), 'POS'], [(7, 9), (1, 2), 'POS']]}
+{'sentence': 'The best thing about this laptop is the price along with some of the newer features .', 'labels': [[(8, 9), (1, 2), 'POS'], [(15, 16), (1, 2), 'POS'], [(15, 16), (14, 15), 'POS']]}
+{'sentence': 'YOU WILL NOT BE ABLE TO TALK TO AN AMERICAN WARRANTY SERVICE IS OUT OF COUNTRY .', 'labels': [[(10, 12), (2, 5), 'NEG']]}
+{'sentence': 'but now i have realized its a problem with this brand .', 'labels': [[(10, 11), (7, 8), 'NEG']]}
+{'sentence': 'Also kinda loud when the fan was running .', 'labels': [[(5, 6), (2, 3), 'NEG']]}
+{'sentence': 'There also seemed to be a problem with the hard disc as certain times windows loads but claims to not be able to find any drivers or files .', 'labels': [[(9, 11), (6, 7), 'NEG']]}
+{'sentence': 'Speaking of the browser , it too has problems .', 'labels': [[(3, 4), (8, 9), 'NEG']]}
+{'sentence': 'The keyboard is too slick .', 'labels': [[(1, 2), (4, 5), 'NEG']]}
+{'sentence': "It 's like 9 punds , but if you can look past it , it 's GREAT !", 'labels': [[(3, 5), (16, 17), 'NEG']]}
+{'sentence': "It 's just as fast with one program open as it is with sixteen open .", 'labels': [[(7, 8), (4, 5), 'NEU']]}
+{'sentence': 'Still under warrenty so called Toshiba , no help at all .', 'labels': [[(2, 3), (7, 9), 'NEG']]}
+{'sentence': 'Amazing Quality !', 'labels': [[(1, 2), (0, 1), 'POS']]}
+{'sentence': 'A month or so ago , the freaking motherboard just died .', 'labels': [[(8, 9), (7, 8), 'NEG'], [(8, 9), (10, 11), 'NEG']]}
+{'sentence': 'The system it comes with does not work properly , so when trying to fix the problems with it it started not working at all .', 'labels': [[(1, 2), (6, 9), 'NEG']]}
+{'sentence': 'Then after 4 or so months the charger stopped working so I was forced to go out and buy new hardware just to keep this computer running .', 'labels': [[(7, 8), (8, 10), 'NEG']]}
+{'sentence': 'If a website ever freezes ( which is rare ) , its really easy to force quit .', 'labels': [[(15, 17), (13, 14), 'POS']]}
+{'sentence': 'I also enjoy the fact that my MacBook Pro laptop allows me to run Windows 7 on it by using the VMWare program .', 'labels': [[(14, 16), (2, 3), 'POS'], [(21, 23), (2, 3), 'NEU']]}
+{'sentence': 'I wanted to purchase the extended warranty and they refused , because they knew it was trouble .', 'labels': [[(5, 7), (9, 10), 'NEU']]}
+{'sentence': 'We upgraded the memory to four gigabytes in order to take advantage of the performace increase in speed .', 'labels': [[(17, 18), (15, 16), 'POS'], [(14, 15), (15, 16), 'POS']]}
+{'sentence': 'The reality was , it heated up very quickly , and took way too long to do simple things , like opening my Documents folder .', 'labels': [[(21, 25), (14, 15), 'NEG']]}
+{'sentence': 'I had always used PCs and been constantly frustrated by the crashing and the poorly designed operating systems that were never very intuitive .', 'labels': [[(16, 18), (14, 16), 'NEG'], [(16, 18), (22, 23), 'NEG']]}
+{'sentence': 'Then , within 5 months , the charger crapped out on me .', 'labels': [[(7, 8), (8, 9), 'NEG']]}
+{'sentence': 'And if you have a iphone or ipod touch you can connect and download songs to it at high speed .', 'labels': [[(19, 20), (18, 19), 'POS']]}
+{'sentence': 'I love the glass touchpad .', 'labels': [[(3, 5), (1, 2), 'POS']]}
+{'sentence': 'I continued to take the computer in AGAIN and they replaced the hard drive and mother board yet again .', 'labels': [[(12, 14), (10, 11), 'NEG'], [(15, 17), (10, 11), 'NEG']]}
+{'sentence': 'Then HP sends it back to me with the hardware screwed up , not able to connect .', 'labels': [[(9, 10), (10, 12), 'NEG']]}
+{'sentence': "Oh yeah , do n't forget the expensive shipping to and from HP .", 'labels': [[(8, 9), (7, 8), 'NEG']]}
+{'sentence': 'Everything is so easy to use , Mac software is just so much simpler than Microsoft software .', 'labels': [[(7, 9), (3, 4), 'POS'], [(15, 17), (13, 15), 'NEG'], [(5, 6), (3, 4), 'POS']]}
+{'sentence': 'And if you do a lot of writing , editing is a problem since there is no forward delete key .', 'labels': [[(9, 10), (12, 13), 'NEG']]}
+{'sentence': 'Its ease of use and the top service from Apple- be it their phone assistance or bellying up to the genius bar -- can not be beat .', 'labels': [[(3, 4), (1, 2), 'POS'], [(7, 8), (6, 7), 'POS'], [(13, 15), (23, 27), 'POS'], [(20, 22), (23, 27), 'POS']]}
+{'sentence': "It has a 10 hour battery life when you 're doing web browsing and word editing , making it perfect for the classroom or office , and in terms of gaming and movie playing it 'll have a battery life of just over 5 hours .", 'labels': [[(5, 7), (19, 20), 'POS'], [(11, 13), (19, 20), 'NEU'], [(14, 16), (19, 20), 'NEU']]}
+{'sentence': 'Acer has set me up with FREE recovery discs , when they are available since I asked .', 'labels': [[(7, 9), (6, 7), 'POS']]}
+{'sentence': 'Enabling the battery timer is useless .', 'labels': [[(2, 4), (5, 6), 'NEG']]}
+{'sentence': 'There is no need to purchase virus protection for Mac , which saves me a lot of time and money .', 'labels': [[(6, 10), (12, 13), 'POS']]}
+{'sentence': 'But we had paid for bluetooth , and there was none .', 'labels': [[(5, 6), (10, 11), 'NEG']]}
+{'sentence': 'It is always reliable , never bugged and responds well .', 'labels': [[(8, 9), (9, 10), 'POS']]}
+{'sentence': 'they had to replace the motherboard in April', 'labels': [[(5, 6), (3, 4), 'NEG']]}
+{'sentence': 'Also , if you need to talk to a representive at Microsoft , there is a charge , which I believe is robbery , since you are charged enormous amounts for a very badly designed system , which most people would have went with XP if they could .', 'labels': [[(35, 36), (33, 35), 'NEG']]}
+{'sentence': 'I love WIndows 7 which is a vast improvment over Vista .', 'labels': [[(2, 4), (1, 2), 'POS']]}
+{'sentence': "Dell 's customer disservice is an insult to it 's customers who pay good money for shoddy products .", 'labels': [[(0, 4), (6, 7), 'NEG']]}
+{'sentence': 'After talking it over with the very knowledgeable sales associate , I chose the MacBook Pro over the white MacBook .', 'labels': [[(8, 10), (7, 8), 'POS']]}
+{'sentence': "If you really want a bang-up system and do n't need to run Windows applications , go with an Apple ;", 'labels': [[(6, 7), (5, 6), 'POS']]}
+{'sentence': "You wo n't have to spend gobs of money on some inefficient virus program that needs to be updated every month and that constantly drains your wallet .", 'labels': [[(12, 14), (11, 12), 'NEG']]}
+{'sentence': "It 's color is even cool .", 'labels': [[(2, 3), (5, 6), 'POS']]}
+{'sentence': 'keys are all in weird places and is way too large for the way it is designed .', 'labels': [[(0, 1), (4, 5), 'NEG'], [(0, 1), (10, 11), 'NEG']]}
+{'sentence': 'Yes , a Mac is much more money than the average laptop out there , but there is no comparison in style , speed and just cool factor .', 'labels': [[(21, 22), (18, 20), 'POS'], [(23, 24), (18, 20), 'POS']]}
+{'sentence': "And not to mention after using it for a few months or so , the battery will slowly less and less hold a charge until you ca n't leave it unplugged for more than 5 minutes without the thing dying .", 'labels': [[(15, 16), (18, 19), 'NEG']]}
+{'sentence': "BEST BUY - 5 STARS + + + ( sales , service , respect for old men who are n't familiar with the technology ) DELL COMPUTERS - 3 stars DELL SUPPORT - owes a me a couple", 'labels': [[(9, 10), (0, 1), 'POS'], [(11, 12), (0, 1), 'POS']]}
+{'sentence': "no complaints with their desktop , and maybe because it just sits on your desktop , and you do n't carry it around , which could jar the hard drive , or the motherboard .", 'labels': [[(28, 30), (26, 27), 'NEU'], [(33, 34), (26, 27), 'NEU']]}
+{'sentence': 'Yes , they cost more , but they more than make up for it in speed , construction quality , and longevity .', 'labels': [[(15, 16), (10, 12), 'POS'], [(17, 19), (10, 12), 'POS'], [(21, 22), (10, 12), 'POS']]}
+{'sentence': 'It absolutely is more expensive than most PC laptops , but the ease of use , security , and minimal problems that have arisen make it well worth the pricetag .', 'labels': [[(14, 15), (12, 13), 'POS']]}
+{'sentence': 'It gets stuck all of the time you use it , and you have to keep tapping on it to get it to work .', 'labels': [[(8, 9), (2, 3), 'NEG']]}
+{'sentence': 'lots of preloaded software .', 'labels': [[(2, 4), (0, 1), 'POS']]}
+{'sentence': 'I wish it had a webcam though , then it would be perfect !', 'labels': [[(5, 6), (1, 2), 'NEG']]}
+{'sentence': 'Another thing I might add is the battery life is excellent .', 'labels': [[(7, 9), (10, 11), 'POS']]}
+{'sentence': 'One drawback , I wish the keys were backlit .', 'labels': [[(6, 7), (1, 2), 'NEG']]}
+{'sentence': 'I wish the volume could be louder and the mouse didnt break after only a month .', 'labels': [[(3, 4), (6, 7), 'NEG'], [(9, 10), (10, 12), 'NEG']]}
+{'sentence': 'I play a lot of casual games online , and the touchpad is very responsive .', 'labels': [[(11, 12), (14, 15), 'POS']]}
+{'sentence': "It is everything I 'd hoped it would be from a look and feel standpoint , but somehow a bit more sturdy .", 'labels': [[(11, 15), (21, 22), 'POS']]}
+{'sentence': 'the only fact i dont like about apples is they generally use safari and i dont use safari but after i install Mozzilla firfox i love every single bit about it .', 'labels': [[(17, 18), (15, 17), 'NEG'], [(22, 24), (25, 26), 'POS']]}
+{'sentence': 'Great battery , speed , display .', 'labels': [[(1, 2), (0, 1), 'POS'], [(3, 4), (0, 1), 'POS'], [(5, 6), (0, 1), 'POS']]}
+{'sentence': 'The delivery was fast , and I would not hesitate to purchase this laptop again .', 'labels': [[(1, 2), (3, 4), 'POS']]}
+{'sentence': "I 've been impressed with the battery life and the performance for such a small amount of memory .", 'labels': [[(6, 8), (3, 4), 'POS'], [(10, 11), (14, 15), 'POS'], [(17, 18), (14, 15), 'NEG']]}
+{'sentence': "It 's applications are terrific , including the replacements for Microsoft office .", 'labels': [[(2, 3), (4, 5), 'POS']]}
+{'sentence': 'I got it back and my built-in webcam and built-in mic were shorting out anytime I touched the lid , ( mind you this was my means of communication with my fiance who was deployed ) but I suffered thru it and would constandly have to reset the computer to be able to use my cam and mic anytime they went out .', 'labels': [[(6, 8), (12, 14), 'NEG'], [(9, 11), (12, 14), 'NEG'], [(55, 56), (38, 39), 'NEG'], [(10, 11), (38, 39), 'NEG']]}
+{'sentence': 'The board has a bad connector with the power supply and shortly after warrenty expires the power supply will start having issues .', 'labels': [[(1, 2), (4, 5), 'NEG'], [(5, 6), (4, 5), 'NEG'], [(16, 18), (21, 22), 'NEG']]}
+{'sentence': 'My dad has one of the very first Toshibas ever made , yes its abit slow now but still works well and i hooked to my ethernet !', 'labels': [[(19, 20), (20, 21), 'POS']]}
+{'sentence': 'Mostly I love the drag and drop feature .', 'labels': [[(4, 8), (2, 3), 'POS']]}
+{'sentence': 'oh yeah , and if the fancy webcam breaks guess who you have to send it to to get it fixed ?', 'labels': [[(7, 8), (6, 7), 'NEG']]}
+{'sentence': 'I ordered through MacMall , which saved me the sales tax I would have incurred buying locally .', 'labels': [[(9, 11), (6, 7), 'POS']]}
+{'sentence': 'Of course , I also have several great software packages that came for free including iWork , GarageBand , and iMovie .', 'labels': [[(8, 10), (7, 8), 'POS'], [(15, 16), (13, 14), 'POS'], [(17, 18), (13, 14), 'POS'], [(20, 21), (13, 14), 'POS']]}
+{'sentence': 'The screen is very large and crystal clear with amazing colors and resolution .', 'labels': [[(1, 2), (4, 5), 'POS'], [(1, 2), (7, 8), 'POS'], [(10, 11), (9, 10), 'POS'], [(12, 13), (9, 10), 'POS']]}
+{'sentence': 'After a little more than a year of owning my MacBook Pro , the monitor has completely died .', 'labels': [[(14, 15), (17, 18), 'NEG']]}
+{'sentence': 'The brand of iTunes has just become ingrained in our lexicon now , but keep in mind that Apple started it all .', 'labels': [[(3, 4), (7, 8), 'POS']]}
+{'sentence': 'Size : I know 13 is small ( especially for a desktop replacement ) but with an external monitor , who cares .', 'labels': [[(0, 1), (6, 7), 'NEG'], [(17, 19), (6, 7), 'NEU']]}
+{'sentence': 'The display is incredibly bright , much brighter than my PowerBook and very crisp .', 'labels': [[(1, 2), (4, 5), 'POS'], [(1, 2), (13, 14), 'POS']]}
+{'sentence': 'The start menu is not the easiest thing to navigate due to the stacking .', 'labels': [[(1, 3), (4, 7), 'NEG']]}
+{'sentence': 'Really like the textured surface which shows no fingerprints .', 'labels': [[(4, 5), (1, 2), 'POS']]}
+{'sentence': 'The screen is bright and the keyboard is nice ;', 'labels': [[(1, 2), (3, 4), 'POS'], [(6, 7), (8, 9), 'POS']]}
+{'sentence': 'But the machine is awesome and iLife is great and I love Snow Leopard X .', 'labels': [[(6, 7), (8, 9), 'POS'], [(12, 15), (11, 12), 'POS']]}
+{'sentence': 'I thought learning the Mac OS would be hard , but it is easily picked up if you are familiar with a PC .', 'labels': [[(4, 6), (13, 14), 'POS']]}
+{'sentence': 'It is easy to use and lightweight .', 'labels': [[(4, 5), (2, 3), 'POS']]}
+{'sentence': 'They also have a longer service life than other computers ( I have several friends who still use the older Apple PowerBooks ) .', 'labels': [[(5, 7), (4, 5), 'POS']]}
+{'sentence': 'If you check you will find the same notebook with the above missing ports and a dual core AMD or Intel processor .', 'labels': [[(13, 14), (12, 13), 'NEU']]}
+{'sentence': 'This laptop is a great price and has a sleek look .', 'labels': [[(5, 6), (4, 5), 'POS'], [(10, 11), (9, 10), 'POS']]}
+{'sentence': 'I especially like the keyboard which has chiclet type keys .', 'labels': [[(4, 5), (2, 3), 'POS'], [(9, 10), (7, 9), 'POS']]}
+{'sentence': 'I bought a protector for my key pad and it works great : )', 'labels': [[(3, 4), (11, 12), 'NEU']]}
+{'sentence': 'The magnetic plug-in power charging power cord is great ( I even put it to the test by accident ) - excellent innovation !', 'labels': [[(1, 7), (8, 9), 'POS'], [(1, 7), (21, 22), 'POS']]}
+{'sentence': "While Apple 's saving grace is the fact that they at least stand behind their products , and their support is great , it would be nice if their products were more reliable to justify the premium .", 'labels': [[(19, 20), (21, 22), 'POS']]}
+{'sentence': 'only good thing is the graphics quality .', 'labels': [[(5, 7), (1, 2), 'POS']]}
+{'sentence': 'The other lock-up problems are from a myriad of causes , the most common being a corrupted version of Appleworks which can render the browser useless .', 'labels': [[(19, 20), (16, 17), 'NEG'], [(24, 25), (25, 26), 'NEG']]}
+{'sentence': 'The paint wears off easily due to the keyboard being farther back than usual .', 'labels': [[(1, 2), (2, 4), 'NEG'], [(8, 9), (10, 12), 'NEG']]}
+{'sentence': "The store honored their warrenty and made the comment that they do n't even recommend the HP brand because of the problems with their warrentys .", 'labels': [[(24, 25), (11, 15), 'NEG'], [(24, 25), (21, 22), 'NEG']]}
+{'sentence': "They sent out the box right away for me to send in my computer , they paid postage and whatnot , but when I got my computer back it still was n't running right , and now my CD drive was n't reading anything !", 'labels': [[(38, 40), (40, 44), 'NEG'], [(32, 33), (30, 34), 'NEG']]}
+{'sentence': 'But the screen size is not that bad for email and web browsing .', 'labels': [[(2, 4), (5, 8), 'POS'], [(11, 13), (5, 8), 'NEU']]}
+{'sentence': "On my PowerBook G4 I would never use the trackpad I would use an external mouse because I did n't like the trackpad .", 'labels': [[(9, 10), (6, 8), 'NEG'], [(22, 23), (18, 21), 'NEG']]}
+{'sentence': "This computer does n't do that well with certain games it ca n't play some and it becomes too hot while playing games .", 'labels': [[(9, 10), (2, 7), 'NEG']]}
+{'sentence': "Yeah , of course smarty pants `` fix it now '' ) Software - Compared to the early 2011 edition I did see inbuilt applications crashing and it prompted me to send the report to Apple ( which I promptly did ) .", 'labels': [[(23, 25), (25, 26), 'NEG'], [(12, 13), (4, 5), 'NEG']]}
+{'sentence': 'The body is a bit cheaply made so it will be interesting to see how long it holds up .', 'labels': [[(1, 2), (5, 7), 'NEG']]}
+{'sentence': "With a mac you do n't have to worry about antivirus software or firewall , it 's so wonderful .", 'labels': [[(10, 12), (18, 19), 'NEU'], [(13, 14), (18, 19), 'NEU']]}
+{'sentence': 'Am very glad I bought it , great netbook , low price .', 'labels': [[(11, 12), (10, 11), 'POS']]}
+{'sentence': 'The Apple team also assists you very nicely when choosing which computer is right for you : )', 'labels': [[(1, 3), (7, 8), 'POS']]}
+{'sentence': "I think part of the problem with this computer is Vista , yet I know Vista is n't the entire issue because my latest purchase was my Acer and it also has Vista ( I should have waited the few months to get the next operating system ) .", 'labels': [[(10, 11), (5, 6), 'NEG']]}
+{'sentence': 'The video chat is the only thing that is iffy about it but im sure once they unpdate the next version on the macbook book the quality of it will be better .', 'labels': [[(1, 3), (9, 10), 'NEG']]}
+{'sentence': 'That whole experience was just ridiculous we sent it in and after they told us that we had to pay $ 175 to fix it we were like we will just by a portable mouse which would be way cheaper but they refused to send the laptop back until we paid the $ 175 and it was fixed .', 'labels': [[(34, 35), (39, 40), 'POS']]}
+{'sentence': 'Fan vents to the side , so no cooling pad needed , great feature !', 'labels': [[(8, 10), (7, 8), 'NEU'], [(13, 14), (12, 13), 'POS']]}
+{'sentence': "i use my mac all the time , i love the software , the way it takes a short time to load things , how easy it is to use and most of all how you do n't have to worry about viruses .", 'labels': [[(11, 12), (9, 10), 'POS'], [(11, 12), (25, 26), 'POS']]}
+{'sentence': 'Wasted me at least 8 hours of installation time .', 'labels': [[(7, 9), (0, 1), 'NEG']]}
+{'sentence': 'It has far exceeded my expectations for power , storage , and abilitiy .', 'labels': [[(7, 8), (3, 4), 'POS'], [(9, 10), (3, 4), 'POS'], [(12, 13), (3, 4), 'POS']]}
+{'sentence': 'I am enjoying it and the quality it provides is great !', 'labels': [[(6, 7), (2, 3), 'POS'], [(6, 7), (10, 11), 'POS']]}
+{'sentence': 'Suffice it to say , my MacBook Pro keeps me going with its long battery life and blazing speed .', 'labels': [[(14, 16), (13, 14), 'POS'], [(18, 19), (17, 18), 'POS']]}
+{'sentence': 'The OS is also very user friendly , even for those that switch from a PC , with a little practice you can take full advantage of this OS !', 'labels': [[(1, 2), (5, 7), 'POS']]}
+{'sentence': 'iTunes is a handy music-management program , and it is essential for anyone with an iPod .', 'labels': [[(0, 1), (3, 4), 'POS'], [(0, 1), (10, 11), 'POS'], [(5, 6), (3, 4), 'POS']]}
+{'sentence': 'the programs are esay to use and are quick to process this computer works like a charm .', 'labels': [[(1, 2), (3, 6), 'POS'], [(5, 6), (3, 4), 'POS']]}
+{'sentence': 'Tech support tells me the latter problem is a power supply problem and have offered to fix it if it happens again .', 'labels': [[(9, 11), (6, 7), 'NEG'], [(9, 11), (11, 12), 'NEG']]}
+{'sentence': 'Sells for the same as a netbook without sacrificing size .', 'labels': [[(9, 10), (8, 9), 'POS']]}
+{'sentence': 'Windows XP SP2 caused many problems on the computer , so I had to remove it .', 'labels': [[(0, 3), (5, 6), 'NEG']]}
+{'sentence': 'this is my second one and the same problem , bad video card unreliable overall , this will be my second time returning this laptop back to best buy .', 'labels': [[(11, 13), (10, 11), 'NEG'], [(11, 13), (13, 14), 'NEG']]}
+{'sentence': "With awesome graphics and assuring security , it 's perfect !", 'labels': [[(2, 3), (1, 2), 'POS'], [(5, 6), (4, 5), 'POS']]}
+{'sentence': 'The laptop was very easy to set up .', 'labels': [[(6, 8), (4, 5), 'POS']]}
+{'sentence': 'I recommend for word processing and internet users .', 'labels': [[(3, 5), (1, 2), 'POS'], [(6, 7), (1, 2), 'POS']]}
+{'sentence': "Since I 've had this computer I 've only used the trackpad because it is so nice and smooth .", 'labels': [[(11, 12), (16, 17), 'POS'], [(11, 12), (18, 19), 'POS']]}
+{'sentence': "A longer battery life would have been great - but it meets it 's spec quite easily .", 'labels': [[(14, 15), (16, 17), 'POS']]}
+{'sentence': "Who could n't love a DVD burner , 80-gigabyte HD , and fairly new graphics chip ? As I soon discovered , though , there is a reason for which similarly-configured Sony and Toshiba machines cost more : they use higher-quality components that are faster , better-configured , and end up lasting a lot longer .", 'labels': [[(14, 16), (13, 14), 'POS'], [(41, 42), (40, 41), 'POS'], [(41, 42), (44, 45), 'POS'], [(41, 42), (46, 47), 'POS'], [(41, 42), (54, 55), 'POS']]}
+{'sentence': 'The computer itself was fast , ran smoothly , and had no problems .', 'labels': [[(6, 7), (7, 8), 'POS']]}
+{'sentence': 'Like the price and operation .', 'labels': [[(2, 3), (0, 1), 'POS'], [(4, 5), (0, 1), 'POS']]}
+{'sentence': 'The brand is tarnished in my heart .', 'labels': [[(1, 2), (3, 4), 'NEG']]}
+{'sentence': "This is likely due to poor grounding and isolation between the components , and I 'm hoping that it can be fixed with a ground loop isolator , but I still expected better product quality for this price range .", 'labels': [[(11, 12), (5, 6), 'NEG'], [(34, 35), (32, 33), 'NEG']]}
+{'sentence': "I 'have had it for about a 1 1/2 and yes I have had an issue with it one month out of warranty .", 'labels': [[(22, 23), (20, 22), 'NEU']]}
+{'sentence': 'Once open , the leading edge is razor sharp .', 'labels': [[(4, 6), (7, 9), 'NEG']]}
+{'sentence': "Maximum sound is n't nearly as loud as it should be .", 'labels': [[(0, 2), (2, 7), 'NEG']]}
+{'sentence': 'I loaded windows 7 via Bootcamp and it works flawlessly !', 'labels': [[(2, 4), (9, 10), 'POS'], [(5, 6), (9, 10), 'POS']]}
+{'sentence': 'Great Laptop for the price , works well with action pack games .', 'labels': [[(4, 5), (0, 1), 'POS'], [(9, 12), (7, 8), 'NEU'], [(6, 7), (7, 8), 'POS']]}
+{'sentence': 'Although the price is higher then Dell laptops , the Macbooks are worth the dough .', 'labels': [[(2, 3), (4, 5), 'NEG']]}
+{'sentence': 'So what if the laptops/mobile phones look chic and cool ? The after sales support is terrible .', 'labels': [[(12, 15), (16, 17), 'NEG'], [(6, 7), (7, 8), 'POS'], [(6, 7), (9, 10), 'POS']]}
+{'sentence': 'I hate the display screen and I have done everything I could do the change it .', 'labels': [[(3, 5), (1, 2), 'NEG']]}
+{'sentence': 'I also like the acer arcade but these were reallythe only two things I liked about this laptop .', 'labels': [[(4, 6), (2, 3), 'POS']]}
+{'sentence': 'Have not yet needed any customer support with this yet so to me that is a great thing , which is leaps and bounds ahead of PC in my opinion .', 'labels': [[(5, 7), (16, 17), 'POS']]}
+{'sentence': "I gave it to my daughter because I just hated the screen , hated that it had no cd drive to at least play cd 's when I wanted to listen to music and do schoolwork .", 'labels': [[(11, 12), (9, 10), 'NEG'], [(11, 12), (13, 14), 'NEG'], [(18, 20), (17, 18), 'NEG']]}
+{'sentence': 'It runs very quiet too which is a plus .', 'labels': [[(1, 2), (3, 4), 'POS'], [(1, 2), (8, 9), 'POS']]}
+{'sentence': 'but it has a major design flaw .', 'labels': [[(5, 6), (6, 7), 'NEG']]}
+{'sentence': 'It was heavy , bulky , and hard to carry because of the size .', 'labels': [[(13, 14), (2, 3), 'NEG'], [(13, 14), (4, 5), 'NEG'], [(13, 14), (7, 8), 'NEG']]}
+{'sentence': 'The games included are very good games .', 'labels': [[(6, 7), (5, 6), 'POS']]}
+{'sentence': 'this computer will last you at least 7 years , thats an amazing life spanned an electronic .', 'labels': [[(13, 14), (12, 13), 'POS']]}
+{'sentence': "Three , the mac book has advantages over pcs ' with linux based os there is very few problems with system performance when it comes to a mac .", 'labels': [[(20, 22), (17, 19), 'NEG']]}
+{'sentence': 'A mac is very easy to use and it simply makes sense .', 'labels': [[(6, 7), (4, 5), 'POS']]}
+{'sentence': 'It is so much easier to use', 'labels': [[(6, 7), (4, 5), 'POS']]}
+{'sentence': "It is so nice not to worry about that and the extra expense that comes along with the necessary virus protection on PC 's .", 'labels': [[(19, 21), (3, 4), 'POS'], [(19, 21), (18, 19), 'POS']]}
+{'sentence': 'The processor screams , and because of the unique way that Apple OSX 16 functions , most of the graphics are routed through the hardware rather than the software .', 'labels': [[(1, 2), (2, 3), 'POS'], [(12, 14), (8, 9), 'POS']]}
+{'sentence': 'I wanted something that had a new Intel Core processors and HDMI port so that we could hook it up directly to our TV .', 'labels': [[(7, 10), (6, 7), 'NEU']]}
+{'sentence': 'The price premium is a little much , but when you start looking at the features it is worth the added cash .', 'labels': [[(1, 3), (6, 7), 'NEG'], [(15, 16), (18, 19), 'POS']]}
+{'sentence': "I ca n't say enough of how satisfied I am with their product and help aftermarket .", 'labels': [[(12, 16), (7, 8), 'POS']]}
+{'sentence': 'I connect a LaCie 2Big external drive via the firewire 800 interface , which is useful for Time Machine .', 'labels': [[(3, 7), (15, 16), 'NEU'], [(9, 12), (15, 16), 'POS'], [(17, 19), (15, 16), 'NEU']]}
+{'sentence': 'I am overall very pleased with my toshiba satellite , I like the extra features , I love the windows 7 home premium .', 'labels': [[(13, 15), (11, 12), 'POS'], [(19, 23), (17, 18), 'POS']]}
+{'sentence': 'The battery life was shorter than expected .', 'labels': [[(1, 3), (4, 5), 'NEG']]}
+{'sentence': 'The keyboard is top notch .', 'labels': [[(1, 2), (3, 5), 'POS']]}
+{'sentence': 'The image is great , and the soud is excelent .', 'labels': [[(1, 2), (3, 4), 'POS'], [(7, 8), (9, 10), 'POS']]}
+{'sentence': 'It is well worth the money it cost , Very good investment .', 'labels': [[(7, 8), (2, 4), 'POS'], [(7, 8), (10, 11), 'POS']]}
+{'sentence': 'Upgrading from Windows 7 Starter , thru Windows 7 Home Premium , to Windows 7 Professional was a snap ;', 'labels': [[(13, 16), (18, 19), 'NEU']]}
+{'sentence': "I had upgraded my old MacBook to Lion , so I kind of knew what I was getting , but had n't been able to enjoy some of the awesome new multi-touch features .", 'labels': [[(31, 33), (29, 30), 'POS']]}
+{'sentence': 'The screen is a little glary , and I hated the clicking buttons , but I got used to them .', 'labels': [[(1, 2), (5, 6), 'NEG'], [(11, 13), (9, 10), 'NEG']]}
+{'sentence': 'Not to mention , the battery life is absolutely amazing .', 'labels': [[(5, 7), (9, 10), 'POS']]}
+{'sentence': 'Now for the hardware problems .', 'labels': [[(3, 4), (4, 5), 'NEG']]}
+{'sentence': "It 's fast and has excellent battery life .", 'labels': [[(6, 8), (5, 6), 'POS']]}
+{'sentence': 'Apple care included .', 'labels': [[(0, 2), (2, 3), 'NEU']]}
+{'sentence': 'Windows is also rather unsteady on its feet and is susceptible to many bugs .', 'labels': [[(0, 1), (4, 5), 'NEG'], [(0, 1), (10, 11), 'NEG']]}
+{'sentence': 'DO NOT BUY GATEWAY COMPUTERS THEY ARE JUNK AND THE WARRANTY COMPANY IS HORRIBLE .', 'labels': [[(10, 12), (13, 14), 'NEG']]}
+{'sentence': 'The only bad part is the size / weight .', 'labels': [[(6, 7), (2, 3), 'NEG'], [(8, 9), (2, 3), 'NEG']]}
+{'sentence': 'The little battery that it did have would only last about an hour while just having it on the desktop .', 'labels': [[(2, 3), (1, 2), 'NEG']]}
+{'sentence': 'I liked the aluminum body .', 'labels': [[(3, 5), (1, 2), 'POS']]}
+{'sentence': 'Its good for playing my apps on Facebook or watching movies .', 'labels': [[(9, 11), (1, 2), 'POS'], [(3, 4), (1, 2), 'POS']]}
+{'sentence': 'From the build quality to the performance , everything about it has been sub-par from what I would have expected from Apple .', 'labels': [[(2, 4), (13, 14), 'NEG'], [(6, 7), (13, 14), 'NEG']]}
+{'sentence': 'I love the dock where I can simply drop a file ontop of a particular program , and the program will simply open that file .', 'labels': [[(3, 4), (1, 2), 'POS'], [(19, 20), (1, 2), 'POS']]}
+{'sentence': 'pretty much everything else about the computer is good it just stops working out of no were .', 'labels': [[(12, 13), (11, 12), 'NEG']]}
+{'sentence': 'It was truly a great computer costing less than one thousand bucks before tax .', 'labels': [[(6, 7), (7, 8), 'POS']]}
+{'sentence': 'Waiting for the i7 was well worth it , great value for the price .', 'labels': [[(13, 14), (9, 10), 'POS'], [(3, 4), (5, 7), 'POS']]}
+{'sentence': 'Boots up fast and runs great !', 'labels': [[(0, 2), (2, 3), 'POS'], [(4, 5), (5, 6), 'POS']]}
+{'sentence': 'Lightweight and the screen is beautiful !', 'labels': [[(3, 4), (5, 6), 'POS']]}
+{'sentence': 'The Macbook arrived in a nice twin packing and sealed in the box , all the functions works great .', 'labels': [[(6, 8), (5, 6), 'POS'], [(16, 17), (18, 19), 'POS']]}
+{'sentence': 'They say sorry out of warranty .', 'labels': [[(5, 6), (3, 5), 'NEG']]}
+{'sentence': 'After having two PC laptops die with in the past 3 years , I was led to the Apple display at Best Buy by the sleek design and promise of less tech issues .', 'labels': [[(26, 27), (25, 26), 'POS'], [(31, 33), (30, 31), 'POS']]}
+{'sentence': 'The service I received from Toshiba went above and beyond the call of duty .', 'labels': [[(1, 2), (7, 8), 'POS'], [(1, 2), (9, 10), 'POS']]}
+{'sentence': 'Have had many higher priced computers crash and burn long before ever got to use all that great memory and speed , etc .', 'labels': [[(18, 19), (17, 18), 'NEG'], [(20, 21), (17, 18), 'NEG'], [(4, 5), (3, 4), 'NEG']]}
+{'sentence': 'I would recommend it just because of the internet speed probably because thats the only thing i really care about .', 'labels': [[(8, 10), (2, 3), 'POS']]}
+{'sentence': 'The screen shows great colors .', 'labels': [[(1, 2), (3, 4), 'POS'], [(4, 5), (3, 4), 'POS']]}
+{'sentence': "Reason why ? It 's because when you buy it , you know first thing that you will not lose any value for that laptop , the price will stay the same for the next year , and even if Apple does decides to change mode , your laptop value will only drop 10-20 % , unlike PC laptops which drop more than 80 % .", 'labels': [[(49, 50), (52, 53), 'POS'], [(27, 28), (29, 30), 'POS']]}
+{'sentence': 'The 17 inch screen is very large , but the computer is very light .', 'labels': [[(1, 4), (6, 7), 'NEG']]}
+{'sentence': 'My opinion of Sony has been dropping as fast as the stock market , given their horrible support , but this machine just caused another plunge .', 'labels': [[(17, 18), (16, 17), 'NEG']]}
+{'sentence': 'For the Bluetooth to work properly , you must install the Launch Manager on the Drivers/Applications DVD , or it will not show after the reload .', 'labels': [[(2, 3), (5, 6), 'NEU']]}
+{'sentence': 'I also liked the glass screen .', 'labels': [[(4, 6), (2, 3), 'POS']]}
+{'sentence': 'The switchable graphic card is pretty sweet when you want gaming on the laptop .', 'labels': [[(1, 4), (6, 7), 'POS']]}
+{'sentence': "The battery life has not decreased since I bought it , so i 'm thrilled with that .", 'labels': [[(1, 3), (5, 6), 'POS']]}
+{'sentence': "When I called Toshiba , they would not do anything and even tried to charge me $ 35 for the phone call , even though they did n't offer any technical support .", 'labels': [[(30, 32), (26, 29), 'NEG']]}
+{'sentence': 'I bought this notebook and only had it for 3 months If it is overload with updates the BOOT MGR .', 'labels': [[(18, 20), (14, 15), 'NEU']]}
+{'sentence': "Oh and if thats not bad enough it does n't come with a recovery cd so you can make one if you know how to or buy one if you buy it the cost is $ 25 for two cds .", 'labels': [[(13, 15), (5, 6), 'NEG']]}
+{'sentence': 'The price and features more than met my needs .', 'labels': [[(1, 2), (4, 5), 'POS'], [(3, 4), (4, 5), 'POS']]}
+{'sentence': 'Skype is just so dang cool with this machine too .', 'labels': [[(0, 1), (5, 6), 'POS']]}
+{'sentence': 'Also , HDD secures inside using rails , and there is only one set on the main hard drive .', 'labels': [[(2, 3), (3, 4), 'POS']]}
+{'sentence': 'All I will say now is that it was over two grand less expensive and so much better quality than my hunk of crap Vaio .', 'labels': [[(18, 19), (17, 18), 'POS']]}
+{'sentence': 'Games being the main issue .', 'labels': [[(0, 1), (4, 5), 'NEG']]}
+{'sentence': "They say that this will invalidate the warranty on the hard drive ( I do n't really understand why but anyway ) .", 'labels': [[(7, 8), (5, 6), 'NEG']]}
+{'sentence': 'A great computer for light home use and business use .', 'labels': [[(5, 7), (4, 5), 'POS'], [(8, 10), (4, 5), 'POS']]}
+{'sentence': 'Also consider the MS Office apps are all trial versions , hope you have your own copies .', 'labels': [[(3, 6), (8, 9), 'NEG']]}
+{'sentence': 'Even so , I like playing online games , so it was wonderful that there is a feature where I can dualboot Windows .', 'labels': [[(17, 18), (12, 13), 'POS']]}
+{'sentence': 'The battery life is amazingly long at 7hrs and 5hrs if you use it .', 'labels': [[(1, 3), (5, 6), 'POS']]}
+{'sentence': 'lightweight , long battery life , excellent transition from PC ;', 'labels': [[(3, 5), (2, 3), 'POS']]}
+{'sentence': 'The Nortons virus scan is only for a very short time unlike others that usually are good for a year .', 'labels': [[(1, 4), (9, 10), 'NEG']]}
+{'sentence': 'I am first time Mac Buyer and am amazed at features and ease of use the Mac offers .', 'labels': [[(10, 11), (8, 9), 'POS'], [(14, 15), (12, 13), 'POS']]}
+{'sentence': 'Came fully loaded - good .', 'labels': [[(2, 3), (1, 2), 'POS'], [(2, 3), (4, 5), 'POS']]}
+{'sentence': 'I noticed windows has a new system called Windows 7 , what about us Vista users ? They should get all the bugs out of Vista before investing in a new system .', 'labels': [[(8, 10), (5, 6), 'NEU']]}
+{'sentence': 'The only thing that I have , is the key broad is a little dark to see the letters , would help if it was a little lighter then it is .', 'labels': [[(9, 11), (14, 15), 'NEG']]}
+{'sentence': 'This is the complete opposite to an ergonomic design .', 'labels': [[(8, 9), (4, 5), 'NEG'], [(8, 9), (7, 8), 'NEG']]}
+{'sentence': "The only thing that I do n't like about my mac is that sometimes there are programs that I want to be able to run and I am not able to .", 'labels': [[(16, 17), (5, 8), 'NEG'], [(16, 17), (28, 30), 'NEG']]}
+{'sentence': 'Wireless has not been a issue for me , like some others have meantioned .', 'labels': [[(0, 1), (2, 6), 'POS']]}
+{'sentence': "MacBook Notebooks quickly die out because of their short battery life , as well as the many background programs that run without the user 's knowlede .", 'labels': [[(9, 11), (8, 9), 'NEG'], [(18, 19), (17, 18), 'NEG']]}
+{'sentence': 'All the things you can do with the trackpad make navigating around the computer and its programs so much simpler , quicker , and easier .', 'labels': [[(8, 9), (19, 20), 'POS'], [(8, 9), (21, 22), 'POS'], [(8, 9), (24, 25), 'POS'], [(10, 11), (19, 20), 'POS'], [(10, 11), (21, 22), 'POS'], [(10, 11), (24, 25), 'POS']]}
+{'sentence': 'I guess the only good thing that came out of these were the speakers and the subwoofer .', 'labels': [[(13, 14), (4, 5), 'POS'], [(16, 17), (4, 5), 'POS']]}
+{'sentence': 'Theres a built in camera with special effects- for video and photography .', 'labels': [[(2, 5), (6, 7), 'POS']]}
+{'sentence': 'All for such a great price .', 'labels': [[(5, 6), (4, 5), 'POS']]}
+{'sentence': 'Another thing is that after only a month the left mouse key broke and it costed $ 175 to send it in to fix it .', 'labels': [[(9, 12), (12, 13), 'NEG']]}
+{'sentence': 'It has good speed and plenty of hard drive space .', 'labels': [[(3, 4), (2, 3), 'POS'], [(7, 10), (5, 6), 'POS']]}
+{'sentence': 'Very long-life battery ( up to 10-11 hours depending on how you configure power level settings ) .', 'labels': [[(2, 3), (1, 2), 'POS']]}
+{'sentence': "The black model also has a very nice seamless appearance - one of the better looking notebooks I 've seen .", 'labels': [[(9, 10), (7, 9), 'POS']]}
+{'sentence': 'The technical service for dell is so 3rd world it might as well not even bother .', 'labels': [[(1, 5), (7, 9), 'NEG']]}
+{'sentence': "The graphics were awful and the warranty is n't even worth the cheap payment on the computer .", 'labels': [[(1, 2), (3, 4), 'NEG'], [(6, 7), (7, 11), 'NEG']]}
+{'sentence': "They gave me a hard time yet again , but their was a malfunction in the battery itself , it did n't die .", 'labels': [[(16, 17), (13, 14), 'NEG']]}
+{'sentence': "If you do n't feel comfortable doing it yourself , just buy the case and be happy , plus it looks nice , I bought the white one from Best Buy .", 'labels': [[(13, 14), (21, 22), 'POS']]}
+{'sentence': 'Excellent speed for processing data .', 'labels': [[(1, 2), (0, 1), 'POS']]}
+{'sentence': 'It has come into good use for my finances , scheduling , my parents business expenses , and it is definitely amazing for gaming .', 'labels': [[(23, 24), (21, 22), 'POS'], [(5, 6), (4, 5), 'POS']]}
+{'sentence': 'I was taught to use Photoshop and was amazed .', 'labels': [[(5, 6), (8, 9), 'POS']]}
+{'sentence': "The driver updates do n't fix the issue , very frustrating .", 'labels': [[(1, 3), (10, 11), 'NEG']]}
+{'sentence': 'It doesnt work worth a damn .', 'labels': [[(2, 3), (1, 2), 'NEG'], [(2, 3), (5, 6), 'NEG']]}
+{'sentence': 'It works really well .', 'labels': [[(1, 2), (3, 4), 'POS']]}
+{'sentence': 'Bigger HD , better graphics card , and a bid HD .', 'labels': [[(1, 2), (0, 1), 'POS'], [(10, 11), (9, 10), 'POS'], [(4, 6), (3, 4), 'POS']]}
+{'sentence': 'The built in camera is very useful when chatting with other techs in remote buildings on our campus .', 'labels': [[(1, 4), (6, 7), 'POS']]}
+{'sentence': "The DVD burner broke after burning 3 DVD 'd during that time !", 'labels': [[(1, 3), (3, 4), 'NEG']]}
+{'sentence': "It works fine with our wireless and they 've had not problems .", 'labels': [[(1, 2), (2, 3), 'POS']]}
+{'sentence': 'Product support very poor as each phone call costs me long distan', 'labels': [[(0, 2), (3, 4), 'NEG']]}
+{'sentence': 'Overall the computer is very easy to use , the screen is perfect , great computer , my daughter loves .', 'labels': [[(10, 11), (12, 13), 'POS'], [(7, 8), (5, 6), 'POS']]}
+{'sentence': 'The casing of the power cord fried and shocked my husband when he pulled it out of the socket .', 'labels': [[(1, 6), (6, 7), 'NEG']]}
+{'sentence': 'It does not keep internet signals no matter where you bring it .', 'labels': [[(4, 6), (2, 4), 'NEG']]}
+{'sentence': "It 's a great product for a great price !", 'labels': [[(8, 9), (7, 8), 'POS']]}
+{'sentence': 'But see the macbook pro is different because it may have a huge price tag but it comes with the full software that you would actually need and most of it has free future updates .', 'labels': [[(21, 22), (20, 21), 'POS'], [(34, 35), (32, 33), 'POS']]}
+{'sentence': 'and the multiple page viewer ( allows you to press one button to see every separate page currently opened at the same time in one screen ) are great for those who are working non stop or just shopping online .', 'labels': [[(2, 5), (28, 29), 'POS']]}
+{'sentence': 'Keyboard good sized and easy to use .', 'labels': [[(0, 1), (1, 3), 'POS'], [(0, 1), (4, 7), 'POS'], [(6, 7), (4, 5), 'POS']]}
+{'sentence': 'wonderful features .', 'labels': [[(1, 2), (0, 1), 'POS']]}
+{'sentence': 'Im glad that it has such great features in it .', 'labels': [[(7, 8), (6, 7), 'POS']]}
+{'sentence': 'WHEN TYPING , LETTERS AND SPACES ARE FREQUENTLY OMITTED REQUIRING THE USER TO REDO MANY WORDS AND SENTENCES .', 'labels': [[(1, 2), (8, 9), 'NEG']]}
+{'sentence': 'Only a few days after I received the computer back , the screen froze again .', 'labels': [[(12, 13), (13, 14), 'NEG']]}
+{'sentence': 'It is not ideal for children because of the temp .', 'labels': [[(9, 10), (2, 4), 'NEG']]}
+{'sentence': 'Although i do believe that Windows operating system may be to fault for some of the problems .', 'labels': [[(5, 8), (11, 12), 'NEG']]}
+{'sentence': 'Great OS , fabulous improvements to the existing line bumping up the processor speed and adding the thunderbolt port .', 'labels': [[(1, 2), (0, 1), 'POS'], [(1, 2), (3, 4), 'POS'], [(12, 14), (3, 4), 'POS'], [(17, 19), (15, 16), 'POS']]}
+{'sentence': 'Images are crisp and clean .', 'labels': [[(0, 1), (2, 3), 'POS'], [(0, 1), (4, 5), 'POS']]}
+{'sentence': 'although its windows vista compared to windows xp sucks .', 'labels': [[(2, 4), (8, 9), 'NEG']]}
+{'sentence': 'The computer runs very fast with no problems and the iLife software that comes with it ( iPhoto , iMovie , iWeb , iTunes , GarageBand ) is all very helpful as well .', 'labels': [[(10, 12), (30, 31), 'POS'], [(17, 18), (30, 31), 'POS'], [(19, 20), (30, 31), 'POS'], [(21, 22), (30, 31), 'POS'], [(23, 24), (30, 31), 'POS'], [(25, 26), (30, 31), 'POS'], [(2, 3), (4, 5), 'POS']]}
+{'sentence': 'At first it worked well for a month or so then the system board failed and I send it in to toshiba some complaints and three weeks later I then receive my laptop back only to discover that it still has the same problem so now I have to send it back again to get it fixed again .', 'labels': [[(12, 14), (14, 15), 'NEG']]}
+{'sentence': 'Until I bought the Dell , I thought you just looked for what you wanted ( size , software , options , hardware ) and purchase the best deal you could find .', 'labels': [[(22, 23), (27, 28), 'NEU']]}
+{'sentence': 'It has plenty of memory , lots of hard drive , and great graphics .', 'labels': [[(4, 5), (2, 3), 'POS'], [(8, 10), (6, 7), 'POS'], [(13, 14), (12, 13), 'POS']]}
+{'sentence': "However , my girlfriend realized that the netbook 's hinge is a bit loose ( when you open or close the LCD ) .", 'labels': [[(9, 10), (13, 14), 'NEG']]}
+{'sentence': 'My problem was with DELL Customer Service .', 'labels': [[(4, 7), (1, 2), 'NEG']]}
+{'sentence': "Newegg 's RMA service was great as always , I contacted them late Friday night , and they issued me an RMA number and a PrePaid UPS shipping label the very next morning on Saturday .", 'labels': [[(2, 4), (5, 6), 'POS']]}
+{'sentence': 'Design : very durable .', 'labels': [[(0, 1), (3, 4), 'POS']]}
+{'sentence': 'It is easy to go from one keyboard to another .', 'labels': [[(7, 8), (2, 3), 'NEU']]}
+{'sentence': "My ONLY issues are : 1 ) the screen/video resolution wo n't increase to a higher resolution then 1024 x 60", 'labels': [[(8, 10), (2, 3), 'NEG'], [(8, 10), (10, 13), 'NEG']]}
+{'sentence': 'Its pretty fast and does not have hiccups while I am using it for web browsing , uploading photos , watching movies ( 720p ) on occasion and creating presentations .', 'labels': [[(14, 16), (2, 3), 'POS'], [(17, 19), (2, 3), 'POS'], [(20, 22), (2, 3), 'POS'], [(28, 30), (2, 3), 'POS']]}
+{'sentence': "Quality Display I love HP , , it 's the only computer/printer we will buy .", 'labels': [[(0, 2), (3, 4), 'POS']]}
+{'sentence': 'the features are great , the only thing it needs is better speakers .', 'labels': [[(1, 2), (3, 4), 'POS'], [(12, 13), (11, 12), 'NEG']]}
+{'sentence': 'I bought this laptop and found its TAB is not functioning .', 'labels': [[(7, 8), (9, 11), 'NEG']]}
+{'sentence': '-Called headquarters again , they report that TFT panel is broken , should be fixed by the end of the week ( week 3 ) .', 'labels': [[(7, 9), (10, 11), 'NEG']]}
+{'sentence': 'Navigation through the computer is far superior compared to Windows operating systems , as well .', 'labels': [[(0, 1), (6, 7), 'POS']]}
+{'sentence': 'The screen is framed by half- to a full-inch margin that is obviously unnecessary , reduces the screen size and increases the bulk .', 'labels': [[(1, 2), (13, 14), 'NEG'], [(17, 19), (15, 16), 'NEG'], [(22, 23), (20, 21), 'NEG']]}
+{'sentence': 'I had to re-install Windows within two weeks of the purchase and soon discovered cracks in the screen hinges .', 'labels': [[(17, 19), (14, 15), 'NEG']]}
+{'sentence': 'A SECOND PROBLEM INVOLVES THE BATTERY WHICH IS ADVERTISED AS HAVING A STORAGE LIFE OF 11 HOURS BUT WHEN FULLY CHARGED SHOWS ONLY 7 HOURS OF SERVICE .', 'labels': [[(5, 6), (2, 3), 'NEG']]}
+{'sentence': 'and plenty of storage with 250 gb ( though I will upgrade this and the ram.. )', 'labels': [[(3, 4), (1, 2), 'POS']]}
+{'sentence': 'Programs would crash all the time , and it turned out to be a very unstable , unreliable laptop for me .', 'labels': [[(0, 1), (2, 3), 'NEG']]}
+{'sentence': 'the key bindings take a little getting used to , but have loved the Macbook Pro .', 'labels': [[(1, 3), (12, 13), 'NEG']]}
+{'sentence': 'Keyboard is reasonable size .', 'labels': [[(0, 1), (2, 4), 'POS'], [(3, 4), (2, 3), 'POS']]}
+{'sentence': 'Fan noise : The fan made a constant hissing noise in the background .', 'labels': [[(0, 1), (1, 2), 'NEG'], [(4, 5), (1, 2), 'NEG']]}
+{'sentence': 'The screen is bright and clear , the operating system is solid and friendly to a novice .', 'labels': [[(1, 2), (3, 4), 'POS'], [(1, 2), (5, 6), 'POS'], [(8, 10), (11, 12), 'POS'], [(8, 10), (13, 14), 'POS']]}
+{'sentence': 'It has a .1 ghz faster processor and a stock 500gb hard drive .', 'labels': [[(6, 7), (5, 6), 'POS']]}
+{'sentence': "`` This is n't a big deal , I have n't noticed the issue with DVDs or other media , only through USB output .", 'labels': [[(22, 24), (13, 14), 'NEG']]}
+{'sentence': 'With Windows laptops a wireless mouse is an absolute must .', 'labels': [[(4, 6), (9, 10), 'NEU']]}
+{'sentence': 'Very good quality and well made .', 'labels': [[(2, 3), (1, 2), 'POS']]}
+{'sentence': "my niece and nephew have played a few web games and it runs anything that does n't require a dedicated video card .", 'labels': [[(20, 22), (19, 20), 'NEU']]}
+{'sentence': 'It had the full sized touch pad with 2 buttons instead of just one .', 'labels': [[(5, 7), (3, 5), 'NEU']]}
+{'sentence': 'Typically , when I purchase a new laptop I always end up using an external mouse for convenience .', 'labels': [[(14, 16), (17, 18), 'NEU']]}
+{'sentence': 'It was super easy to set up and Is really easy to get used to .', 'labels': [[(5, 7), (3, 4), 'POS']]}
+{'sentence': "The only thing that can be updated is the video , other than that you 're all set .", 'labels': [[(9, 10), (6, 7), 'NEG']]}
+{'sentence': 'Its a good laptop for its value .', 'labels': [[(6, 7), (2, 3), 'POS']]}
+{'sentence': 'Then the hard drive failed ;', 'labels': [[(2, 4), (4, 5), 'NEG']]}
+{'sentence': 'of course my warranty runs out next month .', 'labels': [[(3, 4), (4, 6), 'NEU']]}
+{'sentence': 'I have found also , it is very easy to be able to access wireless internet access ;', 'labels': [[(14, 17), (8, 9), 'POS']]}
+{'sentence': 'This is a great value for the money .', 'labels': [[(4, 5), (3, 4), 'POS']]}
+{'sentence': 'The battery has never worked well .', 'labels': [[(1, 2), (3, 6), 'NEG']]}
+{'sentence': 'I will never buy another computer from Dell ever again do to how awful it worked and how I was treated by the company .', 'labels': [[(23, 24), (13, 14), 'NEG']]}
+{'sentence': 'Small enough to use on a long flight , Light enough to carry through airports and powerful enough to replace my desktop while on long business trips .', 'labels': [[(12, 13), (9, 10), 'POS']]}
+{'sentence': 'Typing on the keyboard becomes uncomfortable after extended use due to the sharp edges that your wrists rest on .', 'labels': [[(3, 4), (5, 6), 'NEG'], [(13, 14), (12, 13), 'NEG']]}
+{'sentence': 'It has many great programs , such as ILife , iPhotos and others .', 'labels': [[(4, 5), (3, 4), 'POS'], [(8, 9), (3, 4), 'POS'], [(10, 11), (3, 4), 'POS']]}
+{'sentence': 'I highly recommend this laptop to anybody that wants great performance from a laptop and would like to relax and not become enraged cursing the gods about to throw your laptop out the door .', 'labels': [[(10, 11), (9, 10), 'POS']]}
+{'sentence': 'The screen resolution was exactly what I was looking for .', 'labels': [[(1, 3), (4, 5), 'POS']]}
+{'sentence': 'Even though it is running Snow Leopard , 2.4 GHz C2D is a bit of an antiquated CPU and thus the occasional spinning wheel would appear when running Office Mac applications such as Word or Excel .', 'labels': [[(17, 18), (16, 17), 'NEG'], [(22, 24), (21, 22), 'NEG']]}
+{'sentence': 'There is no number pad to the right of the keyboard which is a bummer .', 'labels': [[(4, 5), (2, 3), 'NEG'], [(4, 5), (14, 15), 'NEG'], [(10, 11), (14, 15), 'NEG']]}
+{'sentence': 'If upgrade is possible to the full Windows 7 , then I will truly be a very happy geek .', 'labels': [[(7, 9), (17, 18), 'POS']]}
+{'sentence': "I was originally concerned that I could n't view work I had done in college on my Mac because of the PC formatting , but I was even more thrilled to learn of programs like iLife and iWork that allow you to convert your PC documents into readable files on Macs .", 'labels': [[(33, 34), (29, 30), 'POS'], [(35, 36), (29, 30), 'POS'], [(37, 38), (29, 30), 'POS']]}
+{'sentence': 'Runs fast and the regular layout keyboard is so much better .', 'labels': [[(4, 7), (10, 11), 'POS'], [(0, 1), (1, 2), 'POS']]}
+{'sentence': 'All the programs are easy and straight forward on my MacBook Pro , it is clean and organized , which I always strive to be myself .', 'labels': [[(2, 3), (4, 5), 'POS'], [(2, 3), (6, 8), 'POS']]}
+{'sentence': "Windows 7 Starter is terrific ( no you ca n't change the background ) but I do n't need to , I use it just for school work .", 'labels': [[(0, 3), (4, 5), 'POS']]}
+{'sentence': 'Support has been lackluster and now I just want a refund .', 'labels': [[(0, 1), (3, 4), 'NEG']]}
+{'sentence': '`` > iPhoto is probably the best program I have ever worked with : easy and convenient .', 'labels': [[(2, 3), (6, 7), 'POS'], [(2, 3), (14, 15), 'POS'], [(2, 3), (16, 17), 'POS']]}
+{'sentence': 'I love to write and play with graphics and html programming and my new Toshiba works great on both !', 'labels': [[(15, 16), (16, 17), 'POS']]}
+{'sentence': 'My laptop now has no battery .', 'labels': [[(5, 6), (4, 5), 'NEG']]}
+{'sentence': 'It made the computer much easier to use and navigate .', 'labels': [[(7, 8), (5, 6), 'POS'], [(9, 10), (5, 6), 'POS']]}
+{'sentence': 'Needs longer lasting battery , More than 1 to 2 Hrs .', 'labels': [[(3, 4), (1, 2), 'NEG']]}
+{'sentence': 'in May I started having problems with the USB ports not working .', 'labels': [[(8, 10), (5, 6), 'NEG'], [(8, 10), (10, 12), 'NEG']]}
+{'sentence': 'The Mac version of Microsoft Office is cheaper than buying the actual and works just as well .', 'labels': [[(1, 6), (7, 8), 'POS'], [(1, 6), (15, 17), 'POS']]}
+{'sentence': 'The Toshiba Net book operates very well .', 'labels': [[(4, 5), (6, 7), 'POS']]}
+{'sentence': "the touch pad is fine - again , it 's a real touch pad .", 'labels': [[(1, 3), (4, 5), 'POS'], [(12, 14), (11, 12), 'POS']]}
+{'sentence': 'The pictures are clear as can be .', 'labels': [[(1, 2), (3, 4), 'POS']]}
+{'sentence': 'It is also very lightweight , making transporting this computer very easy .', 'labels': [[(7, 8), (11, 12), 'POS']]}
+{'sentence': "It 's wonderful for computer gaming .", 'labels': [[(5, 6), (2, 3), 'POS']]}
+{'sentence': 'The flaws are , this computer is not for computer gamers because of the OS X .', 'labels': [[(14, 16), (1, 2), 'NEG']]}
+{'sentence': 'They really do have the worlds very worst repair service .', 'labels': [[(8, 10), (7, 8), 'NEG']]}
+{'sentence': 'I was also able to install and use my Photoshop and AfterEffects programs easily .', 'labels': [[(9, 10), (13, 14), 'POS'], [(11, 13), (13, 14), 'POS']]}
+{'sentence': "It 's perfect for everything and runs faster than an average pc !", 'labels': [[(6, 7), (7, 8), 'POS']]}
+{'sentence': "Then after paying for it to be examined I was told it was same problem cited on website but I 'd have to pay anyways since it was past warrenty .", 'labels': [[(29, 30), (28, 29), 'NEG']]}
+{'sentence': "I 'm already hooked on the sleek look and dependability that this laptop has shown .", 'labels': [[(7, 8), (6, 7), 'POS'], [(9, 10), (6, 7), 'POS']]}
+{'sentence': 'And having to deal with the company has been a even worse nightmare .', 'labels': [[(6, 7), (11, 13), 'NEG']]}
+{'sentence': 'It has all the features that are necessary for college and if not they are able to be added onto the computer .', 'labels': [[(4, 5), (7, 8), 'POS']]}
+{'sentence': "I 've owned this labtop for less then two months , already the mouse button has broke .", 'labels': [[(13, 15), (16, 17), 'NEG']]}
+{'sentence': "It did fairly well , other than it 's poor performance , overheating and occational blue screen .", 'labels': [[(10, 11), (9, 10), 'NEG']]}
+{'sentence': 'lots of extra space but the keyboard is ridiculously small .', 'labels': [[(3, 4), (0, 1), 'POS'], [(6, 7), (9, 10), 'NEG']]}
+{'sentence': "It 's so bad that I 'm thinking I only got half a battery or something .", 'labels': [[(13, 14), (3, 4), 'NEG']]}
+{'sentence': 'Good keyboard , long battery life , largest hard drive and windows 7 .', 'labels': [[(1, 2), (0, 1), 'POS'], [(4, 6), (3, 4), 'POS'], [(8, 10), (7, 8), 'POS']]}
+{'sentence': 'The processor is very quick and effective as I load webpages and applications .', 'labels': [[(1, 2), (4, 5), 'POS'], [(1, 2), (6, 7), 'POS'], [(9, 10), (4, 5), 'POS'], [(9, 10), (6, 7), 'POS']]}
+{'sentence': 'My battery went bad about a year and a half after having it and it cost around eighty to a hundred dollars !', 'labels': [[(1, 2), (3, 4), 'NEG']]}
+{'sentence': 'It pretty much does everything we could ever need , and looks great to boot .', 'labels': [[(14, 15), (12, 13), 'POS']]}
+{'sentence': 'As a lifelong Windows user , I was extremely pleased to make the change to Mac .', 'labels': [[(3, 4), (9, 10), 'NEG']]}
+{'sentence': 'The Macbook is also made better , my computer has never got a virus , and the laptop runs just as fast as the first day I bought it .', 'labels': [[(18, 19), (21, 22), 'POS']]}
+{'sentence': 'I wiped nearly everything off of it , installed OpenOffice and Firefox , and I am operating an incredibly efficient and useful machine for a great price .', 'labels': [[(26, 27), (25, 26), 'POS']]}
+{'sentence': 'Overall I feel this netbook was poor quality , had poor performance , although it did have great battery life when it did work .', 'labels': [[(7, 8), (6, 7), 'NEG'], [(11, 12), (10, 11), 'NEG'], [(18, 20), (17, 18), 'POS']]}
+{'sentence': 'I picked it out because it was inexpensive ( $ 400 ) and I thought it would be a good , easy to use first laptop .', 'labels': [[(23, 24), (21, 22), 'POS']]}
+{'sentence': 'MY ONLY PROBLEM IS I CAN NOT REG . THE PRODUCT KEY .', 'labels': [[(10, 12), (2, 3), 'NEG']]}
+{'sentence': 'Sure it has the one touch keys but that was the best feature of the computer .', 'labels': [[(4, 7), (11, 12), 'POS']]}
+{'sentence': 'great battery life .', 'labels': [[(1, 3), (0, 1), 'POS']]}
+{'sentence': 'At first , the computer seemed a great deal -- seemingly high-end specs for a low , low price .', 'labels': [[(12, 13), (11, 12), 'POS'], [(18, 19), (15, 16), 'POS'], [(18, 19), (17, 18), 'POS']]}
+{'sentence': 'Love the stability of the Mac software and operating system .', 'labels': [[(2, 3), (0, 1), 'POS'], [(5, 7), (0, 1), 'POS'], [(5, 7), (2, 3), 'POS'], [(8, 10), (0, 1), 'POS'], [(8, 10), (2, 3), 'POS']]}
+{'sentence': "It 's also very capable of doing moderate video editing ( although you may need the performance boost of the larger MacBook Pros for heavy duty mobile video editing ) .", 'labels': [[(8, 10), (4, 5), 'POS']]}
+{'sentence': 'It has a faster processor and more ram .', 'labels': [[(4, 5), (3, 4), 'POS'], [(7, 8), (6, 7), 'POS']]}
+{'sentence': 'Would like more trendy , high tech features .', 'labels': [[(7, 8), (3, 4), 'NEG'], [(7, 8), (5, 7), 'NEG']]}
+{'sentence': 'Keyboard is great but primary and secondary control buttons could be more durable .', 'labels': [[(0, 1), (2, 3), 'POS'], [(7, 9), (12, 13), 'NEG']]}
+{'sentence': 'I got it back again and was told the motherboard had been replaced , so I was now on the SECOND motherboard within 3 months .', 'labels': [[(9, 10), (12, 13), 'NEG']]}
+{'sentence': 'Love the speed , especially !', 'labels': [[(2, 3), (0, 1), 'POS']]}
+{'sentence': 'Not only are the versions of these programs able to be saved , worked on and opened on both a PC and Mac , the versions of these programs on a Mac are graphically and functionally superior .', 'labels': [[(28, 29), (36, 37), 'POS']]}
+{'sentence': 'The speed gives you the power to work on these projects seamlessly , and multiple at a time if you sowish .', 'labels': [[(1, 2), (11, 12), 'POS']]}
+{'sentence': 'Awesome laptop and the perfect size to carry around in college .', 'labels': [[(5, 6), (4, 5), 'POS']]}
+{'sentence': "My real problem with it ? The statement of 7 hour battery life is not just mere exaggeration -- it 's a lie .", 'labels': [[(11, 13), (2, 3), 'NEG'], [(11, 13), (17, 18), 'NEG']]}
+{'sentence': 'The battery life is also relatively good .', 'labels': [[(1, 3), (6, 7), 'POS']]}
+{'sentence': 'I have found it very easy to use , very informative , wonder alerts and tutorials making it very easy for someone like me who is not exactly technologically advanced to learn to use the various features and programs .', 'labels': [[(36, 37), (35, 36), 'POS'], [(38, 39), (35, 36), 'POS'], [(7, 8), (5, 6), 'POS']]}
+{'sentence': "I do n't have stupid pop up windows ( even when I have pop ups blocked ) , I do n't have to wait 5 minutes for a webpage to download , and best of all I can run all the web programming software I need to use all at once without slowing me down .", 'labels': [[(5, 8), (4, 5), 'POS'], [(41, 44), (33, 34), 'POS']]}
+{'sentence': 'Memory is upgradable .', 'labels': [[(0, 1), (2, 3), 'POS']]}
+{'sentence': "Web access through the 3G network is so slow , it 's very frustrating and VERY DISAPPOINTING .", 'labels': [[(4, 6), (8, 9), 'NEG'], [(4, 6), (13, 14), 'NEG'], [(0, 2), (8, 9), 'NEG'], [(0, 2), (13, 14), 'NEG']]}
+{'sentence': 'The large screen also helps when you are working in design based programs like Adobe Creative Suite .', 'labels': [[(2, 3), (1, 2), 'POS']]}
+{'sentence': 'This is my first Dell I heard their customer service was lacking and that they were working on improving it !', 'labels': [[(8, 10), (11, 12), 'NEG']]}
+{'sentence': 'As well as having the plug in the computer come loose .', 'labels': [[(5, 6), (10, 11), 'NEG']]}
+{'sentence': 'Second HDD cover has walls inside that need to be broken if you what to install one .', 'labels': [[(1, 3), (10, 11), 'NEU']]}
+{'sentence': 'Great product by Apple with the new great looking design .', 'labels': [[(9, 10), (6, 8), 'POS']]}
+{'sentence': 'I love the keyboard .', 'labels': [[(3, 4), (1, 2), 'POS']]}
+{'sentence': 'I use iphoto all the time , which is a great program for anyone who is into photography - amateurs and experts alike .', 'labels': [[(2, 3), (10, 11), 'POS'], [(11, 12), (10, 11), 'POS']]}
+{'sentence': 'Now , as easy as it is to use , and I do think it is a great STARTER laptop .', 'labels': [[(8, 9), (3, 4), 'POS']]}
+{'sentence': "Ever since I bought this laptop , so far I 've experience nothing but constant break downs of the laptop and bad customer services I received over the phone with toshiba customer services hotlines .", 'labels': [[(22, 24), (21, 22), 'NEG']]}
+{'sentence': 'Also , the space bar makes a noisy click every time you use it .', 'labels': [[(3, 5), (7, 8), 'NEG']]}
+{'sentence': 'iPhotos is an excellent program for storing and organizing photos .', 'labels': [[(0, 1), (3, 4), 'POS'], [(4, 5), (3, 4), 'POS']]}
+{'sentence': 'Other than that its a great performing machine and well meets all my needs and more .', 'labels': [[(6, 7), (5, 6), 'POS']]}
+{'sentence': 'The programs are great , like iphoto ( love the editing capabilities ) , imail ( which can incorporate with the address book on the ipod and ipad ) , imovie , etc .', 'labels': [[(1, 2), (3, 4), 'POS'], [(6, 7), (3, 4), 'POS'], [(6, 7), (8, 9), 'POS'], [(14, 15), (3, 4), 'POS'], [(30, 31), (3, 4), 'POS']]}
+{'sentence': 'Comfortable to use light easy to transport .', 'labels': [[(2, 3), (0, 1), 'POS'], [(6, 7), (4, 5), 'POS']]}
+{'sentence': 'The Computer itself is a good product but the repair depot stinks .', 'labels': [[(9, 11), (11, 12), 'NEG']]}
+{'sentence': 'I thought the price was great for the specs .', 'labels': [[(3, 4), (5, 6), 'POS'], [(8, 9), (5, 6), 'POS']]}
+{'sentence': 'the only down fall is that it has no cd drive but i found that they are very cheap to by and also very portable making this the best friend to someone who is always looking for more space then they have .', 'labels': [[(9, 11), (8, 9), 'NEG']]}
+{'sentence': "So , the hard disk capacity really does n't matter to me .", 'labels': [[(3, 6), (7, 10), 'NEU']]}
+{'sentence': 'I also like that you can scroll down in a window using two fingers on the trackpad .', 'labels': [[(16, 17), (2, 3), 'POS']]}
+{'sentence': 'Everything from the design to the OS is simple and to the point .', 'labels': [[(3, 4), (8, 9), 'POS'], [(3, 4), (10, 13), 'POS'], [(6, 7), (8, 9), 'POS'], [(6, 7), (10, 13), 'POS']]}
+{'sentence': 'I personally like the gaming look but needed a machine that delivered gaming performance while still looking professional in front of my customers .', 'labels': [[(4, 6), (2, 3), 'POS']]}
+{'sentence': "This just keeps having it 's hard drive replaced !", 'labels': [[(6, 8), (8, 9), 'NEG']]}
+{'sentence': 'When you look at the specs on Apple products in comparison to a Dell or a HP , yes they do seem to offer less for a higher cost .', 'labels': [[(28, 29), (27, 28), 'NEG']]}
+{'sentence': 'The only downfall is the volume control .', 'labels': [[(5, 7), (2, 3), 'NEG']]}
+{'sentence': 'Very fast boot up and shut down .', 'labels': [[(2, 4), (1, 2), 'POS'], [(5, 7), (1, 2), 'POS']]}
+{'sentence': 'I finally decided on this laptop because it was the right price for what I need it .', 'labels': [[(11, 12), (10, 11), 'POS']]}
+{'sentence': 'If internet connectivity is important I would recommend going with a dell net book for 50 bucks more , or buy a USB wireless card .', 'labels': [[(1, 3), (4, 5), 'NEU'], [(22, 25), (7, 8), 'NEU']]}
+{'sentence': 'I had read online that some users were having sound problems .', 'labels': [[(9, 10), (10, 11), 'NEG']]}
+{'sentence': 'It discharges too quickly .', 'labels': [[(1, 2), (3, 4), 'NEG']]}
+{'sentence': 'But to be honest , the compatibility issues and the other little quirks make me think I ll buy a PC next time .', 'labels': [[(6, 7), (7, 8), 'NEG']]}
+{'sentence': 'Then it ceased charging at all .', 'labels': [[(3, 4), (2, 3), 'NEG']]}
+{'sentence': 'I do not experience a lot of heat coming out of it , however I would highly suggest purchasing a stand however , due to the nature of the design of the macbook as it is one very large heat sink .', 'labels': [[(20, 21), (17, 18), 'NEU'], [(39, 41), (38, 39), 'NEG']]}
+{'sentence': 'Webcam is a bit laggy , not the greatest .', 'labels': [[(1, 2), (5, 6), 'NEG'], [(1, 2), (7, 10), 'NEG']]}
+{'sentence': "I 've have n't had any major problems with the laptop except that the plastic piece that covers the usb port wires have all come off .", 'labels': [[(14, 16), (7, 8), 'NEG'], [(14, 16), (24, 26), 'NEG'], [(19, 22), (7, 8), 'NEU']]}
+{'sentence': 'Wonderful sleek case design is only on the outside .', 'labels': [[(2, 4), (0, 2), 'POS']]}
+{'sentence': 'It is speedy when connected wirelessly to any network regardless if the connection is weak or not .', 'labels': [[(12, 13), (2, 3), 'NEU']]}
+{'sentence': 'The pricing is very competitive .', 'labels': [[(1, 2), (4, 5), 'POS']]}
+{'sentence': "This computer is exceptionally thin for it 's screen size and processing power .", 'labels': [[(8, 10), (4, 5), 'POS'], [(11, 13), (4, 5), 'POS']]}
+{'sentence': 'Maybe this is virus related , maybe not , but the computer has locked up many times , and on two occasions , the screen has simply gone black .', 'labels': [[(24, 25), (28, 29), 'NEG']]}
+{'sentence': 'The screen is bright and vivid and the keyboard is very easy to use , very important for use quick typers .', 'labels': [[(1, 2), (3, 4), 'POS'], [(1, 2), (5, 6), 'POS'], [(8, 9), (11, 14), 'POS']]}
+{'sentence': 'I had my IWORKS , Itunes , Email , MS Office , network and printers set up and completely working perfectly within an hour .', 'labels': [[(3, 4), (20, 21), 'POS'], [(5, 6), (20, 21), 'POS'], [(9, 11), (20, 21), 'POS']]}
+{'sentence': 'The macbooks are small enough to be very portable yet hold tons of information and performance .', 'labels': [[(15, 16), (10, 11), 'POS']]}
+{'sentence': "The only downfall is a lot of the software I have wo n't work with Mac and iWork is not worth the price of it .", 'labels': [[(17, 18), (2, 3), 'NEG'], [(17, 18), (19, 21), 'NEG'], [(8, 9), (2, 3), 'NEG'], [(22, 23), (19, 21), 'NEG']]}
+{'sentence': 'The mousepad is a huge pain in the arse !', 'labels': [[(1, 2), (4, 6), 'NEG']]}
+{'sentence': 'since then i have had minor problems with slow operation .', 'labels': [[(9, 10), (8, 9), 'NEG']]}
+{'sentence': 'Registration/1st use is easy .', 'labels': [[(1, 2), (3, 4), 'POS']]}
+{'sentence': 'Take your time and go through the tutorials patiently .', 'labels': [[(7, 8), (8, 9), 'NEU']]}
+{'sentence': 'Keyboard could use some trimming .', 'labels': [[(0, 1), (4, 5), 'NEG']]}
+{'sentence': 'Returned laptop for repair a 2nd time and it came back with obvious physical damage ( keyboard bulging and speaker grill pressed in ) , buttons not working and USB ports inoperative .', 'labels': [[(16, 17), (14, 15), 'NEG'], [(16, 17), (17, 18), 'NEG'], [(19, 21), (14, 15), 'NEG'], [(19, 21), (21, 23), 'NEG'], [(25, 26), (26, 28), 'NEG'], [(29, 31), (31, 32), 'NEG']]}
+{'sentence': 'The letter A stopped working after the first week .', 'labels': [[(1, 3), (3, 4), 'NEG']]}
+{'sentence': 'With what I do know how to do , the computer works beautiful .', 'labels': [[(11, 12), (12, 13), 'POS']]}
+{'sentence': 'Most everything is fine with this machine : speed , capacity , build .', 'labels': [[(8, 9), (3, 4), 'POS'], [(10, 11), (3, 4), 'POS'], [(12, 13), (3, 4), 'POS']]}
+{'sentence': "I use this for my tutoring business , and since I 'm always bouncing from student to student , it is ideal for portability and battery life ( yes , it gets the 8 hours as advertised ! ) .", 'labels': [[(23, 24), (21, 22), 'POS'], [(25, 27), (21, 22), 'POS']]}
+{'sentence': 'It is in the best condition and has a really high quality .', 'labels': [[(11, 12), (10, 11), 'POS']]}
+{'sentence': "When it come time for warranty service to Toshiba you do n't matter .", 'labels': [[(5, 9), (10, 13), 'NEU']]}
+{'sentence': 'However the frozen screens kept happening .', 'labels': [[(3, 4), (2, 3), 'NEG']]}
+{'sentence': "It is short on space , and downloads always had problems being completed , or were said to be 'corrupted ' .", 'labels': [[(4, 5), (2, 3), 'NEG'], [(7, 8), (2, 3), 'NEG']]}
+{'sentence': '3 ) Horrible customer support', 'labels': [[(3, 5), (2, 3), 'NEG']]}
+{'sentence': 'Apple is always great about the aesthetics of things , they always come up with good looking products .', 'labels': [[(6, 7), (3, 4), 'POS']]}
+{'sentence': 'Runs smooth and quick .', 'labels': [[(0, 1), (1, 2), 'POS'], [(0, 1), (3, 4), 'POS']]}
+{'sentence': "The downside to this netbook is pretty much the same for any netbook : screen size is not something I 'd stare at for the entire 10-11 hours of battery life five days a week .", 'labels': [[(14, 16), (1, 2), 'NEU']]}
+{'sentence': 'The graphics are great .', 'labels': [[(1, 2), (3, 4), 'POS']]}
+{'sentence': 'in 5 months the connect quality got worse and worse .', 'labels': [[(4, 6), (7, 8), 'NEG']]}
+{'sentence': 'The big screen allows you to enjoy watching movies , pictures and etc !', 'labels': [[(2, 3), (1, 2), 'POS']]}
+{'sentence': 'the headphone and mic jack are in front of touch-pad making the touch-pad hard to use when using headphones/mic , not to mention the laptop was designed for right handed person .', 'labels': [[(1, 2), (13, 14), 'NEG'], [(3, 5), (13, 14), 'NEG'], [(12, 13), (13, 16), 'NEG']]}
+{'sentence': 'For the [ $ ] price ( special offer ) this is a great laptop .', 'labels': [[(5, 6), (13, 14), 'POS']]}
+{'sentence': "What I 'd like is for the laptop to run well without having to purchase additional memory .", 'labels': [[(9, 10), (10, 11), 'NEU']]}
+{'sentence': 'It is fast booting up , shutting down , and connection with the internet .', 'labels': [[(10, 14), (2, 3), 'POS'], [(3, 5), (2, 3), 'POS'], [(6, 8), (2, 3), 'POS']]}
+{'sentence': 'This is not a serious gaming laptop or a serious media machine ;', 'labels': [[(5, 6), (4, 5), 'NEG']]}
+{'sentence': 'They replaced my hard drive as well as my mother board .', 'labels': [[(3, 5), (1, 2), 'NEU'], [(9, 11), (1, 2), 'NEU']]}
+{'sentence': 'There is nothing to complain about the system .', 'labels': [[(7, 8), (2, 5), 'POS']]}
+{'sentence': 'and it comes with the new OSX that comes with new features that makes the use more easy .', 'labels': [[(6, 7), (5, 6), 'POS'], [(11, 12), (10, 11), 'POS'], [(15, 16), (17, 18), 'POS']]}
+{'sentence': 'Now the screen is going darker , darker , darker .', 'labels': [[(2, 3), (5, 6), 'NEG']]}
+{'sentence': "I take it everywhere with me because it 's so easy to carry .", 'labels': [[(12, 13), (10, 11), 'POS']]}
+{'sentence': 'Oh and it has word and stuff but its a trial verion so after about a month or so when you go to open it it asks for a product key which didnt come with the computer and even after clicking cancel it wont let you use it at all I use the old word processer which works good .', 'labels': [[(54, 56), (58, 59), 'POS']]}
+{'sentence': 'The keyboard has a wonderful nature feel .', 'labels': [[(1, 2), (4, 5), 'POS']]}
+{'sentence': "The battery does n't last long but I 'm sure an upgrade battery would solve that problem .", 'labels': [[(1, 2), (2, 6), 'POS']]}
+{'sentence': 'I was looking too closely at the other performance specs and while comparing , I took it for granted that these features were standard .', 'labels': [[(21, 22), (23, 24), 'NEU']]}
+{'sentence': 'I bought this last week , and the very next day had to return it because it over heated and the touch-mouse stopped responding .', 'labels': [[(21, 22), (22, 23), 'NEG']]}
+{'sentence': 'The cover for the DVD drive soon came off , too -- a mark of poor construction quality .', 'labels': [[(1, 6), (7, 9), 'NEG'], [(1, 6), (15, 16), 'NEG'], [(16, 18), (15, 16), 'NEG']]}
+{'sentence': 'But the arm velcro is torn after one use .', 'labels': [[(2, 4), (5, 6), 'NEG']]}
+{'sentence': 'The software is amazing .', 'labels': [[(1, 2), (3, 4), 'POS']]}
+{'sentence': "We carry the netbook around here and there , hence it 's kinda of irritating when the LCD just `` slide '' downwards .", 'labels': [[(17, 18), (14, 15), 'NEG']]}
+{'sentence': 'The 2 GB of RAM is plenty , able to run Windows 7 and at least 2 or 3 other programs with next to no slowdown .', 'labels': [[(1, 5), (6, 7), 'POS'], [(11, 13), (8, 9), 'POS'], [(20, 21), (8, 9), 'POS']]}
+{'sentence': 'The battery life is amazing , the versitility is outstanding .', 'labels': [[(1, 3), (4, 5), 'POS'], [(7, 8), (9, 10), 'POS']]}
+{'sentence': 'Vista is a nightmare .', 'labels': [[(0, 1), (3, 4), 'NEG']]}
+{'sentence': 'The program came with the computer and works beautifully .', 'labels': [[(1, 2), (8, 9), 'POS']]}
+{'sentence': 'I was loving this Netbook because it had an amazing screen and display and was small and light , but after 1 week it stopped openning web pages for me ( even after installing new browsers ) then eventually it just started giving me a blue screen and crashing everytime I booted it .', 'labels': [[(10, 11), (9, 10), 'POS'], [(12, 13), (15, 16), 'POS'], [(12, 13), (17, 18), 'POS'], [(35, 36), (34, 35), 'NEU']]}
+{'sentence': 'The So called laptop Runs to Slow and I hate it !', 'labels': [[(4, 5), (6, 7), 'NEG'], [(4, 5), (9, 10), 'NEG']]}
+{'sentence': 'Charger seems large for this class of computer .', 'labels': [[(0, 1), (2, 3), 'NEG']]}
+{'sentence': 'I dislike the quality and the placement of the speakers .', 'labels': [[(9, 10), (1, 2), 'NEG']]}
+{'sentence': 'The screen graphics and clarity , and sharpness are great .', 'labels': [[(1, 3), (9, 10), 'POS'], [(4, 5), (9, 10), 'POS'], [(7, 8), (9, 10), 'POS']]}
+{'sentence': 'So I called customer support ( which is good too ) and they went through it and it is just a safety feature and it does not affect performance at all , I just chose to hide the message .', 'labels': [[(3, 5), (8, 9), 'POS'], [(28, 29), (26, 28), 'NEU']]}
+{'sentence': 'The unibody design is edgy and durable .', 'labels': [[(1, 3), (4, 5), 'POS'], [(1, 3), (6, 7), 'POS']]}
+{'sentence': 'STOPPED BOOTING UP less than a week after my one-year warranty was up .', 'labels': [[(1, 3), (0, 1), 'NEG'], [(9, 11), (12, 13), 'NEU']]}
+{'sentence': 'But , for the cost this is a winner .', 'labels': [[(4, 5), (8, 9), 'POS']]}
+{'sentence': 'Also , the battery does not last very long at all .', 'labels': [[(3, 4), (8, 9), 'NEG']]}
+{'sentence': "I bought it from HSN because it was `` bundled '' with extra software , but as it turns out , that software just crashes it more often ... ..", 'labels': [[(22, 23), (24, 25), 'NEG']]}
+{'sentence': 'I constantly had to send my laptop in for services every 3 months and it always seems to be the same problem that they said they had already fixed .', 'labels': [[(9, 10), (21, 22), 'NEG']]}
+{'sentence': 'Strong performance in this device makes use of fun and a strong sense of the era of speed This device serves all modern requirements is a very strong game and is very useful for designers .', 'labels': [[(1, 2), (11, 12), 'POS']]}
+{'sentence': "I was sorely disapointed to discover that HP ( what I thought was a reputable company ) would n't honor the warrenty when the fan blade fell apart .", 'labels': [[(21, 22), (2, 4), 'NEG'], [(24, 26), (26, 28), 'NEG']]}
+{'sentence': "While most people say that PCs hold functionality and value and Macs are just pretty to look at , I think there 's something to be said about the simplicity of Macs .", 'labels': [[(16, 17), (14, 15), 'POS']]}
+{'sentence': 'My macbook is so much better looking and so thin !', 'labels': [[(6, 7), (5, 6), 'POS']]}
+{'sentence': 'The battery gets so HOT it is scary .', 'labels': [[(1, 2), (4, 5), 'NEG'], [(1, 2), (7, 8), 'NEG']]}
+{'sentence': "It 's so nice to look at and the keys are easy to type with .", 'labels': [[(9, 10), (11, 12), 'POS'], [(5, 6), (3, 4), 'POS']]}
+{'sentence': 'It is absolutely horrible to use , despite all its so called advanced features .', 'labels': [[(13, 14), (12, 13), 'NEG'], [(5, 6), (3, 4), 'NEG']]}
+{'sentence': 'I have to keep turning it until it decides to lower and there is no mute .', 'labels': [[(15, 16), (14, 15), 'NEG']]}
+{'sentence': "It 's still beautiful and has better color reproduction than I could ever expect from a notebook .", 'labels': [[(7, 9), (6, 7), 'POS']]}
+{'sentence': 'He loves it and it is easy to use and well the schools start teaching the kids early about computers so it was easy for him to get started .', 'labels': [[(8, 9), (6, 7), 'POS']]}
+{'sentence': 'Also , macbooks come with much more features which are so cool !', 'labels': [[(7, 8), (6, 7), 'POS'], [(7, 8), (11, 12), 'POS']]}
+{'sentence': 'Getting the Apple Care plan is a must .', 'labels': [[(2, 5), (7, 8), 'POS']]}
+{'sentence': 'overall i would recomend this to anybody and tell them that if they want to burn their music or play there video games to buy the cd drive .', 'labels': [[(26, 28), (3, 4), 'NEU']]}
+{'sentence': 'The dv4 boasted a faster processor , more memory , and a bigger hard drive than my old computer , plus a better quality web cam , nicer screen , and many other features .', 'labels': [[(5, 6), (4, 5), 'POS'], [(8, 9), (7, 8), 'POS'], [(13, 15), (12, 13), 'POS'], [(24, 26), (22, 23), 'POS'], [(28, 29), (27, 28), 'POS'], [(33, 34), (31, 32), 'POS']]}
+{'sentence': 'The only downfall is the battery only last 1.5-2.0 hrs when not plugged in .', 'labels': [[(5, 6), (2, 3), 'NEG']]}
+{'sentence': 'The graphics on this computer are also stellar - very clear and vivid .', 'labels': [[(1, 2), (7, 8), 'POS'], [(1, 2), (10, 11), 'POS'], [(1, 2), (12, 13), 'POS']]}
+{'sentence': 'Aside from the trial software and the short battery life , lack of a webcam , its great .', 'labels': [[(8, 10), (7, 8), 'NEG'], [(14, 15), (11, 12), 'NEG']]}
+{'sentence': 'The newer black keyboard took a little bit away from the previous gray one which looked really slick , but it is still a great notebook !', 'labels': [[(2, 4), (1, 2), 'NEG'], [(2, 4), (24, 25), 'NEG']]}
+{'sentence': 'Sony parts reliability and quality of service is recenlty the worst .', 'labels': [[(6, 7), (10, 11), 'NEG']]}
+{'sentence': 'As with any laptop not purchased with software options , it comes with a lot of what I consider useless applications .', 'labels': [[(20, 21), (19, 20), 'NEG']]}
+{'sentence': 'Its Office compatible , but the features and its functioning is all new again so you might as well save the money and just learn the pre installed mac programs .', 'labels': [[(6, 7), (12, 13), 'NEU'], [(9, 10), (12, 13), 'NEU'], [(1, 2), (2, 3), 'POS']]}
+{'sentence': 'It just works flawlessly !', 'labels': [[(2, 3), (3, 4), 'POS']]}
+{'sentence': "I 'm having the laptop returned unrepaired since paying $ 176 every 3 months just is n't worth it ( that 's about how long the port seems to last ) .", 'labels': [[(26, 27), (17, 18), 'NEG']]}
+{'sentence': 'also the battery is completely shot .', 'labels': [[(2, 3), (4, 6), 'NEG']]}
+{'sentence': '/ awesome cooling system / much better grafics card ( ATI 5870 ) / 8GB RAM / LED backlit screen ...', 'labels': [[(2, 4), (1, 2), 'POS'], [(7, 9), (6, 7), 'POS'], [(17, 20), (6, 7), 'POS'], [(14, 16), (6, 7), 'POS']]}
+{'sentence': 'The biggest problem is that the box had no instructions in it .', 'labels': [[(9, 10), (2, 3), 'NEG'], [(9, 10), (8, 9), 'NEG']]}
+{'sentence': "Compared to similarly spec 'd PCs , this machine is good value , well built and works easily right out of the box .", 'labels': [[(11, 12), (10, 11), 'POS'], [(14, 15), (13, 14), 'POS'], [(16, 17), (17, 18), 'POS']]}
+{'sentence': 'Screen is crystal clear and the system is very responsive .', 'labels': [[(0, 1), (2, 4), 'POS'], [(6, 7), (9, 10), 'POS']]}
+{'sentence': 'It is easy to operate and I have already ordered more software and gadgets for my new Rolls Royce of laptops .', 'labels': [[(11, 12), (10, 11), 'NEU'], [(4, 5), (2, 3), 'POS'], [(13, 14), (10, 11), 'NEU']]}
+{'sentence': 'it might be something deep within Windows , for I was unable to create a disk image on my hard drive .', 'labels': [[(6, 7), (11, 12), 'NEG'], [(19, 21), (11, 12), 'NEG'], [(15, 17), (11, 12), 'NEG']]}
+{'sentence': 'The track pad to me is what really stands out though , you can do several different things with it just depending on how many fingers you use on the track pad , awesome thinking Apple !', 'labels': [[(1, 3), (8, 10), 'POS']]}
+{'sentence': 'Now I had not tried to use this since the disc drive had been replaced and after taking it back to the Geek Squad I found out they had accidently not used the right drive when they replaced the first one , so back it went to get the correct drive .', 'labels': [[(10, 12), (14, 15), 'NEG']]}
+{'sentence': 'First , you ll discover that the word processing program known as Appleworks rarely translates perfectly on anyone else s computer , if it translates at all .', 'labels': [[(12, 13), (13, 16), 'NEG'], [(7, 10), (13, 16), 'NEG']]}
+{'sentence': 'Battery is not upgradable to a longer life battery .', 'labels': [[(0, 1), (2, 4), 'NEG']]}
+{'sentence': 'apple has a reputation and is well known for its easy usage .', 'labels': [[(11, 12), (10, 11), 'POS']]}
+{'sentence': 'Returned laptop for a 3rd repair and it came back with previous problems fixed ( except for speaker grill ) but the unit started locking up during use and eventually would not operate at all .', 'labels': [[(17, 19), (12, 13), 'NEG']]}
+{'sentence': 'Love the graphics , awesome programs ( including Garageband ) , and really cool default background .', 'labels': [[(2, 3), (0, 1), 'POS'], [(5, 6), (4, 5), 'POS'], [(8, 9), (4, 5), 'POS'], [(14, 16), (13, 14), 'POS']]}
+{'sentence': 'Screen , keyboard , and mouse : If you cant see yourself spending the extra money to jump up to a Mac the beautiful screen , responsive island backlit keyboard , and fun multi-touch mouse is worth the extra money to me alone .', 'labels': [[(24, 25), (23, 24), 'POS'], [(27, 30), (26, 27), 'POS'], [(33, 35), (32, 33), 'POS']]}
+{'sentence': 'Overall , I experienced a huge change in that my mac runs pretty fast compared to my old PC .', 'labels': [[(11, 12), (13, 14), 'POS']]}
+{'sentence': 'When I got the computer back and realizwed it still was not correct HP told me it was out of warranty and now it was my problem .', 'labels': [[(20, 21), (18, 20), 'NEU']]}
+{'sentence': 'It also came with a built it web cam which is great because I can see an communicate with my family members back home .', 'labels': [[(5, 9), (11, 12), 'POS']]}
+{'sentence': 'It was secure and easy to navigate .', 'labels': [[(6, 7), (4, 5), 'POS']]}
+{'sentence': "I was a little weary at purchasing another 13 '' macbook almost 2 years later but t looks like the newer macbooks have gotten its current line of graphics cards in order this time around .", 'labels': [[(28, 30), (30, 32), 'POS']]}
+{'sentence': 'They are by far the easiest systems to actually learn about computers with .', 'labels': [[(6, 7), (5, 6), 'POS']]}
+{'sentence': 'The video card is great for media , and above average for gaming , but not a gamers first choice .', 'labels': [[(12, 13), (9, 11), 'POS'], [(6, 7), (4, 5), 'POS']]}
+{'sentence': 'Apparently there is a manufacturing defect , something with the amount of thermal paste .', 'labels': [[(12, 14), (5, 6), 'NEG']]}
+{'sentence': "Asus facial recognition does n't work and windows logon is n't either .", 'labels': [[(1, 3), (3, 6), 'NEG'], [(7, 9), (3, 6), 'NEG']]}
+{'sentence': 'Windows Vista makes this computer almost unusable for online service .', 'labels': [[(0, 2), (6, 7), 'NEG'], [(8, 10), (6, 7), 'NEG']]}
+{'sentence': "I contacted Acer and they are giving me FREE recovery DVDs , so do n't go and pay for them , just ask for them and they should give them to you .", 'labels': [[(9, 11), (8, 9), 'POS']]}
+{'sentence': 'Now when I order I did not go full scale for the webcam or full keyboard I wanted something for basics of being easy to carry when I use crutchs or wheelchair and with a backpack laptop bag .', 'labels': [[(25, 26), (23, 24), 'POS']]}
+{'sentence': 'Can listen to my music and watch my videos with ease and with a great display .', 'labels': [[(15, 16), (14, 15), 'POS']]}
+{'sentence': 'The performance is awesome .', 'labels': [[(1, 2), (3, 4), 'POS']]}
+{'sentence': 'The display is beyond horrible .', 'labels': [[(1, 2), (4, 5), 'NEG']]}
+{'sentence': "There is hardly any memory on the computer 's hard drive .", 'labels': [[(4, 5), (2, 3), 'NEG']]}
+{'sentence': 'the laptop preformed pretty well .', 'labels': [[(2, 3), (4, 5), 'POS']]}
+{'sentence': "The minute you fire it up it 's all good , very easy user interface .", 'labels': [[(13, 15), (9, 10), 'POS'], [(13, 15), (12, 13), 'POS']]}
+{'sentence': 'I actually contact Toshiba before I started having problem and was given run around after I supplied serial number in order to delay me sending in laptop until after warrenty expired .', 'labels': [[(29, 30), (30, 31), 'NEG']]}
+{'sentence': 'After replacing the hard drive the battery stopped working ( 3 months of use ) which was frustrating .', 'labels': [[(6, 7), (7, 9), 'NEG'], [(6, 7), (17, 18), 'NEG']]}
+{'sentence': 'I love the easy to see screen , and It works well for work , persoal or just play .', 'labels': [[(6, 7), (1, 2), 'POS'], [(6, 7), (3, 4), 'POS'], [(10, 11), (11, 12), 'POS']]}
+{'sentence': 'Awesome graphics !', 'labels': [[(1, 2), (0, 1), 'POS']]}
+{'sentence': 'The pro is a great product , I wish that the 13 inch models came with the Intel i processors and had a more comfortable edge ( the edges hurt my wrists ) .', 'labels': [[(25, 26), (24, 25), 'NEG']]}
+{'sentence': 'One drawback I noticed was sound quality via USB .', 'labels': [[(5, 9), (1, 2), 'NEG']]}
+{'sentence': 'The battery life sucked the juice from my laptop and when the extended life battery went out we were SOL there to , so much for that warranty covering all the products we purchased .', 'labels': [[(1, 3), (3, 4), 'NEG']]}
+{'sentence': 'I have had another Mac , but it got slow due to an older operating system .', 'labels': [[(14, 16), (9, 10), 'NEG'], [(14, 16), (13, 14), 'NEG']]}
+{'sentence': "I'ts nice to have the higher-end laptops , but this fits my budget and the features I need .", 'labels': [[(15, 16), (1, 2), 'POS']]}
+{'sentence': 'Was disappointed to find out that the model had been discontinued , apparently because of known motherboard problems .', 'labels': [[(16, 17), (1, 2), 'NEG'], [(16, 17), (17, 18), 'NEG']]}
+{'sentence': 'Also the speakers are not very loud , But it is a netbook .', 'labels': [[(2, 3), (4, 7), 'NEG']]}
+{'sentence': 'LOVE THIS LAPTOP WONDERFUL PRICE FOR WHAT YOU GET !', 'labels': [[(4, 5), (0, 1), 'POS'], [(4, 5), (3, 4), 'POS']]}
+{'sentence': 'A key contributor that led me to Mac is the art aspect .', 'labels': [[(10, 12), (2, 3), 'POS']]}
+{'sentence': 'Accordingly , I have decided to NEVER purchase another HP product ( my five year old Compaq ) lasted 5-years before the hard drive crashed .', 'labels': [[(22, 24), (24, 25), 'NEG']]}
+{'sentence': "I know that everyone thinks Macs are overpriced and overrated , but once you get past the initial expense you 'll find that they 're worth every penny ( besides , there 's always the financing plan that Best Buy offers ) .", 'labels': [[(18, 19), (25, 26), 'NEG']]}
+{'sentence': 'I love the multi-touch trackpad .', 'labels': [[(3, 5), (1, 2), 'POS']]}
+{'sentence': 'HP is more interested in selling extended warranties ( which cost more than the netbook new ) then they are in helping or fixing .', 'labels': [[(6, 8), (10, 12), 'NEG'], [(10, 11), (11, 12), 'NEG']]}
+{'sentence': "Not too much `` junk '' software to remove .", 'labels': [[(6, 7), (4, 5), 'POS']]}
+{'sentence': 'System is loosing about 20 % of performance because of that .', 'labels': [[(7, 8), (2, 3), 'NEG'], [(0, 1), (2, 3), 'NEG']]}
+{'sentence': "The difference in the Apple keyboard from a PC 's keyboard took a bit of tim to get used to , but overall it 's worth it !", 'labels': [[(4, 6), (25, 26), 'NEU'], [(8, 11), (25, 26), 'NEU']]}
+{'sentence': "Only issue is that it is a little slow , and I 'm fixing that by adding more RAM .", 'labels': [[(18, 19), (17, 18), 'NEU']]}
+{'sentence': 'The hard drive crashed as well , and I had to buy a new power cord .', 'labels': [[(1, 3), (3, 4), 'NEG']]}
+{'sentence': 'Another issue I have with it is the battery .', 'labels': [[(8, 9), (1, 2), 'NEG']]}
+{'sentence': 'My MacBook Pro works like a dream , it has never overheated , or even been slightly warm for that matter .', 'labels': [[(3, 4), (6, 7), 'POS'], [(3, 4), (10, 12), 'POS']]}
+{'sentence': "I get a ton of compliments on its size , and speaking as someone who regularly commutes on a bus , I can attest to the fact that this is the perfect size computer if you 're restricted to the width of your body for computing room .", 'labels': [[(8, 9), (5, 6), 'POS'], [(32, 33), (31, 32), 'POS']]}
+{'sentence': 'Easy to carry , can be taken anywhere , can be hooked up to printers , headsets .', 'labels': [[(2, 3), (0, 1), 'POS']]}
+{'sentence': 'When I got my laptop back after this first instance it worked okay for a little bit then I started expeirencing issues again , everything from programs and drivers failing again , to it powering off for no reason , to locking up and freezing and just all sorts of issues .', 'labels': [[(26, 27), (21, 22), 'NEG'], [(26, 27), (29, 30), 'NEG'], [(28, 29), (21, 22), 'NEG'], [(28, 29), (29, 30), 'NEG']]}
+{'sentence': "Love that it does n't take up space like a regular computer .", 'labels': [[(7, 8), (0, 1), 'POS']]}
+{'sentence': 'So , I took it back to the apple store and they narcissist genius bar staff ) fixed it by resetting the fan at boot up .', 'labels': [[(22, 23), (17, 18), 'NEU']]}
+{'sentence': 'the mouse on the pad , the left button always sticks .', 'labels': [[(1, 5), (10, 11), 'NEU'], [(7, 9), (10, 11), 'NEG']]}
+{'sentence': 'We use the built in tools often , iTunes is open nearly every day and works great with my iPhone .', 'labels': [[(3, 6), (16, 17), 'NEU'], [(8, 9), (16, 17), 'POS']]}
+{'sentence': 'the size of has actually help me out quite a bit by me being able to fit it in an already full backpack and to use it at a resturant where the food on the table is always so space consuming .', 'labels': [[(1, 2), (14, 17), 'POS']]}
+{'sentence': 'True quality at a great price !', 'labels': [[(1, 2), (0, 1), 'POS'], [(5, 6), (4, 5), 'POS']]}
+{'sentence': 'The programs that come standard with the Leopard running system are enough for the average person to run all the basics .', 'labels': [[(1, 2), (11, 12), 'POS']]}
+{'sentence': "So what am I supposed to do ? The LG service center can not provide me the `` service '' when it is called the `` service center '' .", 'labels': [[(10, 12), (12, 15), 'NEG']]}
+{'sentence': "The Material this Pro is made out of seems a lot nicer than any PC Specs : Like I said this performs a lot better than any computer I 've had in the past .", 'labels': [[(1, 2), (11, 12), 'POS']]}
+{'sentence': "After doing extensive research , macconnection had the lowest price on the 15 '' MBP i5 .", 'labels': [[(9, 10), (8, 9), 'POS']]}
+{'sentence': 'I am ADDICTED to photo booth !', 'labels': [[(4, 6), (2, 3), 'POS']]}
+{'sentence': 'The operating system and user interface is very intuitive , and the large multi-touch track pad is amazing .', 'labels': [[(1, 3), (8, 9), 'POS'], [(4, 6), (8, 9), 'POS'], [(13, 16), (12, 13), 'POS'], [(13, 16), (17, 18), 'POS']]}
+{'sentence': 'Hard disk - The new editions gives you more hard disk space ( 500GB instead of 320GB ) but time has taught me never to trust an internal hard disk .', 'labels': [[(9, 12), (8, 9), 'POS'], [(27, 30), (23, 26), 'NEU']]}
+{'sentence': 'It is extremely portable and easily connects to WIFI at the library and elsewhere .', 'labels': [[(6, 9), (5, 6), 'POS']]}
+{'sentence': 'First things first , Macbook pro has many applications to make life easier , unlike the windows computers .', 'labels': [[(8, 9), (7, 8), 'POS'], [(8, 9), (12, 13), 'POS']]}
+{'sentence': 'And the screen on this thing is absolutely amazing for high quality videos and movies and gaming .', 'labels': [[(2, 3), (8, 9), 'POS'], [(16, 17), (10, 11), 'POS']]}
+{'sentence': 'I considered I may have too much on the computer , but after looking , there was plenty of space and that is not the issue .', 'labels': [[(19, 20), (17, 18), 'POS']]}
+{'sentence': 'Now mainboard is broken , have to wait for a new one .', 'labels': [[(1, 2), (3, 4), 'NEG']]}
+{'sentence': 'The speed difference is next to NOTHING for a mac , and the hard drive can be manually upgraded or you could just buy a $ 60 500gb external hard drive .', 'labels': [[(1, 2), (6, 7), 'NEG']]}
+{'sentence': 'The people are frustrating to work with , the product itself is very cheaply made , and the accessories are less than satisfactory .', 'labels': [[(18, 19), (20, 23), 'NEG']]}
+{'sentence': 'everything about a mac is wonderful , it takes a little used to learning and getting used to the new system , but you will learn fast and its all worth it .', 'labels': [[(20, 21), (19, 20), 'NEU'], [(20, 21), (25, 27), 'NEU'], [(20, 21), (30, 31), 'NEU']]}
+{'sentence': 'i love the size of the computer since i play games on it .', 'labels': [[(3, 4), (1, 2), 'POS']]}
+{'sentence': 'You know , using the computer should be fun , not aggrevation , especially when you are playing games or working with photos .', 'labels': [[(17, 19), (8, 9), 'NEU'], [(17, 19), (10, 12), 'NEU']]}
+{'sentence': 'To be honest i think it was faulty equipment or something but idk .', 'labels': [[(8, 9), (7, 8), 'NEG']]}
+{'sentence': 'I also love the small , convenient size of my laptop , making it a perfect tool for my academic studies .', 'labels': [[(7, 8), (4, 5), 'POS'], [(7, 8), (6, 7), 'POS']]}
+{'sentence': 'I love its solid build , light wt and excellent battery life ( for now ) .', 'labels': [[(4, 5), (1, 2), 'POS'], [(4, 5), (3, 4), 'POS'], [(7, 8), (1, 2), 'POS'], [(7, 8), (6, 7), 'POS'], [(10, 12), (1, 2), 'POS'], [(10, 12), (9, 10), 'POS']]}
+{'sentence': "The battery holds up well , it 's built very solidly , and runs fast .", 'labels': [[(1, 2), (2, 5), 'POS'], [(8, 9), (10, 11), 'POS'], [(13, 14), (14, 15), 'POS']]}
+{'sentence': 'Sound card is limited though .', 'labels': [[(0, 2), (3, 4), 'NEG']]}
+{'sentence': 'This is a nicely sized laptop with lots of processing power and long battery life .', 'labels': [[(9, 11), (7, 9), 'POS'], [(13, 15), (12, 13), 'POS'], [(4, 5), (3, 4), 'POS']]}
+{'sentence': '-Computer crashed frequently and battery life decreased very quickly .', 'labels': [[(4, 6), (6, 9), 'NEG']]}
+{'sentence': '-I propose that they can just swap the hard drives .', 'labels': [[(8, 10), (6, 7), 'NEU']]}
+{'sentence': "It 's also fairly easy to use the Operating System .", 'labels': [[(8, 10), (4, 5), 'POS']]}
+{'sentence': 'So having the AC plug go out on me and get lose or I could actually here it inside my computer on two of the three times is not good .', 'labels': [[(3, 5), (28, 30), 'NEG']]}
+{'sentence': 'Peformance is good for the price .', 'labels': [[(0, 1), (2, 3), 'POS'], [(5, 6), (2, 3), 'POS']]}
+{'sentence': 'Summary : HP knew they were shipping out bad BIOS and did nothing proactive to resolve it .', 'labels': [[(9, 10), (8, 9), 'NEG']]}
+{'sentence': 'I had 3 months when the ports started going out .', 'labels': [[(6, 7), (8, 10), 'NEG']]}
+{'sentence': 'The improvements to the OS have been relatively gradual , but substantive .', 'labels': [[(4, 5), (1, 2), 'POS'], [(4, 5), (7, 9), 'POS'], [(4, 5), (11, 12), 'POS']]}
+{'sentence': 'It is super easy to use .', 'labels': [[(5, 6), (3, 4), 'POS']]}
+{'sentence': 'Many of my classmates computers hard drives crashed .', 'labels': [[(5, 7), (7, 8), 'NEG']]}
+{'sentence': 'Ease of use is just one of the benefits I love about my Mac .', 'labels': [[(2, 3), (0, 1), 'POS'], [(2, 3), (8, 9), 'POS'], [(2, 3), (10, 11), 'POS']]}
+{'sentence': "The 13 '' Macbook Pro just fits in my budget and with free shipping and no tax to CA this is the best price we can get for a great product .", 'labels': [[(13, 14), (12, 13), 'POS'], [(23, 24), (22, 23), 'POS'], [(9, 10), (6, 7), 'POS']]}
+{'sentence': 'The sheer power and flexibility makes the MacBook Pro a must have for any techie !', 'labels': [[(2, 3), (10, 11), 'POS'], [(4, 5), (10, 11), 'POS']]}
+{'sentence': 'The notebook is lacking a HDMI port and a S-video port that would enable one to hook it to a TV .', 'labels': [[(5, 7), (3, 4), 'NEG'], [(9, 11), (3, 4), 'NEG']]}
+{'sentence': 'Battery is lasting about 6 hours as I am surfing the web on Sundays while checking football scores and watching funny Youtube videos .', 'labels': [[(0, 1), (2, 3), 'NEU']]}
+{'sentence': 'Iphoto is great for adding pictures right to facebook and other social networking sites .', 'labels': [[(0, 1), (2, 3), 'POS']]}
+{'sentence': 'Some features arent friendly ( volume wheel , sound quality , etc .', 'labels': [[(5, 7), (2, 4), 'NEG'], [(8, 10), (2, 4), 'NEG'], [(1, 2), (2, 4), 'NEG']]}
+{'sentence': "A cheaper price should not equal a `` cheap '' product .", 'labels': [[(2, 3), (1, 2), 'POS']]}
+{'sentence': 'After a couple of years , my battery life began to diminish but was replaced for free due to a company-wide recall of my particular battery .', 'labels': [[(25, 26), (24, 25), 'NEG']]}
+{'sentence': 'The system constantly overheats , the battery life is too short , the case is coming apart , and my core applications that I use every day in my work as a graphic artist run poorly .', 'labels': [[(6, 8), (10, 11), 'NEG'], [(13, 14), (15, 17), 'NEG'], [(20, 22), (35, 36), 'NEG'], [(1, 2), (3, 4), 'NEG']]}
+{'sentence': 'The company sent me a whole new cord overnight and apologized .', 'labels': [[(7, 8), (6, 7), 'POS']]}
+{'sentence': "It 's even easy to hook up to other wireless networks .", 'labels': [[(5, 11), (3, 4), 'POS']]}
+{'sentence': "The rep did not even answer my question , I had to ask him , if he understood what I ask or if he spoke english because he did n't even try to acknowledge my question .", 'labels': [[(1, 2), (2, 4), 'NEG']]}
+{'sentence': 'Again I sent it back and they replaced the motherboard and some fan inside .', 'labels': [[(9, 10), (7, 8), 'NEU'], [(12, 13), (7, 8), 'NEU']]}
+{'sentence': "For me , keys were starting to get stuck and would n't type very well .", 'labels': [[(3, 4), (8, 9), 'NEG'], [(3, 4), (10, 15), 'NEG']]}
+{'sentence': "ca n't reinstall with standard os cd because of proprietary hardware drivers .", 'labels': [[(4, 7), (0, 3), 'NEG']]}
+{'sentence': 'The computer was two weeks late in delivery because HP forgot to complete the required import paperwork .', 'labels': [[(7, 8), (5, 6), 'NEG']]}
+{'sentence': 'I have been very pleased with the performance of this laptop .', 'labels': [[(7, 8), (4, 5), 'POS']]}
+{'sentence': "I bought it for my mom and she reports that the battery life lasts all day for her , it 's very lightweight , and the response for the computing she 's doing ( Internet focused activity : mail , research , etc . ) is excellent ;", 'labels': [[(11, 13), (13, 16), 'POS'], [(26, 27), (46, 47), 'POS'], [(34, 37), (46, 47), 'NEU']]}
+{'sentence': 'Its very nice and once you learn the features you will be so happy to have such a sophisticated computer .', 'labels': [[(8, 9), (13, 14), 'NEU']]}
+{'sentence': 'It is sleek and lightweight and charges quickly when needed .', 'labels': [[(6, 7), (7, 8), 'POS']]}
+{'sentence': 'also you may need to charge it once a day , if for medium use every thing fast and easy with mac the size and look is the most feature that attracted me to it .', 'labels': [[(23, 24), (31, 32), 'POS'], [(25, 26), (31, 32), 'POS'], [(29, 30), (31, 32), 'POS']]}
+{'sentence': 'I did think it had a camera because that was one of my requirements , but forgot to check in the specifications on this one before I purchased .', 'labels': [[(21, 22), (18, 20), 'NEU']]}
+{'sentence': 'little short on RAM but you get what you pay for .', 'labels': [[(3, 4), (1, 2), 'NEG']]}
+{'sentence': "It did n't come with any software installed outside of windows media , but for the price , I was very pleased with the condition and the overall product .", 'labels': [[(6, 7), (1, 5), 'NEG'], [(16, 17), (21, 22), 'POS']]}
+{'sentence': 'THEN , one month after the warranty expired , the replacement charger went .', 'labels': [[(6, 7), (7, 8), 'NEU']]}
+{'sentence': "I love a `` pc '' but I was ready for a change and tired of the windows system .", 'labels': [[(17, 19), (14, 16), 'NEG']]}
+{'sentence': 'Other installed features , such as certain printer software , are also most attractive .', 'labels': [[(2, 3), (13, 14), 'POS'], [(7, 9), (13, 14), 'POS']]}
+{'sentence': 'Even doing so , the hinge may just be slightly tightened only .', 'labels': [[(5, 6), (10, 11), 'NEU']]}
+{'sentence': 'company provides UPS shipping , fast , great !', 'labels': [[(3, 4), (5, 6), 'POS'], [(3, 4), (7, 8), 'POS']]}
+{'sentence': 'It is easy to use , has great screen quality , and every so light weight .', 'labels': [[(8, 10), (7, 8), 'POS'], [(4, 5), (2, 3), 'POS']]}
+{'sentence': 'The iLife software that comes with the computer is so simple to use and produces a great finished product .', 'labels': [[(1, 3), (10, 11), 'POS'], [(1, 3), (16, 17), 'POS'], [(12, 13), (10, 11), 'POS']]}
+{'sentence': 'The shop will definitely push the problem to the service center .', 'labels': [[(9, 11), (6, 7), 'NEU']]}
+{'sentence': "While I mostly use it for email , internet and gaming , I 'm confident all other applications live up to the high standard I 've come to appreciate from Mac laptops .", 'labels': [[(17, 18), (22, 24), 'POS']]}
+{'sentence': "This laptop looks great on the surface : 17 '' inch screen , good price-point , nice appearance , boots up quickly , runs fast etc .", 'labels': [[(14, 15), (3, 4), 'POS'], [(14, 15), (13, 14), 'POS'], [(17, 18), (3, 4), 'POS'], [(17, 18), (16, 17), 'POS'], [(19, 21), (21, 22), 'POS'], [(23, 24), (24, 25), 'POS']]}
+{'sentence': "The apple systems are over priced luxurys that ar n't worth what they are being charged for , this model 's specifications are far from being impressive and they only thing you get out of this is the apple name .", 'labels': [[(21, 22), (23, 27), 'NEG']]}
+{'sentence': 'pros : the macbook pro notebook has a large battery life and you wont have to worry to charge your laptop every five hours or so .', 'labels': [[(9, 11), (8, 9), 'POS']]}
+{'sentence': 'Disappointing for such a lovely screen and at a reasonable price', 'labels': [[(5, 6), (0, 1), 'POS'], [(5, 6), (4, 5), 'POS'], [(10, 11), (0, 1), 'POS'], [(10, 11), (9, 10), 'POS']]}
+{'sentence': 'The only bad thing about it is they give you the worst batteries possible .', 'labels': [[(12, 13), (11, 12), 'NEG']]}
+{'sentence': 'Good price .', 'labels': [[(1, 2), (0, 1), 'POS']]}
+{'sentence': 'the speed is fine .', 'labels': [[(1, 2), (3, 4), 'POS']]}
+{'sentence': 'It was not clear that the Microsoft Student Edition that was loaded on the computer , was a six month trial .', 'labels': [[(6, 9), (2, 4), 'NEG']]}
+{'sentence': 'Good for every day computing and web browsing .', 'labels': [[(6, 8), (0, 1), 'POS'], [(2, 5), (0, 1), 'POS']]}
+{'sentence': 'Also , I have had a lot of trouble with the keys sticking and will not type correctly .', 'labels': [[(11, 12), (8, 9), 'NEG'], [(11, 12), (12, 13), 'NEG'], [(11, 12), (15, 18), 'NEG']]}
+{'sentence': 'Excellent LED monitor and well equipped .', 'labels': [[(1, 3), (0, 1), 'POS']]}
+{'sentence': 'Without a doubt , the * design * of this laptop is fantastic .', 'labels': [[(6, 7), (12, 13), 'POS']]}
+{'sentence': 'I could save ten essay papers and have hardly any memory left .', 'labels': [[(10, 11), (8, 9), 'NEG']]}
+{'sentence': 'Other than that , I would recommend this to someone in need of a cheap laptop with semi-decent gaming capabilities .', 'labels': [[(18, 19), (17, 18), 'POS']]}
+{'sentence': 'But the biggest pain is that tech support is not available 24/7 .', 'labels': [[(6, 8), (3, 4), 'NEG'], [(6, 8), (9, 11), 'NEG']]}
+{'sentence': 'I chose the iBookG4 , a laptop that is an attractive computer with a large screen big enough to please anyone .', 'labels': [[(15, 16), (10, 11), 'POS'], [(15, 16), (14, 15), 'POS'], [(15, 16), (16, 17), 'POS']]}
+{'sentence': 'Everything about the Mac is not only visually appealing , but very easy to use .', 'labels': [[(14, 15), (8, 9), 'POS'], [(14, 15), (12, 13), 'POS']]}
+{'sentence': 'THE FIRST PROBLEM IS THAT THE KEYBOARD FUNCTION IS SIMPLY UNSATISFACTORY .', 'labels': [[(6, 8), (10, 12), 'NEG']]}
+{'sentence': 'Garageband is more for the musicians , and the laptop is equipped with a good working microphone , good enough for beginners and musicians at the intermediate level .', 'labels': [[(0, 1), (14, 16), 'NEU'], [(16, 17), (14, 16), 'POS']]}
+{'sentence': 'I dual boot with Linux and that other security-prone OS and it performs flawlessly .', 'labels': [[(4, 5), (13, 14), 'NEU'], [(8, 10), (13, 14), 'NEU'], [(12, 13), (13, 14), 'POS']]}
+{'sentence': 'The difference is the Toshiba had a lot more memory and hard drive space .', 'labels': [[(9, 10), (6, 9), 'POS'], [(11, 14), (6, 9), 'POS']]}
+{'sentence': "There was a little difficulty doing the migration as the firewire cable system ca n't be used with the iBook .", 'labels': [[(10, 13), (4, 5), 'NEG'], [(10, 13), (13, 17), 'NEG']]}
+{'sentence': 'Seems like maybe a bad shipment from Toshiba .', 'labels': [[(5, 6), (4, 5), 'NEG']]}
+{'sentence': 'OS X is solid with lots of innovations such as quicklook which save heaps of time .', 'labels': [[(0, 2), (3, 4), 'POS'], [(0, 2), (7, 8), 'POS'], [(10, 11), (12, 16), 'POS']]}
+{'sentence': 'But other than that I am blown away by all the features this laptop offers .', 'labels': [[(11, 12), (6, 8), 'POS']]}
+{'sentence': 'The keyboard is slick and quiet and not bulky like some other laptops I have had in the past .', 'labels': [[(1, 2), (3, 4), 'POS'], [(1, 2), (5, 6), 'POS'], [(1, 2), (7, 9), 'POS']]}
+{'sentence': 'Overall , this laptop is definitely a keeper with its simple yet stylish design and its array of fantastic colors to choose from .', 'labels': [[(13, 14), (12, 13), 'POS'], [(19, 20), (18, 19), 'POS']]}
+{'sentence': 'First the screen goes completely out .', 'labels': [[(2, 3), (4, 6), 'NEG']]}
+{'sentence': 'The PhotoBooth is a great program , it takes very good pictures with the built-in camera .', 'labels': [[(1, 2), (4, 5), 'POS'], [(5, 6), (4, 5), 'POS'], [(14, 16), (10, 11), 'POS']]}
+{'sentence': 'Many kinds of software that is necessary to the working person is not available and can not be downloaded .', 'labels': [[(3, 4), (12, 14), 'NEG'], [(3, 4), (15, 19), 'NEG']]}
+{'sentence': 'It bluescreened on me without any warning , running simply basic Chrome .', 'labels': [[(11, 12), (10, 11), 'NEG']]}
+{'sentence': 'We researched and found the best price at MacConnection .', 'labels': [[(6, 7), (5, 6), 'POS']]}
+{'sentence': "But guess what ? ( you have to buy an external dvd drive it does n't have a built in type ) The notebook ca n't be used because it does n't read anything for an external drive .", 'labels': [[(10, 13), (14, 17), 'NEG'], [(36, 38), (30, 33), 'NEG']]}
+{'sentence': 'GET THIS COMPUTER FOR PORTABILITY AND FAST PROCESSING ! ! !', 'labels': [[(7, 8), (6, 7), 'POS']]}
+{'sentence': "I use a cooling pad but it does n't help .", 'labels': [[(3, 5), (7, 10), 'NEG']]}
+{'sentence': 'Supplied software : The software that comes with this machine is greatly welcomed compared to what Windows comes with .', 'labels': [[(0, 2), (11, 13), 'NEU'], [(4, 5), (11, 13), 'POS']]}
+{'sentence': "I 'm tired of the inept service .", 'labels': [[(6, 7), (2, 4), 'NEG']]}
+{'sentence': "Garageband is easy to work with , like all the other apple applications I 've had experience with .", 'labels': [[(0, 1), (2, 3), 'POS'], [(11, 13), (2, 3), 'POS']]}
+{'sentence': "No , tey do n't even support their own bios and it `` could be a problem with the bios '' How can a company that makes a fairly decent product get away with such insanity ? ? ! !", 'labels': [[(9, 10), (3, 7), 'NEG'], [(19, 20), (16, 17), 'NEG']]}
+{'sentence': 'This laptop looked brand new and was shipped very quickly .', 'labels': [[(7, 8), (9, 10), 'POS']]}
+{'sentence': 'Info : Windows failed to load because the kernal is missing , or corrupt .', 'labels': [[(2, 3), (3, 4), 'NEG'], [(8, 9), (10, 11), 'NEG'], [(8, 9), (13, 14), 'NEG']]}
+{'sentence': "The display on this computer is the best I 've seen in a very long time , the battery life is very long and very convenient .", 'labels': [[(1, 2), (7, 8), 'POS'], [(18, 20), (22, 23), 'POS'], [(18, 20), (25, 26), 'POS']]}
+{'sentence': 'But the quality , in general was less than the worth of the cheap laptop .', 'labels': [[(2, 3), (7, 11), 'NEG']]}
+{'sentence': 'In the first moth of owning this computer its hardrive failed which had to be replaced .', 'labels': [[(9, 10), (10, 11), 'NEG'], [(9, 10), (15, 16), 'NEG']]}
+{'sentence': 'WIth the upgraded memory , the MacBook Pro never has an issue running many many applications at once !', 'labels': [[(2, 4), (8, 12), 'POS']]}
+{'sentence': 'Simple to use , and great graphics .', 'labels': [[(6, 7), (5, 6), 'POS'], [(2, 3), (0, 1), 'POS']]}
+{'sentence': 'The internet speed is spectacular .', 'labels': [[(1, 3), (4, 5), 'POS']]}
+{'sentence': 'They claim call center is still down .', 'labels': [[(2, 4), (6, 7), 'NEG']]}
+{'sentence': 'Mac also has many apps and programs that are quite cheap or free .', 'labels': [[(4, 5), (10, 11), 'POS'], [(4, 5), (12, 13), 'POS'], [(6, 7), (10, 11), 'POS'], [(6, 7), (12, 13), 'POS']]}
+{'sentence': 'My husband uses it mostly for games , email and music .', 'labels': [[(6, 7), (4, 5), 'NEU']]}
+{'sentence': 'Apparently under the screen there are 2 little screws and when the screen gets moved back and forth , they come loose .', 'labels': [[(3, 4), (21, 22), 'NEU']]}
+{'sentence': 'Downfalls : sharp edges .', 'labels': [[(3, 4), (0, 1), 'NEG'], [(3, 4), (2, 3), 'NEG']]}
+{'sentence': 'I had it four months when my disc drive refused to open .', 'labels': [[(7, 9), (9, 12), 'NEG']]}
+{'sentence': 'So , after Apple replaced the hard drive I enjoyed another 4 months of my new computer , until it froze this morning -- completely .', 'labels': [[(6, 8), (4, 5), 'NEU'], [(6, 8), (9, 10), 'NEU'], [(6, 8), (20, 21), 'NEU']]}
+{'sentence': 'Once again , I was told it was the suspicious power supply problem .', 'labels': [[(10, 12), (9, 10), 'NEG']]}
+{'sentence': 'Unable to boot up this brand new laptop .', 'labels': [[(2, 4), (0, 1), 'NEG']]}
+{'sentence': 'In addition , all the design tools on Pages and Keynotes makes it much easier to create professional looking documents and presentations .', 'labels': [[(8, 9), (14, 15), 'POS'], [(8, 9), (17, 18), 'POS'], [(10, 11), (14, 15), 'POS'], [(10, 11), (17, 18), 'POS']]}
+{'sentence': 'I actually had the hard drive replaced twice , the mother board once , the dvd drive twice , then they FINALLY agreed to replace it , ( ALL OF THIS IN LESS THAN 1 1/2 YEARS !', 'labels': [[(4, 6), (6, 7), 'NEG'], [(10, 12), (6, 7), 'NEG'], [(15, 17), (6, 7), 'NEG']]}
+{'sentence': 'I love the feel of the key board , as well as the trackpad .', 'labels': [[(6, 8), (1, 2), 'POS'], [(13, 14), (1, 2), 'POS']]}
+{'sentence': 'Now I have the best of both worlds with all of the power and ease of the Mac !', 'labels': [[(12, 13), (4, 5), 'POS'], [(14, 15), (4, 5), 'POS']]}
+{'sentence': 'Ease of use is just one of the benefits I love about my Mac .', 'labels': [[(2, 3), (0, 1), 'POS'], [(2, 3), (8, 9), 'POS'], [(2, 3), (10, 11), 'POS']]}
+{'sentence': "Now the machine wo n't connect and Toshiba says that they did replace the connection card in May but they only warranty the repair for 30 days and now I 'm out of warranty even though this has been a constant 5 month occurance since I bought the netbook .", 'labels': [[(14, 16), (12, 13), 'NEU']]}
+{'sentence': 'Browsing , also , was no problem for me when I used itunes ( which usually slows down my PC ) .', 'labels': [[(0, 1), (5, 7), 'POS']]}
+{'sentence': 'Again , decent comp for the price , and I was in need of one quickly as my other laptop died on me .', 'labels': [[(6, 7), (2, 3), 'POS']]}
+{'sentence': "Toshiba customer services will indirectly deal with your problems by constantly tranferring you from one country to another , and I am not kidding you , I called different hours of the day and you 'll get someone else from another country trying to get you to tell them your life story all over again , since they make it sound like they do n't have your history list of your calls right in front of them .", 'labels': [[(0, 3), (4, 5), 'NEG']]}
+{'sentence': 'Quality Display I was surprised with the performance and quality of this HP Laptop .', 'labels': [[(0, 2), (4, 5), 'POS'], [(7, 8), (4, 5), 'POS'], [(9, 10), (4, 5), 'POS']]}
+{'sentence': "The battery life also does n't keep up with the claim but still I think macbook is much ahead from the rest of the pack .", 'labels': [[(1, 3), (4, 6), 'NEG'], [(1, 3), (17, 19), 'NEG']]}
+{'sentence': 'The internet capabilities are also very strong and picks up signals very easily .', 'labels': [[(1, 3), (6, 7), 'POS'], [(1, 3), (12, 13), 'POS']]}
+{'sentence': 'Its fast , has High definition quality in the videos .', 'labels': [[(4, 7), (4, 5), 'POS']]}
+{'sentence': 'Another Great thing is the Beast graphics .', 'labels': [[(5, 7), (1, 2), 'POS']]}
+{'sentence': 'The ease of set up was terrific .', 'labels': [[(3, 5), (1, 2), 'POS'], [(3, 5), (6, 7), 'POS']]}
+{'sentence': 'Everything I have tried has worked and I never have to carry the wall charger cause the battery is so awesome .', 'labels': [[(17, 18), (20, 21), 'POS']]}
+{'sentence': 'Screen size is perfect for portable use in any environment .', 'labels': [[(0, 2), (3, 4), 'POS']]}
+{'sentence': 'I used to build my own desktops from the component parts , and recently my 7 year old Pentium 4 with HT 1 GB ram SATA desktop stopped working ( this was a rock star 7 years ago ) .', 'labels': [[(18, 20), (27, 29), 'NEU'], [(22, 25), (27, 29), 'NEU']]}
+{'sentence': ') And printing from either word processor is an adventure .', 'labels': [[(5, 7), (9, 10), 'NEG']]}
+{'sentence': 'After purchasing this thing , I find out that I need a special interface device to connect my camera , and that it can not be purchased at the store - only on line .', 'labels': [[(13, 15), (12, 13), 'NEG']]}
+{'sentence': 'Another included program that is laughable is the chess game .', 'labels': [[(1, 3), (5, 6), 'NEG']]}
+{'sentence': 'Yes , I thought the expese was a little much , but I now realize you get what you pay for .', 'labels': [[(5, 6), (9, 10), 'NEG']]}
+{'sentence': 'It works great for general internet use , Microsoft Office apps , home bookkeeping , etc .', 'labels': [[(8, 11), (2, 3), 'POS'], [(5, 7), (2, 3), 'POS']]}
+{'sentence': 'The price was very good , and the product is top quality .', 'labels': [[(1, 2), (4, 5), 'POS'], [(11, 12), (10, 11), 'POS']]}
+{'sentence': 'It played various games without problems and ran aero smoothly and flawlessly .', 'labels': [[(3, 4), (4, 6), 'NEU'], [(8, 9), (9, 10), 'NEU'], [(8, 9), (11, 12), 'NEU']]}
+{'sentence': 'After replacing the hard drive the battery stopped working ( 3 months of use ) which was frustrating .', 'labels': [[(3, 5), (1, 2), 'NEU'], [(6, 7), (7, 9), 'NEG']]}
+{'sentence': 'From the get-go , the M6809 was unsteady in its operation ;', 'labels': [[(10, 11), (7, 8), 'NEG']]}
+{'sentence': 'Its small enough where I can take it pretty much anywhere , but still has a big enough screen to get everything done .', 'labels': [[(18, 19), (16, 17), 'POS']]}
+{'sentence': 'It even has a great webcam , and Skype works very well .', 'labels': [[(5, 6), (4, 5), 'POS'], [(8, 9), (11, 12), 'POS']]}
+{'sentence': 'This computer I used daily nice compact design .', 'labels': [[(7, 8), (5, 7), 'POS']]}
+{'sentence': 'The ATI graphics card is a huge plus , definitely a good value if you need to be able to run some slightly older games that a Intel built-in card would have trouble with , such as Half-Life 2 or even World of Warcraft .', 'labels': [[(1, 4), (6, 8), 'POS'], [(27, 30), (32, 33), 'POS'], [(24, 25), (23, 24), 'NEU']]}
+{'sentence': 'It was hard to handle and operate at school .', 'labels': [[(4, 5), (2, 3), 'NEG'], [(6, 7), (2, 3), 'NEG']]}
+{'sentence': 'I preferred the fit and feel of the 13 inch .', 'labels': [[(8, 10), (1, 2), 'POS']]}
+{'sentence': 'power supply went bad after 2 weeks --', 'labels': [[(0, 2), (3, 4), 'NEG']]}
+{'sentence': 'The screen takes some getting use to , because it is smaller than the laptop .', 'labels': [[(1, 2), (11, 12), 'NEG']]}
+{'sentence': 'I regret buying it before understanding how awful it is to use .', 'labels': [[(11, 12), (7, 8), 'NEG']]}
+{'sentence': 'The right speaker did not work .', 'labels': [[(1, 3), (4, 6), 'NEG']]}
+{'sentence': 'Dealing with the support drone on the other end of the chat was sheer torture .', 'labels': [[(3, 4), (13, 15), 'NEG']]}
+{'sentence': 'The Final Cut Pro on this laptop is so fast and easy , and I can use this to seemlessly transfer all my work to my home computer , which is also a mac .', 'labels': [[(1, 4), (9, 10), 'POS'], [(1, 4), (11, 12), 'POS']]}
+{'sentence': 'The computer runs extremely slowly , whether opening Word or My Computer .', 'labels': [[(2, 3), (4, 5), 'NEG']]}
+{'sentence': 'The screen is nice and the images comes very clear , the keyboard and the fit just feels right .', 'labels': [[(1, 2), (3, 4), 'POS'], [(12, 13), (18, 19), 'POS'], [(15, 16), (18, 19), 'POS']]}
+{'sentence': 'But sitting on a lap or on a desk in front of you it looks more than big enough ( this could be because Im used to my Lenovo 10 tablet now ) plus this is a great size if I want to unplug the external keyboard , mouse , and monitor to take it with me when I take photos and video .', 'labels': [[(38, 39), (37, 38), 'POS']]}
+{'sentence': 'The only objection I have is that after you buy it the windows 7 system is a starter and charges for the upgrade .', 'labels': [[(12, 15), (2, 3), 'NEG']]}
+{'sentence': "The wheel that turns the volume up and down does n't work in real time .", 'labels': [[(1, 2), (9, 12), 'NEG']]}
+{'sentence': 'I can not be happier with the service or product .', 'labels': [[(7, 8), (1, 5), 'POS']]}
+{'sentence': 'I do transcription work on the side , and the flatline keyboard makes typing quick and easy as well .', 'labels': [[(10, 12), (14, 15), 'POS'], [(10, 12), (16, 17), 'POS']]}
+{'sentence': "Speakers does n't sound that great .", 'labels': [[(0, 1), (1, 6), 'NEG']]}
+{'sentence': "The `` abuse '' is that I pushed the power plug in too hard .", 'labels': [[(9, 11), (12, 14), 'NEG']]}
+{'sentence': 'The resolution on the screen is almost pure HD .', 'labels': [[(1, 5), (7, 9), 'POS']]}
+{'sentence': 'The Internet Explorer was very slow from the very beginning .', 'labels': [[(1, 3), (5, 6), 'NEG']]}
+{'sentence': 'The AC power port becomes loose over time', 'labels': [[(1, 4), (5, 6), 'NEG']]}
+{'sentence': 'As a user of a PC , I will will admit that the macBook Pro has a better running system in which I found myself `` Getting the job done quicker .', 'labels': [[(18, 20), (17, 18), 'POS']]}
+{'sentence': 'There are no gold key numbers too intall programs , you must use the serial numbers that it does not accept and then things are limited as far a working because they are only good for a short time .', 'labels': [[(8, 9), (25, 26), 'NEG']]}
+{'sentence': 'and they replaced the awesome ergonomic small lightweight power supply with a power supply that weighed more than the machine itself .', 'labels': [[(8, 10), (7, 8), 'NEG'], [(12, 14), (15, 16), 'NEG']]}
+{'sentence': 'Enjoy that Toshib force and durability unparalleled', 'labels': [[(3, 4), (0, 1), 'POS'], [(5, 6), (0, 1), 'POS'], [(5, 6), (6, 7), 'POS']]}
+{'sentence': "Which is great I am running Vista Business and scored a 5.X on the index I have never seen a windows machine have a total score in the 5 's .", 'labels': [[(6, 8), (2, 3), 'POS']]}
+{'sentence': 'We love the size of the screen , although it is still lightweight and very easy to tote around .', 'labels': [[(3, 7), (1, 2), 'POS'], [(17, 18), (15, 16), 'POS']]}
+{'sentence': 'the battery is irreplaceable .', 'labels': [[(1, 2), (3, 4), 'NEG']]}
+{'sentence': "I have never really been big on downloading anything so I was n't too worried about getting a virus , plus I thought I was protected by Norton .", 'labels': [[(27, 28), (25, 26), 'NEG']]}
+{'sentence': 'The internet was locekd and froze every time it was trying to be used , and the command prompt would not work at all .', 'labels': [[(1, 2), (3, 4), 'NEG'], [(1, 2), (5, 6), 'NEG'], [(17, 19), (20, 22), 'NEG']]}
+{'sentence': "It 's software and speed enable it to do amazing things .", 'labels': [[(2, 3), (9, 10), 'POS'], [(4, 5), (9, 10), 'POS']]}
+{'sentence': 'Could not keep up with me and finally the hard drive went out .', 'labels': [[(9, 11), (11, 13), 'NEG']]}
+{'sentence': 'I am most impressed with the programming , including the iPhoto .', 'labels': [[(6, 7), (3, 4), 'POS'], [(10, 11), (3, 4), 'POS']]}
+{'sentence': 'Speakers too small to be of any real use .', 'labels': [[(0, 1), (1, 3), 'NEG']]}
+{'sentence': "I upgraded it 's RAM to 2GB , I am very happy with it .", 'labels': [[(4, 5), (1, 2), 'POS'], [(4, 5), (11, 12), 'POS']]}
+{'sentence': 'They should have included more memory on their computers if they knew Vista would run slowly .', 'labels': [[(5, 6), (4, 5), 'NEG'], [(12, 13), (15, 16), 'NEG']]}
+{'sentence': "Battery life could be better but overall for the price and Toshiba 's reputation for laptops it 's great !", 'labels': [[(0, 2), (2, 5), 'NEG'], [(9, 10), (18, 19), 'POS']]}
+{'sentence': 'The battery never held a charge longer than one hour and within two months , stopped holding a charge for more than ten minutes .', 'labels': [[(1, 2), (2, 3), 'NEG'], [(5, 6), (6, 7), 'NEG'], [(18, 19), (15, 16), 'NEG']]}
+{'sentence': 'After the warrenty expired the hard drive went bad and it would have cost more to fix then to replace .', 'labels': [[(5, 7), (8, 9), 'NEG']]}
+{'sentence': 'The neat and organized icon list is a welcome change from cluttered and confusing desktop icons .', 'labels': [[(4, 6), (1, 2), 'POS'], [(4, 6), (3, 4), 'POS'], [(4, 6), (8, 9), 'POS'], [(14, 16), (11, 12), 'NEG'], [(14, 16), (13, 14), 'NEG']]}
+{'sentence': 'Apparently well -- built and gorgeous to look at , the i5 MacBook Pro is a winning combination of price and performance .', 'labels': [[(19, 20), (16, 17), 'POS'], [(21, 22), (16, 17), 'POS'], [(3, 4), (1, 2), 'POS'], [(7, 8), (5, 6), 'POS']]}
+{'sentence': 'The apple care has never failed me , and I expect it to be the same for this computer as well .', 'labels': [[(1, 3), (4, 6), 'POS']]}
+{'sentence': 'The Toshiba laptop I am using is easier to use than most I have tried .', 'labels': [[(9, 10), (7, 8), 'POS']]}
+{'sentence': 'I love the size , keyboard , the functions .', 'labels': [[(3, 4), (1, 2), 'POS'], [(5, 6), (1, 2), 'POS'], [(8, 9), (1, 2), 'POS']]}
+{'sentence': 'the mouse is way way way too sensitive .', 'labels': [[(1, 2), (6, 8), 'NEG']]}
+{'sentence': 'Also , I issued a replacement RMA for a few dead pixels in the upper zone of the screen , which is noticable to me .', 'labels': [[(18, 19), (22, 23), 'NEG']]}
+{'sentence': 'My friend reports the notebook is astonishing in performance , picture quality , and ease of use .', 'labels': [[(8, 9), (6, 7), 'POS'], [(10, 12), (6, 7), 'POS'], [(16, 17), (14, 15), 'POS']]}
+{'sentence': "the i3 processor does n't seem to run hot and the fan rarely turns on .", 'labels': [[(1, 3), (3, 9), 'POS'], [(11, 12), (12, 15), 'POS']]}
+{'sentence': 'See when it comes to laptops you buy it and get just a normal operating system with trials of must need stuff that should come with it .', 'labels': [[(14, 16), (13, 14), 'NEU']]}
+{'sentence': "The only thing I do n't understand is that the resolution of the screen is n't high enough for some pages , such as Yahoo ! Mail .", 'labels': [[(10, 14), (14, 18), 'NEG']]}
+{'sentence': 'very convenient when you travel and the battery life is excellent ...', 'labels': [[(7, 9), (10, 11), 'POS']]}
+{'sentence': 'The machine is slow to boot up and occasionally crashes completely .', 'labels': [[(5, 7), (3, 4), 'NEG'], [(5, 7), (9, 10), 'NEG']]}
+{'sentence': 'the screen brightness automatically adjusts .', 'labels': [[(1, 3), (3, 5), 'NEU']]}
+{'sentence': 'Besides the great look , it is a great machine .', 'labels': [[(3, 4), (2, 3), 'POS']]}
+{'sentence': "The sound is a bit quiet if you 're on a plane , this can easily be overcome with a decent pair of head phones .", 'labels': [[(1, 2), (5, 6), 'NEG']]}
+{'sentence': 'Right size and weight for portability .', 'labels': [[(1, 2), (0, 1), 'POS'], [(3, 4), (0, 1), 'POS'], [(5, 6), (0, 1), 'POS']]}
+{'sentence': "The battery life also does n't keep up with the claim but still I think macbook is much ahead from the rest of the pack .", 'labels': [[(1, 3), (4, 11), 'NEG'], [(1, 3), (17, 19), 'NEG']]}
+{'sentence': 'The reflectiveness of the display is only a minor inconvenience if you work in a controlled-lighting environment like me ( I prefer it dark ) or if you can crank up the brightness .', 'labels': [[(4, 5), (8, 10), 'NEG'], [(32, 33), (29, 31), 'NEU']]}
+{'sentence': "My one complaint with this laptop is that I 've noticed an electronic fuzz sound coming out of the headphone jack when headphones are plugged in .", 'labels': [[(12, 15), (2, 3), 'NEG'], [(19, 21), (2, 3), 'NEG']]}
+{'sentence': 'While it was highly rated , would I like it ? I tried the keyboard at the store , and it seemed ok .', 'labels': [[(14, 15), (22, 23), 'NEU']]}
+{'sentence': 'Treat yourself to a more expensive , long-lasting laptop of quality like a Sony , Apple , or Toshiba .', 'labels': [[(10, 11), (7, 8), 'POS']]}
+{'sentence': '( No problem with the ordering or shipping by the way .', 'labels': [[(7, 8), (1, 3), 'POS']]}
+{'sentence': 'And the ram ( the thing that makes it faster ) comes sporting 2 gigs for high performance to handle more stuff at once and surf the web a whole lot faster than before .', 'labels': [[(2, 3), (9, 10), 'POS'], [(17, 18), (16, 17), 'POS'], [(25, 28), (31, 32), 'POS']]}
+{'sentence': 'I edit and burn to DVD a lot of video , so I obviously could not live with a non-functioning drive .', 'labels': [[(20, 21), (14, 17), 'NEG'], [(20, 21), (19, 20), 'NEG']]}
+{'sentence': 'Fast , great visual !', 'labels': [[(3, 4), (0, 1), 'POS'], [(3, 4), (2, 3), 'POS']]}
+{'sentence': "It 's priced very reasonable and works very well right out of the box .", 'labels': [[(2, 3), (4, 5), 'POS'], [(6, 7), (8, 9), 'POS']]}
+{'sentence': 'while the keyboard itself is alright , the plate around it is cheap plastic and makes a hollow sound when using the mouse command buttons .', 'labels': [[(2, 3), (5, 6), 'POS'], [(8, 9), (12, 13), 'NEG'], [(22, 25), (17, 19), 'NEG']]}
+{'sentence': 'There are so many wonderful features and benefits to the new MacBook !', 'labels': [[(5, 6), (4, 5), 'POS'], [(5, 6), (7, 8), 'POS']]}
+{'sentence': 'The only thing i can say is that the touch pad doesnt work like it should all the time .', 'labels': [[(9, 11), (11, 13), 'NEG']]}
+{'sentence': "For some odd reasons the computer does n't recognize the operation system .", 'labels': [[(10, 12), (6, 9), 'NEG']]}
+{'sentence': 'The trackpad was easy to learn and navigate .', 'labels': [[(1, 2), (3, 4), 'POS']]}
+{'sentence': 'Applications open in seconds and there are no lags , hiccups or awkward moments when you wonder whether your computer is out for tea .', 'labels': [[(0, 1), (1, 4), 'POS']]}
+{'sentence': 'I respond that I do not have the old computer and this way I would lose the data on my hard drive .', 'labels': [[(20, 22), (15, 16), 'NEG']]}
+{'sentence': 'Again in February my computer completely failed to the point that it could not load Windows so I contacted Acer to get it fixed thru my Warrenty and it took about 3 days fighting on the phone with agents and it seemed as though NONE of them spoke English .', 'labels': [[(15, 16), (6, 7), 'NEU'], [(15, 16), (12, 15), 'NEU']]}
+{'sentence': 'Even though the computer is larger they did not make the keyboard larger .', 'labels': [[(11, 12), (8, 9), 'NEG'], [(11, 12), (12, 13), 'NEG']]}
+{'sentence': 'Its not just slow on the internet , its slow in general .', 'labels': [[(6, 7), (3, 4), 'NEG']]}
+{'sentence': 'It has just enough RAM to run smoothly and enough memory to satisfy my needs .', 'labels': [[(4, 5), (3, 4), 'POS'], [(10, 11), (7, 8), 'POS'], [(10, 11), (9, 10), 'POS']]}
+{'sentence': 'I acually believe the issue is with the Nvidia grafics card , but still requires a return .', 'labels': [[(8, 11), (4, 5), 'NEG']]}
+{'sentence': 'It is VERY easy to type on and feels great - besides the added feature that the keyboard is lighted .', 'labels': [[(17, 18), (19, 20), 'POS'], [(14, 15), (13, 14), 'POS'], [(5, 6), (3, 4), 'POS'], [(5, 6), (9, 10), 'POS']]}
+{'sentence': 'The feel of this machine compared to the old MacBook is far superior .', 'labels': [[(1, 2), (12, 13), 'POS']]}
+{'sentence': "In due course , I 'll remove the hard disc from this new MacBook Pro and dump it where it belongs - in the trash .", 'labels': [[(8, 10), (6, 7), 'NEG']]}
+{'sentence': "They break down just as often as PCs do , and the only reason they do n't get viruses , is because no one makes viruses for them , they 're not better in any way , they are worse , try finding virus protection programs for a Mac , they do n't exist .", 'labels': [[(43, 49), (31, 33), 'NEG'], [(43, 49), (39, 40), 'NEG']]}
+{'sentence': "The overall build quality of the unit is excellent and she 'd recommend it to anyone else looking for a netbook .", 'labels': [[(2, 4), (8, 9), 'POS'], [(2, 4), (12, 13), 'POS']]}
+{'sentence': 'The repairs were made quickly though I must say , however the second time they shipped it to the incorrect address and it took nearly a week for them to get it to me .', 'labels': [[(15, 16), (19, 20), 'NEG']]}
+{'sentence': 'It is fast and i have not had a problem with internet connection or any other problems .', 'labels': [[(11, 13), (2, 3), 'POS'], [(11, 13), (6, 10), 'POS']]}
+{'sentence': "I 'm really impressed with the quality and performance for the price of the computer .", 'labels': [[(6, 7), (3, 4), 'POS'], [(8, 9), (3, 4), 'POS'], [(11, 12), (3, 4), 'POS']]}
+{'sentence': 'It is so simple to use , I use it more than my desktop .', 'labels': [[(5, 6), (3, 4), 'POS']]}
+{'sentence': 'I also had a problem with the touchpad that caused the mouse pointer to jump all over the screen .', 'labels': [[(7, 8), (4, 5), 'NEG'], [(18, 19), (4, 5), 'NEU'], [(11, 13), (4, 5), 'NEG']]}
+{'sentence': 'EITHER WAY , THE KEYBOARD IS UNSATISFACTORY .', 'labels': [[(4, 5), (6, 8), 'NEG']]}
+{'sentence': "Well , I have to say since I bought my Mac , I wo n't ever go back to any Windows .", 'labels': [[(20, 21), (13, 18), 'NEG']]}
+{'sentence': 'I took it in to the Apple store and guess what ? They fixed it , no cost out of pocket .', 'labels': [[(17, 18), (16, 17), 'NEG']]}
+{'sentence': 'The quality , engineering design and warranty are superior -- covers damage from dropping the laptop .', 'labels': [[(1, 2), (8, 9), 'POS'], [(3, 5), (8, 9), 'POS'], [(6, 7), (8, 9), 'POS']]}
+{'sentence': 'The applications are also very easy to find and maneuver , much easier than any other computer I have ever owned .', 'labels': [[(1, 2), (5, 6), 'POS'], [(1, 2), (12, 13), 'POS']]}
+{'sentence': 'The large screen gives you the option to comfortably watch movies or TV shows on your computer instead of buying an additional TV for your dorm room .', 'labels': [[(2, 3), (1, 2), 'POS']]}
+{'sentence': 'Great laptop for school , easy to use for beginners in the household .', 'labels': [[(7, 8), (5, 6), 'POS']]}
+{'sentence': '4 ) Laptop still did not work , blue screen within a week ...', 'labels': [[(6, 7), (5, 6), 'NEG']]}
+{'sentence': "The only thing that is n't perfect about this netbook is the speakers , they are not loud at all but I expected that .", 'labels': [[(12, 13), (4, 7), 'NEG'], [(12, 13), (16, 18), 'NEG']]}
+{'sentence': 'Of course , I inspected the other netbooks and clearly their hinges are tighter and I even demonstrate the difference between my netbook and others .', 'labels': [[(11, 12), (9, 10), 'NEG'], [(11, 12), (13, 14), 'NEG']]}
+{'sentence': "Did n't work when shipped from Walmart.com but went into a store and exchanged for a working laptop ( same make/model ) .", 'labels': [[(2, 3), (0, 2), 'NEG']]}
+{'sentence': 'All of the programs ( Keynote , Pages , Numbers ) have an option to save your documents as Microsoft compatible , which really eliminates the need for the actual .', 'labels': [[(9, 10), (24, 25), 'NEU']]}
+{'sentence': 'Sure , the initial out of pocket expense is greater , but that should not dissuade anyone from the fact that these machines run like none other on the planet , and when I factor in all the money in that I wasted on Geek Squad and the latest patches to de-corrupt my infested PCs , it probably comes out about even anyhow .', 'labels': [[(7, 8), (9, 10), 'NEG']]}
+{'sentence': "The best thing to do is build your own computer , but if u ca n't company 's like dell who allow you to choose the components are better and for the same price you can get a computer who compares to one of apple $ 2000 systems and if you google `` dell coupons '' you can find codes that take a significant amount off the price .", 'labels': [[(26, 27), (28, 29), 'POS']]}
+{'sentence': 'There is no cd drive on the computer , which defeats the purpose of keeping files on a cd .', 'labels': [[(3, 5), (2, 3), 'NEG']]}
+{'sentence': "Unfortunately , Apple 's quality has continued to slide .", 'labels': [[(4, 5), (0, 1), 'NEG'], [(4, 5), (8, 9), 'NEG']]}
+{'sentence': 'I believe that the quality of a mac is worth the price .', 'labels': [[(4, 5), (9, 10), 'POS'], [(11, 12), (9, 10), 'POS']]}
+{'sentence': 'sometimes you will be moving your finger and the pointer will not even move .', 'labels': [[(9, 10), (11, 14), 'NEG']]}
+{'sentence': "The 13 '' Macbook Pro just fits in my budget and with free shipping and no tax to CA this is the best price we can get for a great product .", 'labels': [[(13, 14), (12, 13), 'POS'], [(23, 24), (22, 23), 'POS'], [(9, 10), (6, 7), 'POS']]}
+{'sentence': 'I would rate this computer at 5 stars , but considering it has a short life span I can only give it 1 and implore anyone looking at laptops to stay away from this machine .', 'labels': [[(15, 17), (14, 15), 'NEG']]}
+{'sentence': 'I also love the design , the looks , the feel , and the my toshiba feature is wonderfull .', 'labels': [[(4, 5), (2, 3), 'POS'], [(7, 8), (2, 3), 'POS'], [(10, 11), (2, 3), 'POS'], [(14, 17), (18, 19), 'POS']]}
+{'sentence': 'Also it is very good for college students who just need a reliable , easy to use computer .', 'labels': [[(16, 17), (4, 5), 'POS'], [(16, 17), (12, 13), 'POS'], [(16, 17), (14, 15), 'POS']]}
+{'sentence': 'Only other thing is that if you are using this for document creation Apple doesnt provide any kind of word processor ( such as works for windows ) , but iwork is cheap compared to office .', 'labels': [[(30, 31), (32, 33), 'POS'], [(19, 21), (14, 16), 'NEG']]}
+{'sentence': 'It is light and the battery last a very long time .', 'labels': [[(5, 6), (9, 10), 'POS']]}
+{'sentence': 'And at one point , they blame me for installing a bad memory stick when I upgrade my memory for the first time during my purchase of the laptop ( I bought the memory stick they recomended ) .', 'labels': [[(12, 14), (11, 12), 'NEU']]}
+{'sentence': 'Externally the keys on my keyboard are falling off , after a few uses the paint is rubbing off the button below the mouse pad and where the heals of my hands sit , and the screen has a terrible glare .', 'labels': [[(2, 3), (7, 9), 'NEG'], [(5, 6), (7, 9), 'NEG'], [(20, 25), (17, 19), 'NEG'], [(36, 37), (39, 41), 'NEG'], [(15, 16), (17, 19), 'NEG']]}
+{'sentence': "The next time I had an issue my lightscribe would n't work .", 'labels': [[(8, 9), (9, 12), 'NEG']]}
+{'sentence': 'The touchpad is extremely sensitive , which is the only drawback .', 'labels': [[(1, 2), (4, 5), 'NEG'], [(1, 2), (10, 11), 'NEG']]}
+{'sentence': 'also it comes with very useful applications like iphoto that it is the best photo application i have ever had', 'labels': [[(6, 7), (5, 6), 'POS'], [(8, 9), (5, 6), 'POS'], [(8, 9), (13, 14), 'POS'], [(14, 16), (13, 14), 'POS']]}
+{'sentence': 'The acer one computer that I bought is 17 ince screen and its hard to find lap top bags for it , but I like the big screen on it .', 'labels': [[(8, 11), (13, 14), 'NEU'], [(27, 28), (24, 25), 'POS'], [(27, 28), (26, 27), 'POS']]}
+{'sentence': 'I can have both OSX and Windows XP running at the same time !', 'labels': [[(4, 5), (3, 4), 'POS'], [(6, 8), (3, 4), 'POS']]}
+{'sentence': 'Microsoft seems to be unable to keep up with repairs for the multitude of windows problems .', 'labels': [[(14, 15), (15, 16), 'NEG']]}
+{'sentence': 'You can call HP and they want you to buy more software to fix it .', 'labels': [[(11, 12), (13, 14), 'NEU']]}
+{'sentence': 'It is easy to navigate and update programs .', 'labels': [[(6, 8), (2, 3), 'NEU'], [(4, 5), (2, 3), 'POS']]}
+{'sentence': 'All in all , a very disappointing experience except that I learned how good the Geek Squad is and also Customer Service .', 'labels': [[(20, 22), (6, 7), 'POS']]}
+{'sentence': 'The laptop is very lightweight , can easily carry around in a knapsack full of text books and it barely adds any weight .', 'labels': [[(8, 9), (7, 8), 'POS'], [(22, 23), (4, 5), 'POS'], [(22, 23), (19, 21), 'POS']]}
+{'sentence': 'I also did not like the loud noises it made or how the bottom of the computer would get really hot .', 'labels': [[(7, 8), (3, 5), 'NEG'], [(7, 8), (6, 7), 'NEG'], [(13, 17), (20, 21), 'NEG']]}
+{'sentence': 'I had in the past a Dell laptop and they sent me the items it needed or they sent a repair technician to my house to fix it .', 'labels': [[(20, 22), (26, 27), 'POS']]}
+{'sentence': 'defective software .', 'labels': [[(1, 2), (0, 1), 'NEG']]}
+{'sentence': 'This computer was so challenging to carry and handle .', 'labels': [[(6, 7), (4, 5), 'NEG'], [(8, 9), (4, 5), 'NEG']]}
+{'sentence': 'Cords coming out the right for power plus cords coming out front for headphones/mic plus network connection on left make for a very messy setup with cords going every direction .', 'labels': [[(24, 25), (23, 24), 'NEG']]}
+{'sentence': "Unless you want to be inconvenienced with a non working power supply which you ca n't find a replacement for because they made the attachment so small .", 'labels': [[(10, 12), (5, 6), 'NEG'], [(10, 12), (8, 10), 'NEG']]}
+{'sentence': 'It is much faster than my desktop which is a Core2 Quad running at 2.83 GHz .', 'labels': [[(10, 12), (3, 4), 'NEU']]}
+{'sentence': 'It is good to know that I can mobilize without having to worry about the battery life .', 'labels': [[(15, 17), (9, 14), 'POS']]}
+{'sentence': 'The screen is nice , side view angles are pretty good .', 'labels': [[(1, 2), (3, 4), 'POS'], [(1, 2), (10, 11), 'POS']]}
+{'sentence': "The fact that the screen reacts to the lighting around you is an added luxury -when you are working around others in dark areas and want privacy or do n't want to bother them with bright lighting , it is very convenient to have a darker , softer lit screen .", 'labels': [[(4, 5), (13, 15), 'POS'], [(49, 50), (47, 49), 'POS']]}
+{'sentence': '3 weeks went by and the computer keeps crashing and will not open any applications .', 'labels': [[(14, 15), (8, 9), 'NEU'], [(14, 15), (11, 13), 'NEU']]}
+{'sentence': 'Looks nice , but has a horribly cheap feel .', 'labels': [[(8, 9), (6, 8), 'NEG'], [(0, 1), (1, 2), 'POS']]}
+{'sentence': 'The feel of this is better than the Toshiba , too .', 'labels': [[(1, 2), (5, 6), 'POS']]}
+{'sentence': 'I would recommend this laptop to anyone looking to get a new laptop who is willing to spend a little more money to get great quality !', 'labels': [[(25, 26), (2, 3), 'POS'], [(25, 26), (24, 25), 'POS']]}
+{'sentence': 'I upgraded the memory and replaced the base Windows 7 Starter to Win 7 Home , and it runs just fine .', 'labels': [[(3, 4), (1, 2), 'NEU'], [(3, 4), (20, 21), 'NEU'], [(8, 11), (5, 6), 'NEU'], [(12, 15), (20, 21), 'NEU'], [(18, 19), (20, 21), 'POS']]}
+{'sentence': 'I am not sure if it was the drive itself , however ;', 'labels': [[(8, 9), (2, 4), 'NEU']]}
+{'sentence': "Also , one of the users mentioned how the edges on the macbook is sharp , if you have money to spend on one of the incase shells , it does n't seem to be a problem .", 'labels': [[(9, 10), (14, 15), 'NEG']]}
+{'sentence': 'It is easy to use , its keyboard easily accommodates large hands , and its weight is fantastic .', 'labels': [[(7, 8), (8, 10), 'POS'], [(15, 16), (17, 18), 'POS'], [(4, 5), (2, 3), 'POS']]}
+{'sentence': 'Called Acer many times , they want me to pay the shipping to ship it to their repair center - I was very disappointed since it is a brand new computer !', 'labels': [[(11, 12), (23, 24), 'NEG'], [(17, 19), (23, 24), 'NEU']]}
+{'sentence': 'The battery is really long .', 'labels': [[(1, 2), (4, 5), 'POS']]}
+{'sentence': 'Had some trouble finding a case that it would fit in .', 'labels': [[(5, 6), (2, 3), 'NEG']]}
+{'sentence': 'This computer that I have has had issues with the keyboard where it lost half the keyboard functions .', 'labels': [[(10, 11), (7, 8), 'NEG'], [(16, 18), (13, 14), 'NEG']]}
+{'sentence': 'When I called Sony the Customer Service was Great .', 'labels': [[(5, 7), (8, 10), 'POS']]}
+{'sentence': 'It is a much more streamlined system for adding programs , using the internet , and doing other things everyone does on a computer .', 'labels': [[(9, 10), (8, 9), 'NEU'], [(6, 7), (5, 6), 'POS'], [(11, 14), (5, 6), 'NEU']]}
+{'sentence': 'My computer froze on several occasion , had buttons that randomely would fall off and even had moments when the computer would refuse to turn on at all .', 'labels': [[(8, 9), (12, 14), 'NEG']]}
+{'sentence': 'Not even safe mode boots .', 'labels': [[(2, 4), (0, 1), 'NEG']]}
+{'sentence': 'This is an over-sized , 18-inch laptop .', 'labels': [[(5, 6), (3, 4), 'NEG']]}
+{'sentence': 'I had to pay $ 100 for a universal charger for this cheap $ 300 laptop .', 'labels': [[(8, 10), (12, 13), 'NEG']]}
+{'sentence': 'The powerpoint opened seamlessly in the apple and the mac hooked up to the projector so easily it was almost scary .', 'labels': [[(1, 2), (3, 4), 'POS']]}
+{'sentence': "1.You can not change your desktop background ( window 's 7 starter does NOT support that function ) .", 'labels': [[(5, 7), (1, 4), 'NEG'], [(8, 12), (13, 15), 'NEG'], [(16, 17), (13, 15), 'NEG']]}
+{'sentence': 'Then after 4 or so months the charger stopped working so I was forced to go out and buy new hardware just to keep this computer running .', 'labels': [[(7, 8), (8, 10), 'NEG'], [(20, 21), (19, 20), 'NEG']]}
+{'sentence': 'Strengths : Well -- shaped Weaknesses : A bad videocard !', 'labels': [[(9, 10), (5, 6), 'NEG'], [(9, 10), (8, 9), 'NEG'], [(4, 5), (2, 3), 'POS']]}
+{'sentence': "You ca n't even get a satellite card which is why I bought to begin with .", 'labels': [[(6, 8), (1, 5), 'NEG']]}
+{'sentence': 'It is a REAL touchpad , not the toy I saw in other brands .', 'labels': [[(4, 5), (3, 4), 'POS']]}
+{'sentence': 'Price and purpose is awesome !', 'labels': [[(0, 1), (4, 5), 'POS']]}
+{'sentence': 'Wonderful zooming .', 'labels': [[(1, 2), (0, 1), 'POS']]}
+{'sentence': 'The screen is huge and colorful , but no LED backlighting .', 'labels': [[(1, 2), (3, 4), 'POS'], [(1, 2), (5, 6), 'POS'], [(1, 2), (8, 11), 'POS']]}
+{'sentence': 'In all honesty , if someone is looking for a quality laptop and willing to pay a little more money for a normal sized laptop than a cheaper and less impressive laptop , then do not buy this computer .', 'labels': [[(23, 24), (22, 23), 'NEU']]}
+{'sentence': 'Everything about this computer is easy to use .', 'labels': [[(7, 8), (5, 6), 'POS']]}
+{'sentence': 'Worse , for the price I could get a *netbook* that outperforms this machine .', 'labels': [[(4, 5), (0, 1), 'NEG']]}
+{'sentence': 'Keyboard was also very nice and had a solid feel .', 'labels': [[(0, 1), (4, 5), 'POS'], [(0, 1), (8, 9), 'POS']]}
+{'sentence': 'It did not have all the features I expected it to have .', 'labels': [[(6, 7), (1, 4), 'NEG']]}
+{'sentence': 'No luck , although I waited for hours on the phone-Visited MacHouse , they stated the their call center is down due to too many phonecalls ( difficult to believe ) .', 'labels': [[(17, 19), (20, 21), 'NEG']]}
+{'sentence': 'There is a backlit keyboard which is perfect for typing in the dark .', 'labels': [[(3, 5), (7, 8), 'POS']]}
+{'sentence': 'It has a lot of memory and a great battery life .', 'labels': [[(5, 6), (2, 5), 'POS'], [(9, 11), (8, 9), 'POS']]}
+{'sentence': "I spoke with a service rep at Micro Center and his girlfriend is having the same problem with her power adapter , so it 's not just an isolated incident ! ! !", 'labels': [[(19, 21), (16, 17), 'NEG']]}
+{'sentence': 'I love this program , it is superior to windows movie maker .', 'labels': [[(3, 4), (1, 2), 'POS'], [(3, 4), (7, 8), 'POS']]}
+{'sentence': 'He has replaced his hard drive twice and ( of course ) has had to pay for antivirus software every year .', 'labels': [[(4, 6), (2, 3), 'NEG']]}
+{'sentence': 'This purchase opened me to the world of Macbooks , and I am impressed with the intuition of the design , the beauty of the product , and the excellent technological advances associated with it .', 'labels': [[(19, 20), (13, 14), 'POS'], [(22, 23), (13, 14), 'POS']]}
+{'sentence': 'The price is great for this model , I only plan on using it for media in the entertainment room .', 'labels': [[(1, 2), (3, 4), 'POS']]}
+{'sentence': "I 've also had to have the keyboard replaced at my expense .", 'labels': [[(7, 8), (8, 9), 'NEG']]}
+{'sentence': "I had the staff telling me older version did not make the fan noise cause it is a `` different '' computer .", 'labels': [[(12, 14), (8, 11), 'NEG']]}
+{'sentence': 'Even out of warranty !', 'labels': [[(3, 4), (1, 3), 'NEU']]}
+{'sentence': 'Crisp screen , great battery life , and plenty of storage .', 'labels': [[(1, 2), (0, 1), 'POS'], [(4, 6), (3, 4), 'POS'], [(10, 11), (8, 10), 'POS']]}
+{'sentence': 'Also , my sister got the exact same laptop ( since they were so cheap ) and after 8 months , the screen split in half just from everyday use .', 'labels': [[(22, 23), (23, 24), 'NEG']]}
+{'sentence': 'The Toshiba Satellite has been more than I expected for the price .', 'labels': [[(11, 12), (5, 9), 'POS']]}
+{'sentence': 'I had to adjust my mousepad sensitivity , because it is very sensitive .', 'labels': [[(5, 7), (12, 13), 'NEG']]}
+{'sentence': 'Keyboard is plastic and spongey feeling .', 'labels': [[(0, 1), (2, 3), 'NEG'], [(0, 1), (4, 6), 'NEG']]}
+{'sentence': "previous laptops were pc 's , still have them , but the mac osx is a clean and smooth operating system .", 'labels': [[(12, 14), (16, 17), 'POS'], [(12, 14), (18, 19), 'POS'], [(19, 21), (16, 17), 'POS'], [(19, 21), (18, 19), 'POS']]}
+{'sentence': 'i also love having the extra calculator number set up on the keyboard which most laptops do not have .', 'labels': [[(12, 13), (2, 3), 'POS']]}
+{'sentence': 'I love my Apple , it is quick and easy to use .', 'labels': [[(11, 12), (1, 2), 'POS'], [(11, 12), (7, 8), 'POS'], [(11, 12), (9, 10), 'POS']]}
+{'sentence': 'The laptop is relatively simple to use , though I bought Macs for Dummies , which is well worth $ 2', 'labels': [[(6, 7), (4, 5), 'POS'], [(6, 7), (18, 19), 'POS']]}
+{'sentence': 'No tutorials on the display .', 'labels': [[(1, 2), (0, 1), 'NEG']]}
+{'sentence': 'The touch pad is among the best .', 'labels': [[(1, 3), (6, 7), 'POS']]}
+{'sentence': 'We also use Paralles so we can run virtual machines of Windows XP Professional , Windows 7 Home Premium , Windows Server Enterprise 2003 , and Windows Server 2008 Enterprise .', 'labels': [[(3, 4), (2, 3), 'NEU'], [(11, 14), (7, 8), 'NEU'], [(15, 19), (7, 8), 'NEU'], [(20, 24), (7, 8), 'NEU'], [(26, 30), (7, 8), 'NEU']]}
+{'sentence': 'How Toshiba handles the repair seems to vary , some folks indicate that they were charged for even an intial fix , others had the repair done 5 times .', 'labels': [[(4, 5), (7, 8), 'POS']]}

@@ -1,10 +1,7 @@
 # TripletAndQuadruplet
 情感三元组、四元组数据集整理（doing）
 
-```xml
-D:.
-│  list.txt
-│  
+```bash
 ├─ASQE
 │  ├─v1
 │  │      labels.csv

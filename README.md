@@ -1,6 +1,10 @@
 # TripletAndQuadruplet
 情感三元组、四元组数据集整理（doing）
 
+```xml
+D:.
+│  list.txt
+│  
 ├─ASQE
 │  ├─v1
 │  │      labels.csv
@@ -159,3 +163,5 @@
                 dev.jsonl
                 test.jsonl
                 train.jsonl
+
+```
